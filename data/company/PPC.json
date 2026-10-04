@@ -1,0 +1,23 @@
+{
+  "ticker": "PPC",
+  "qid": "Q19876921",
+  "fetchedAt": "2026-10-04T21:42:56.225165Z",
+  "source": "wikidata",
+  "name": "Peet",
+  "description": "Australian real estate development company",
+  "website": "http://www.peet.com.au/",
+  "isin": null,
+  "inception": "1895-01-01",
+  "employees": null,
+  "industry": "Real Estate Company",
+  "headquarters": "Perth",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "James Peet"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

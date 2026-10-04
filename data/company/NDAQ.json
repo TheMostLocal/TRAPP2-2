@@ -1,0 +1,34 @@
+{
+  "ticker": "NDAQ",
+  "qid": "Q1472929",
+  "fetchedAt": "2026-10-04T22:08:01.437693Z",
+  "source": "wikidata",
+  "name": "Nasdaq, Inc.",
+  "description": "American multinational financial technology services corporation",
+  "website": "http://business.nasdaq.com/",
+  "isin": "US6311031081",
+  "inception": "1971-01-01",
+  "employees": 8809,
+  "industry": "fintech",
+  "headquarters": "New York City",
+  "executives": [
+    {
+      "name": "Adena Friedman",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "stock exchange"
+    },
+    {
+      "name": "fintech"
+    },
+    {
+      "name": "derivative"
+    }
+  ],
+  "countries": []
+}

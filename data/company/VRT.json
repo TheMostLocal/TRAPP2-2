@@ -1,0 +1,46 @@
+{
+  "ticker": "VRT",
+  "qid": "Q5370909",
+  "fetchedAt": "2026-10-04T21:35:46.436531Z",
+  "source": "wikidata",
+  "name": "Vertiv",
+  "description": "Multinational provider of critical infrastructure and services for data centers, communication networks, and commercial and industrial environments",
+  "website": "https://www.vertiv.com/",
+  "isin": "US92537N1081",
+  "inception": "1965-01-01",
+  "employees": 31000,
+  "industry": "electrical industry",
+  "headquarters": "Westerville",
+  "executives": [
+    {
+      "name": "Giordano Albertazzi",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "David M. Cote",
+      "role": "Chairperson"
+    }
+  ],
+  "board": [],
+  "founders": [
+    {
+      "name": "Ralph Liebert"
+    }
+  ],
+  "products": [
+    {
+      "name": "thermal management of electronic devices and systems"
+    },
+    {
+      "name": "power management"
+    },
+    {
+      "name": "IT infrastructure"
+    }
+  ],
+  "countries": [
+    {
+      "name": "worldwide"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ticker": "DAN",
+  "qid": "Q1269766",
+  "fetchedAt": "2026-10-04T21:38:25.058241Z",
+  "source": "wikidata",
+  "name": "Technical University of Denmark",
+  "description": "university in the town Kongens Lyngby",
+  "website": "https://www.dtu.dk/",
+  "isin": null,
+  "inception": "1829-01-27",
+  "employees": 5800,
+  "industry": null,
+  "headquarters": "Kongens Lyngby",
+  "executives": [],
+  "board": [
+    {
+      "name": "Henrik Clausen",
+      "role": "Board Member"
+    },
+    {
+      "name": "Per Falholt",
+      "role": "Board Member"
+    },
+    {
+      "name": "Hanne S\u00f8ndergaard",
+      "role": "Board Member"
+    },
+    {
+      "name": "Susanne Juhl",
+      "role": "Board Member"
+    },
+    {
+      "name": "Eva Berneke",
+      "role": "Board Member"
+    },
+    {
+      "name": "Tobias Colding",
+      "role": "Board Member"
+    }
+  ],
+  "founders": [
+    {
+      "name": "Hans Christian \u00d8rsted"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

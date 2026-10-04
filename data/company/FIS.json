@@ -1,0 +1,24 @@
+{
+  "ticker": "FIS",
+  "qid": "Q49087",
+  "fetchedAt": "2026-10-04T21:48:57.331479Z",
+  "source": "wikidata",
+  "name": "Fisk University",
+  "description": "historically black university in Nashville, Tennessee, US",
+  "website": "https://www.fisk.edu/",
+  "isin": null,
+  "inception": "1866-01-01",
+  "employees": 216,
+  "industry": "higher education",
+  "headquarters": null,
+  "executives": [
+    {
+      "name": "Kevin D. Rome",
+      "role": "Chairperson"
+    }
+  ],
+  "board": [],
+  "founders": [],
+  "products": [],
+  "countries": []
+}

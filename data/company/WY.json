@@ -1,0 +1,32 @@
+{
+  "ticker": "WY",
+  "qid": "Q1780382",
+  "fetchedAt": "2026-10-04T22:08:16.537476Z",
+  "source": "wikidata",
+  "name": "Weyerhaeuser",
+  "description": "American timber company",
+  "website": "http://www.weyerhaeuser.com/",
+  "isin": "US9621661043",
+  "inception": "1900-01-01",
+  "employees": 13200,
+  "industry": "pulp and paper industry",
+  "headquarters": "Federal Way",
+  "executives": [],
+  "board": [
+    {
+      "name": "Mark Emmert",
+      "role": "Board Member"
+    }
+  ],
+  "founders": [
+    {
+      "name": "Friedrich Weyerh\u00e4user"
+    }
+  ],
+  "products": [
+    {
+      "name": "forest product"
+    }
+  ],
+  "countries": []
+}

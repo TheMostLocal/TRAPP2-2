@@ -1,0 +1,37 @@
+{
+  "ticker": "BIIB",
+  "qid": "Q864338",
+  "fetchedAt": "2026-10-04T21:59:59.012661Z",
+  "source": "wikidata",
+  "name": "Biogen",
+  "description": "American multinational biotechnology company",
+  "website": "https://www.biogen.com/",
+  "isin": "US09062X1037",
+  "inception": "1978-01-01",
+  "employees": null,
+  "industry": "pharmaceutical industry",
+  "headquarters": "Cambridge",
+  "executives": [
+    {
+      "name": "Michel Vounatsos",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [],
+  "founders": [
+    {
+      "name": "Phillip Sharp"
+    },
+    {
+      "name": "Walter Gilbert"
+    },
+    {
+      "name": "Charles Weissmann"
+    },
+    {
+      "name": "Kenneth Murray"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

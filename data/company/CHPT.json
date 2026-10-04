@@ -1,0 +1,81 @@
+{
+  "ticker": "CHPT",
+  "qid": "Q5176149",
+  "fetchedAt": "2026-10-04T22:07:23.720022Z",
+  "source": "wikidata",
+  "name": "ChargePoint",
+  "description": "electric vehicle infrastructure company",
+  "website": "https://chargepoint.com",
+  "isin": "US15961R1059",
+  "inception": "2007-01-01",
+  "employees": null,
+  "industry": "electric vehicle charging network",
+  "headquarters": null,
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "electric vehicle charging network"
+    },
+    {
+      "name": "charging station"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Puerto Rico"
+    },
+    {
+      "name": "France"
+    },
+    {
+      "name": "Germany"
+    },
+    {
+      "name": "Netherlands"
+    },
+    {
+      "name": "Mexico"
+    },
+    {
+      "name": "Switzerland"
+    },
+    {
+      "name": "Austria"
+    },
+    {
+      "name": "United States"
+    },
+    {
+      "name": "Sweden"
+    },
+    {
+      "name": "Italy"
+    },
+    {
+      "name": "Spain"
+    },
+    {
+      "name": "Belgium"
+    },
+    {
+      "name": "Northern Ireland"
+    },
+    {
+      "name": "Ireland"
+    },
+    {
+      "name": "Wales"
+    },
+    {
+      "name": "Scotland"
+    },
+    {
+      "name": "England"
+    },
+    {
+      "name": "Canada"
+    }
+  ]
+}

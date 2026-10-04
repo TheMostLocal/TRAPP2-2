@@ -1,0 +1,44 @@
+{
+  "ticker": "NOK",
+  "qid": "Q1418",
+  "fetchedAt": "2026-10-04T21:51:23.908176Z",
+  "source": "wikidata",
+  "name": "Nokia",
+  "description": "Finnish multinational telecommunications and information technology company",
+  "website": "https://www.nokia.com/",
+  "isin": "FI0009000681",
+  "inception": "1865-05-12",
+  "employees": 103083,
+  "industry": "electrical appliance",
+  "headquarters": "Espoo",
+  "executives": [
+    {
+      "name": "Justin Hotard",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [],
+  "founders": [
+    {
+      "name": "Leo Mechelin"
+    },
+    {
+      "name": "Fredrik Idestam"
+    }
+  ],
+  "products": [
+    {
+      "name": "software"
+    },
+    {
+      "name": "smartphone"
+    },
+    {
+      "name": "Global System for Mobile Communications"
+    },
+    {
+      "name": "headset"
+    }
+  ],
+  "countries": []
+}

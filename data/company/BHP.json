@@ -1,0 +1,36 @@
+{
+  "ticker": "BHP",
+  "qid": "Q625713",
+  "fetchedAt": "2026-10-04T21:35:16.318025Z",
+  "source": "wikidata",
+  "name": "BHP Group",
+  "description": "Australian multinational mining and metals company",
+  "website": "https://www.bhp.com/",
+  "isin": "AU000000BHP4",
+  "inception": "2001-01-01",
+  "employees": 47044,
+  "industry": "mining industry",
+  "headquarters": "Melbourne",
+  "executives": [
+    {
+      "name": "Mike Henry",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Ken MacKenzie",
+      "role": "Chairperson"
+    }
+  ],
+  "board": [],
+  "founders": [
+    {
+      "name": "William Jamieson"
+    }
+  ],
+  "products": [
+    {
+      "name": "chalcopyrite"
+    }
+  ],
+  "countries": []
+}

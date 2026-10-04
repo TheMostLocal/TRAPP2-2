@@ -1,0 +1,73 @@
+{
+  "ticker": "DASTY",
+  "qid": "Q1172038",
+  "fetchedAt": "2026-10-04T21:48:42.446268Z",
+  "source": "wikidata",
+  "name": "Dassault Syst\u00e8mes",
+  "description": "software company headquartered in V\u00e9lizy-Villacoublay, France",
+  "website": "https://www.3ds.com/",
+  "isin": "FR0000130650",
+  "inception": "1981-01-01",
+  "employees": null,
+  "industry": "electronics industry",
+  "headquarters": "V\u00e9lizy-Villacoublay",
+  "executives": [
+    {
+      "name": "Pascal Daloz",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Bernard Charl\u00e8s",
+      "role": "Chairperson"
+    }
+  ],
+  "board": [
+    {
+      "name": "Marie-H\u00e9l\u00e8ne Habert",
+      "role": "Board Member"
+    },
+    {
+      "name": "Soumitra Dutta",
+      "role": "Board Member"
+    },
+    {
+      "name": "Genevi\u00e8ve Berger",
+      "role": "Board Member"
+    },
+    {
+      "name": "Charles Edelstenne",
+      "role": "Board Member"
+    },
+    {
+      "name": "Bernard Charl\u00e8s",
+      "role": "Board Member"
+    },
+    {
+      "name": "Anne-Laure Chevalier",
+      "role": "Board Member"
+    },
+    {
+      "name": "Olivier Costa de Beauregard",
+      "role": "Board Member"
+    },
+    {
+      "name": "Pascal Daloz",
+      "role": "Board Member"
+    },
+    {
+      "name": "Donatella Sciuto",
+      "role": "Board Member"
+    }
+  ],
+  "founders": [
+    {
+      "name": "Marcel Dassault"
+    }
+  ],
+  "products": [
+    {
+      "name": "software"
+    }
+  ],
+  "countries": []
+}

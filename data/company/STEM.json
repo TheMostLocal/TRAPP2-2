@@ -1,0 +1,24 @@
+{
+  "ticker": "STEM",
+  "qid": "Q12050785",
+  "fetchedAt": "2026-10-04T22:07:02.926464Z",
+  "source": "wikidata",
+  "name": "STEM",
+  "description": "Czech company",
+  "website": "https://en.stem.cz/",
+  "isin": null,
+  "inception": "1990-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": "Prague",
+  "executives": [
+    {
+      "name": "Martin Bucht\u00edk",
+      "role": "Chairperson"
+    }
+  ],
+  "board": [],
+  "founders": [],
+  "products": [],
+  "countries": []
+}

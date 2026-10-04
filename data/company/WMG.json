@@ -1,0 +1,32 @@
+{
+  "ticker": "WMG",
+  "qid": "Q21077",
+  "fetchedAt": "2026-10-04T22:02:59.454850Z",
+  "source": "wikidata",
+  "name": "Warner Music Group",
+  "description": "American multinational entertainment and record label conglomerate",
+  "website": "https://www.wmg.com/",
+  "isin": "US9345502036",
+  "inception": "1958-04-06",
+  "employees": 4520,
+  "industry": "music industry",
+  "headquarters": "New York City",
+  "executives": [
+    {
+      "name": "Stephen Cooper",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Michael Lynton",
+      "role": "Chairperson"
+    }
+  ],
+  "board": [],
+  "founders": [
+    {
+      "name": "Warner Bros. Entertainment"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

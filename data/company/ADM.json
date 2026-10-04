@@ -1,0 +1,23 @@
+{
+  "ticker": "ADM",
+  "qid": "Q358752",
+  "fetchedAt": "2026-10-04T21:42:22.592240Z",
+  "source": "wikidata",
+  "name": "Administrador de Infraestructuras Ferroviarias",
+  "description": "operator of most of Spain's railway infrastructure",
+  "website": "https://www.adif.es/",
+  "isin": null,
+  "inception": "2005-01-01",
+  "employees": 11612,
+  "industry": null,
+  "headquarters": "Madrid",
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [],
+  "countries": [
+    {
+      "name": "peninsular Spain"
+    }
+  ]
+}

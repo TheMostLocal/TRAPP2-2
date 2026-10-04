@@ -1,0 +1,24 @@
+{
+  "ticker": "BK",
+  "qid": "Q7672060",
+  "fetchedAt": "2026-10-04T21:54:29.940602Z",
+  "source": "wikidata",
+  "name": "Faculty of Architecture and the Built Environment",
+  "description": "faculty of Delft University of Technology, the Netherlands",
+  "website": "https://www.tudelft.nl/bk/",
+  "isin": null,
+  "inception": "1842-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": null,
+  "executives": [
+    {
+      "name": "Dick van Gameren",
+      "role": "Chairperson"
+    }
+  ],
+  "board": [],
+  "founders": [],
+  "products": [],
+  "countries": []
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "LPL",
+  "qid": "Q1041858",
+  "fetchedAt": "2026-10-04T21:45:53.899468Z",
+  "source": "wikidata",
+  "name": "Lunar and Planetary Laboratory",
+  "description": "research center at the University of Arizona",
+  "website": "https://www.lpl.arizona.edu/",
+  "isin": null,
+  "inception": "1960-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": null,
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Gerard Kuiper"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

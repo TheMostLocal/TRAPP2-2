@@ -1,0 +1,23 @@
+{
+  "ticker": "AI",
+  "qid": "Q69906",
+  "fetchedAt": "2026-10-04T22:02:14.084069Z",
+  "source": "wikidata",
+  "name": "Air India",
+  "description": "flag-carrier airline of India",
+  "website": "https://www.airindia.com",
+  "isin": null,
+  "inception": "1932-10-15",
+  "employees": 20956,
+  "industry": null,
+  "headquarters": "Gurgaon",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "JRD Tata"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

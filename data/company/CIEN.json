@@ -1,0 +1,23 @@
+{
+  "ticker": "CIEN",
+  "qid": "Q1091783",
+  "fetchedAt": "2026-10-04T21:51:01.954809Z",
+  "source": "wikidata",
+  "name": "Ciena",
+  "description": "telecommunications company",
+  "website": "http://www.ciena.com",
+  "isin": "US1717793095",
+  "inception": "1999-01-01",
+  "employees": null,
+  "industry": "telecommunications industry",
+  "headquarters": "Hanover",
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "networking hardware"
+    }
+  ],
+  "countries": []
+}

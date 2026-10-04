@@ -1,0 +1,28 @@
+{
+  "ticker": "ETSY",
+  "qid": "Q1353939",
+  "fetchedAt": "2026-10-04T21:49:43.097851Z",
+  "source": "wikidata",
+  "name": "Q1353939",
+  "description": "American e-commerce company",
+  "website": "https://www.etsy.com/",
+  "isin": "US29786A1060",
+  "inception": "2005-06-18",
+  "employees": null,
+  "industry": "e-commerce",
+  "headquarters": "Dumbo",
+  "executives": [
+    {
+      "name": "Kruti Patel Goyal",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Josh Silverman",
+      "role": "Chairperson"
+    }
+  ],
+  "board": [],
+  "founders": [],
+  "products": [],
+  "countries": []
+}

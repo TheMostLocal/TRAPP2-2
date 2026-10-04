@@ -1,0 +1,72 @@
+{
+  "ticker": "ACI",
+  "qid": "Q2831861",
+  "fetchedAt": "2026-10-04T22:07:51.904452Z",
+  "source": "wikidata",
+  "name": "Albertsons",
+  "description": "American grocery chain",
+  "website": "https://www.albertsonscompanies.com",
+  "isin": "US0130911037",
+  "inception": "1939-01-01",
+  "employees": 250000,
+  "industry": "retail",
+  "headquarters": "Boise",
+  "executives": [],
+  "board": [
+    {
+      "name": "Scott Wille",
+      "role": "Board Member"
+    },
+    {
+      "name": "Alan Schumacher",
+      "role": "Board Member"
+    },
+    {
+      "name": "Hersch Klaff",
+      "role": "Board Member"
+    },
+    {
+      "name": "Allen Gibson",
+      "role": "Board Member"
+    },
+    {
+      "name": "Kim Fennebresque",
+      "role": "Board Member"
+    },
+    {
+      "name": "Shant Babikian",
+      "role": "Board Member"
+    },
+    {
+      "name": "Chan Galbato",
+      "role": "Board Member"
+    },
+    {
+      "name": "Vivek Sankaran",
+      "role": "Board Member"
+    },
+    {
+      "name": "Mary Beth West",
+      "role": "Board Member"
+    },
+    {
+      "name": "Sharon Allen",
+      "role": "Board Member"
+    },
+    {
+      "name": "Jim Donald",
+      "role": "Board Member"
+    },
+    {
+      "name": "B. Kevin Turner",
+      "role": "Board Member"
+    }
+  ],
+  "founders": [
+    {
+      "name": "Joe Albertson"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

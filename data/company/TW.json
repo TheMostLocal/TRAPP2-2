@@ -1,0 +1,38 @@
+{
+  "ticker": "TW",
+  "qid": "Q434841",
+  "fetchedAt": "2026-10-04T21:54:25.735834Z",
+  "source": "wikidata",
+  "name": "20th Century Studios",
+  "description": "American film studio owned by The Walt Disney Company",
+  "website": "https://www.20thcenturystudios.com",
+  "isin": null,
+  "inception": "1935-05-31",
+  "employees": 2300,
+  "industry": "film industry",
+  "headquarters": "Walt Disney Studios",
+  "executives": [
+    {
+      "name": "Stacey Snider",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [],
+  "founders": [
+    {
+      "name": "Darryl F. Zanuck"
+    },
+    {
+      "name": "William Fox"
+    },
+    {
+      "name": "Joseph M. Schenck"
+    }
+  ],
+  "products": [
+    {
+      "name": "software"
+    }
+  ],
+  "countries": []
+}

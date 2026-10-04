@@ -1,0 +1,28 @@
+{
+  "ticker": "RUN",
+  "qid": "Q54718",
+  "fetchedAt": "2026-10-04T21:53:22.871482Z",
+  "source": "wikidata",
+  "name": "Yle",
+  "description": "Finland's national public-broadcasting company",
+  "website": "https://svenska.yle.fi",
+  "isin": null,
+  "inception": "1926-01-01",
+  "employees": null,
+  "industry": "broadcasting",
+  "headquarters": "L\u00e4nsi-Pasila",
+  "executives": [
+    {
+      "name": "Marit af Bj\u00f6rkesten",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "radio"
+    }
+  ],
+  "countries": []
+}

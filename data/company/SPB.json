@@ -1,0 +1,23 @@
+{
+  "ticker": "SPB",
+  "qid": "Q27621",
+  "fetchedAt": "2026-10-04T21:44:38.973414Z",
+  "source": "wikidata",
+  "name": "Saint Petersburg State University",
+  "description": "Russian federal state-owned higher education institution",
+  "website": "http://www.spbu.ru/",
+  "isin": null,
+  "inception": "1724-01-22",
+  "employees": null,
+  "industry": null,
+  "headquarters": "Saint Petersburg",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Peter the Great"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

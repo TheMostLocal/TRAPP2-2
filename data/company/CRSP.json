@@ -1,0 +1,23 @@
+{
+  "ticker": "CRSP",
+  "qid": "Q104480207",
+  "fetchedAt": "2026-10-04T22:00:28.618749Z",
+  "source": "wikidata",
+  "name": "CRISPR Therapeutics",
+  "description": "company in Basel, Switzerland",
+  "website": "http://www.crisprtx.com/",
+  "isin": "CH0334081137",
+  "inception": "2013-01-01",
+  "employees": null,
+  "industry": "biotechnology industry",
+  "headquarters": "Zug",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Emmanuelle Charpentier"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

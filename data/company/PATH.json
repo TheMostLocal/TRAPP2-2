@@ -1,0 +1,23 @@
+{
+  "ticker": "PATH",
+  "qid": "Q1544011",
+  "fetchedAt": "2026-10-04T22:02:22.836039Z",
+  "source": "wikidata",
+  "name": "Path\u00e9",
+  "description": "French media production and theater businesses",
+  "website": "https://www.pathe.com",
+  "isin": null,
+  "inception": "1896-01-01",
+  "employees": null,
+  "industry": "film industry",
+  "headquarters": "New York City",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Charles Path\u00e9"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

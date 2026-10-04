@@ -1,0 +1,24 @@
+{
+  "ticker": "LEA",
+  "qid": "Q502344",
+  "fetchedAt": "2026-10-04T21:37:59.842600Z",
+  "source": "wikidata",
+  "name": "Lear Corporation",
+  "description": "American automotive parts manufacturer",
+  "website": "https://www.lear.com/",
+  "isin": "US5218651058",
+  "inception": "1917-01-01",
+  "employees": null,
+  "industry": "automotive supplier",
+  "headquarters": "Southfield",
+  "executives": [
+    {
+      "name": "Raymond E. Scott",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [],
+  "founders": [],
+  "products": [],
+  "countries": []
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "CF",
+  "qid": "Q905806",
+  "fetchedAt": "2026-10-04T21:41:53.436374Z",
+  "source": "wikidata",
+  "name": "CF Industries",
+  "description": "North American manufacturer and distributor of agricultural fertilizers",
+  "website": "https://www.cfindustries.com/",
+  "isin": "US1252691001",
+  "inception": "1946-01-01",
+  "employees": null,
+  "industry": "chemical industry",
+  "headquarters": "Deerfield",
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "fertilizer"
+    }
+  ],
+  "countries": []
+}

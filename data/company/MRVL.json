@@ -1,0 +1,23 @@
+{
+  "ticker": "MRVL",
+  "qid": "Q140310318",
+  "fetchedAt": "2026-10-04T21:33:18.068037Z",
+  "source": "wikidata",
+  "name": "MRVL Technologies",
+  "description": "UK Indie mobile app studio",
+  "website": "https://mrvltechnologies.com",
+  "isin": null,
+  "inception": "2024-12-07",
+  "employees": null,
+  "industry": "software industry",
+  "headquarters": "West Malling",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "John Hammond"
+    }
+  ],
+  "products": [],
+  "countries": []
+}
