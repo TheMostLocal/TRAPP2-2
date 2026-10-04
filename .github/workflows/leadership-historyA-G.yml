@@ -15,7 +15,7 @@ name: Leadership History Refresh A-G (Weekly)
 
 on:
   schedule:
-    - cron: '0 4 ? * MON'  # Every Monday 04:00 UTC
+    - cron: '0 4 * * MON'  # Every Monday 04:00 UTC
   workflow_dispatch:
 
 concurrency:
