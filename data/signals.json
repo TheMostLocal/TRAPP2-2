@@ -1,6 +1,6 @@
 {
   "_schema": "valuatio-signals-v1",
-  "updatedAt": "2026-10-04T18:26:35.076017Z",
+  "updatedAt": "2026-10-04T18:30:44.826146Z",
   "tickerCount": 22,
   "signals": {
     "macro": {
@@ -26,11 +26,11 @@
       "note": {}
     },
     "valuation": {
-      "raw": null,
-      "confidence": 0.0,
-      "tier": "STALE",
+      "raw": -0.9833536249999999,
+      "confidence": 0.7,
+      "tier": "LIVE",
       "note": {
-        "reason": "no SPY P/E in master.csv"
+        "spy_pe": 24.87
       }
     },
     "trend": {
