@@ -1,6 +1,6 @@
 {
   "ticker": "LMT",
-  "fetchedAt": "2026-10-05T12:18:37.413135Z",
+  "fetchedAt": "2026-10-05T14:26:06.982826Z",
   "people": [
     {
       "qid": "Q110610881",
@@ -198,24 +198,19 @@
         "qid": "Q1159888",
         "name": "Daniel Akerson",
         "dateOfBirth": "1948-10-21",
-        "birthPlace": "California",
+        "birthPlace": "Oakland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dan%20Akerson%20%286720557213%29.jpg",
         "occupations": [
-          "businessperson",
+          "manager",
           "military officer",
-          "manager"
+          "businessperson"
         ],
         "education": [
+          "Mankato West High School",
           "United States Naval Academy",
-          "London School of Economics and Political Science",
-          "Mankato West High School"
+          "London School of Economics and Political Science"
         ],
         "employers": [
-          {
-            "company": "Carlyle Group",
-            "start": null,
-            "end": null
-          },
           {
             "company": "General Motors",
             "start": null,
@@ -223,6 +218,11 @@
           },
           {
             "company": "American Express",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Carlyle Group",
             "start": null,
             "end": null
           }
@@ -418,9 +418,9 @@
           "military officer"
         ],
         "education": [
-          "United States Naval Academy",
           "Georgia Tech",
           "University of West Florida",
+          "United States Naval Academy",
           "Harvard University"
         ],
         "employers": [],
@@ -439,14 +439,14 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "merchant"
+          "merchant",
+          "entrepreneur"
         ],
         "education": [
-          "Stanford University",
           "Wisconsin School of Business",
           "Sloan Fellows Program",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []

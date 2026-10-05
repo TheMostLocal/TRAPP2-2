@@ -1,6 +1,6 @@
 {
   "ticker": "LLY",
-  "fetchedAt": "2026-10-05T12:18:37.412683Z",
+  "fetchedAt": "2026-10-05T14:26:06.982331Z",
   "people": [
     {
       "qid": "Q118706826",
@@ -62,6 +62,11 @@
         ],
         "employers": [
           {
+            "company": "Goldman Sachs",
+            "start": "2023-02-01",
+            "end": null
+          },
+          {
             "company": "Cisco",
             "start": "2009-09-01",
             "end": "2019-07-01"
@@ -70,11 +75,6 @@
             "company": "Intel",
             "start": "2019-09-01",
             "end": "2023-02-01"
-          },
-          {
-            "company": "Goldman Sachs",
-            "start": "2023-02-01",
-            "end": null
           }
         ],
         "positions": [
@@ -102,9 +102,9 @@
           "businessperson"
         ],
         "education": [
+          "Princeton University",
           "Harvard Law School",
-          "Harvard Business School",
-          "Princeton University"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -425,9 +425,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "economist",
           "health economist",
-          "crossword creator"
+          "crossword creator",
+          "economist"
         ],
         "education": [
           "Yale University",
@@ -493,8 +493,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20G.%20Kaelin%20Jr.%20UNIST%20CGI%202019.jpg",
         "occupations": [
-          "oncologist",
           "researcher",
+          "oncologist",
           "university teacher"
         ],
         "education": [

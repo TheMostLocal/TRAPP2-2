@@ -1,6 +1,6 @@
 {
   "ticker": "BRK.B",
-  "fetchedAt": "2026-10-05T11:45:07.324446Z",
+  "fetchedAt": "2026-10-05T14:45:20.337606Z",
   "people": [
     {
       "qid": "Q47168572",
@@ -14,9 +14,9 @@
         "birthPlace": "Edmonton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Greg%20Abel.jpg",
         "occupations": [
+          "business executive",
           "chartered accountant",
-          "investor",
-          "business executive"
+          "investor"
         ],
         "education": [
           "University of Alberta"
@@ -191,9 +191,9 @@
         "birthPlace": "Edmonton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Greg%20Abel.jpg",
         "occupations": [
+          "business executive",
           "chartered accountant",
-          "investor",
-          "business executive"
+          "investor"
         ],
         "education": [
           "University of Alberta"
@@ -364,13 +364,13 @@
         "birthPlace": "Birmingham",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20burke%20comcast%20coo.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Colgate University",
-          "Harvard University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -453,13 +453,13 @@
           "venture capitalist",
           "entrepreneur",
           "businessperson",
-          "lawyer",
-          "chief executive officer"
+          "chief executive officer",
+          "lawyer"
         ],
         "education": [
+          "The Waldorf School of Garden City",
           "Bowdoin College",
-          "Harvard Law School",
-          "The Waldorf School of Garden City"
+          "Harvard Law School"
         ],
         "employers": [
           {
@@ -482,6 +482,12 @@
           {
             "title": "board of directors member",
             "company": null,
+            "start": "2018-01-01",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
             "start": "2020-05-02",
             "end": null
           },
@@ -490,12 +496,6 @@
             "company": null,
             "start": "2001-01-01",
             "end": "2018-02-01"
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2018-01-01",
-            "end": null
           }
         ]
       }

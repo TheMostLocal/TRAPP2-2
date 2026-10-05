@@ -18,8 +18,10 @@
           "financier",
           "investor",
           "technology entrepreneur",
-          "dub actor",
           "programmer",
+          "dub actor",
+          "financier",
+          "investor",
           "civil servant",
           "inventor",
           "entrepreneur",
@@ -291,9 +293,9 @@
           "venture capitalist"
         ],
         "education": [
+          "University of California, Los Angeles",
           "Stanford Law School",
-          "Stanford Graduate School of Business",
-          "University of California, Los Angeles"
+          "Stanford Graduate School of Business"
         ],
         "employers": [],
         "positions": [
@@ -529,8 +531,10 @@
           "financier",
           "investor",
           "technology entrepreneur",
-          "dub actor",
           "programmer",
+          "dub actor",
+          "financier",
+          "investor",
           "civil servant",
           "inventor",
           "entrepreneur",

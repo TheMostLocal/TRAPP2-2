@@ -1,6 +1,6 @@
 {
   "ticker": "BA",
-  "fetchedAt": "2026-10-05T11:45:07.318835Z",
+  "fetchedAt": "2026-10-05T14:45:20.331276Z",
   "people": [
     {
       "qid": "Q104862847",
@@ -132,8 +132,8 @@
         "occupations": [
           "cricketer",
           "merchant",
-          "engineer",
-          "businessperson"
+          "businessperson",
+          "engineer"
         ],
         "education": [
           "Christ Church Grammar School",
@@ -241,10 +241,10 @@
         "birthPlace": "Troon",
         "image": null,
         "occupations": [
-          "manager",
           "politician",
-          "university teacher",
-          "economist"
+          "manager",
+          "economist",
+          "university teacher"
         ],
         "education": [
           "University of Glasgow",
@@ -330,8 +330,8 @@
         "birthPlace": "London",
         "image": null,
         "occupations": [
-          "association football player",
-          "businessperson"
+          "businessperson",
+          "association football player"
         ],
         "education": [
           "Westminster City School"

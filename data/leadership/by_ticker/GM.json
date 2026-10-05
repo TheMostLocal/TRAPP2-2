@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "fetchedAt": "2026-10-05T11:45:07.347609Z",
+  "fetchedAt": "2026-10-05T14:45:20.361887Z",
   "people": [
     {
       "qid": "Q6779013",
@@ -66,9 +66,9 @@
           "entrepreneur"
         ],
         "education": [
+          "Massachusetts Institute of Technology",
           "Poly Prep Country Day School",
-          "New York University Tandon School of Engineering",
-          "Massachusetts Institute of Technology"
+          "New York University Tandon School of Engineering"
         ],
         "employers": [],
         "positions": []
@@ -86,8 +86,8 @@
         "birthPlace": "Cold Spring Harbor",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Whitman%2C%20U.S.%20Ambassador.jpg",
         "occupations": [
-          "politician",
           "entrepreneur",
+          "politician",
           "business executive"
         ],
         "education": [
@@ -107,6 +107,11 @@
             "end": null
           },
           {
+            "company": "Procter & Gamble",
+            "start": "1979-01-01",
+            "end": null
+          },
+          {
             "company": "Hewlett-Packard",
             "start": null,
             "end": null
@@ -117,17 +122,12 @@
             "end": null
           },
           {
-            "company": "Procter & Gamble",
-            "start": "1979-01-01",
-            "end": null
-          },
-          {
-            "company": "The Walt Disney Company",
+            "company": "Quibi",
             "start": null,
             "end": null
           },
           {
-            "company": "Quibi",
+            "company": "The Walt Disney Company",
             "start": null,
             "end": null
           }
@@ -199,8 +199,8 @@
           "businessperson"
         ],
         "education": [
-          "Brown University",
-          "Stanford University"
+          "Stanford University",
+          "Brown University"
         ],
         "employers": [],
         "positions": [
@@ -254,8 +254,8 @@
         "birthPlace": "Copenhagen",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20S%20Knudsen.jpg",
         "occupations": [
-          "entrepreneur",
           "businessperson",
+          "entrepreneur",
           "executive"
         ],
         "education": [
@@ -473,8 +473,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Wilson%20official%20DoD%20photo.jpg",
         "occupations": [
           "politician",
-          "engineer",
-          "businessperson"
+          "businessperson",
+          "engineer"
         ],
         "education": [
           "Carnegie Institute of Technology"

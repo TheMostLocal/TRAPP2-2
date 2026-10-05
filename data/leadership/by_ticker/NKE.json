@@ -111,8 +111,8 @@
           "businessperson"
         ],
         "education": [
-          "The Wharton School",
-          "University of Oxford"
+          "University of Oxford",
+          "The Wharton School"
         ],
         "employers": [],
         "positions": []
@@ -217,7 +217,9 @@
           "film producer",
           "film director",
           "rapper",
-          "animator"
+          "animator",
+          "film producer",
+          "film director"
         ],
         "education": [
           "Jesuit High School",
@@ -247,13 +249,13 @@
         ],
         "employers": [
           {
-            "company": "New York University",
-            "start": "2010-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           },
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "New York University",
+            "start": "2010-01-01",
             "end": null
           }
         ],
@@ -295,8 +297,8 @@
         "birthPlace": "Poughkeepsie",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Parker%20-%20World%20Economic%20Forum%202008.jpg",
         "occupations": [
-          "director",
-          "entrepreneur"
+          "entrepreneur",
+          "director"
         ],
         "education": [
           "Westhill High School",

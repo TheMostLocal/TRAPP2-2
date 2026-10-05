@@ -1,6 +1,6 @@
 {
   "ticker": "BOE",
-  "fetchedAt": "2026-10-05T11:45:07.323770Z",
+  "fetchedAt": "2026-10-05T14:45:20.336056Z",
   "people": [
     {
       "qid": "Q109767256",
@@ -191,8 +191,8 @@
         "birthPlace": "Canastota",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Giambastiani%20-%2027%20Feb%2007.jpg",
         "occupations": [
-          "submariner",
-          "military officer"
+          "military officer",
+          "submariner"
         ],
         "education": [
           "United States Naval Academy"
@@ -227,9 +227,9 @@
         "image": null,
         "occupations": [],
         "education": [
-          "University of Connecticut School of Law",
           "Cornell University",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "University of Connecticut School of Law"
         ],
         "employers": [],
         "positions": []
@@ -270,8 +270,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Virginia Tech"
@@ -365,8 +365,8 @@
           "businessperson"
         ],
         "education": [
-          "Amherst College",
           "Harvard Business School",
+          "Amherst College",
           "Harvard University"
         ],
         "employers": [
@@ -391,8 +391,8 @@
         "birthPlace": "Ohio",
         "image": null,
         "occupations": [
-          "businessperson",
           "merchant",
+          "businessperson",
           "entrepreneur"
         ],
         "education": [

@@ -1,6 +1,6 @@
 {
   "ticker": "CVS",
-  "fetchedAt": "2026-10-05T11:45:07.336335Z",
+  "fetchedAt": "2026-10-05T14:45:20.351358Z",
   "people": [
     {
       "qid": "Q130783979",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "Texas Tech University"
@@ -103,9 +103,9 @@
           "politician"
         ],
         "education": [
-          "University of Tennessee",
           "Balliol College",
-          "Harvard Law School"
+          "Harvard Law School",
+          "University of Tennessee"
         ],
         "employers": [
           {
@@ -159,8 +159,8 @@
         "birthPlace": "Brooklyn",
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Quinnipiac University"
@@ -248,8 +248,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "College of the Holy Cross",
-          "Columbia University"
+          "Columbia University",
+          "College of the Holy Cross"
         ],
         "employers": [],
         "positions": []

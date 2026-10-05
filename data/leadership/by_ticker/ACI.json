@@ -1,6 +1,6 @@
 {
   "ticker": "ACI",
-  "fetchedAt": "2026-10-05T11:45:07.310573Z",
+  "fetchedAt": "2026-10-05T14:45:20.322237Z",
   "people": [
     {
       "qid": "Q114582658",
@@ -142,9 +142,9 @@
         "image": null,
         "occupations": [],
         "education": [
+          "University of Michigan",
           "Georgia Tech",
-          "Indian Institute of Technology Madras",
-          "University of Michigan"
+          "Indian Institute of Technology Madras"
         ],
         "employers": [],
         "positions": []
