@@ -1,6 +1,6 @@
 {
   "ticker": "BK",
-  "fetchedAt": "2026-10-05T11:45:07.321750Z",
+  "fetchedAt": "2026-10-05T14:45:20.334403Z",
   "people": [
     {
       "qid": "Q58214646",
@@ -15,8 +15,8 @@
         "image": null,
         "occupations": [
           "university teacher",
-          "architect",
-          "dean"
+          "dean",
+          "architect"
         ],
         "education": [],
         "employers": [],

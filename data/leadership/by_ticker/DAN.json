@@ -1,6 +1,6 @@
 {
   "ticker": "DAN",
-  "fetchedAt": "2026-10-05T11:45:07.338679Z",
+  "fetchedAt": "2026-10-05T14:45:20.353134Z",
   "people": [
     {
       "qid": "Q62660539",
@@ -215,8 +215,8 @@
         "birthPlace": "Copenhagen",
         "image": null,
         "occupations": [
-          "mathematician",
-          "university teacher"
+          "university teacher",
+          "mathematician"
         ],
         "education": [
           "University of Pennsylvania"

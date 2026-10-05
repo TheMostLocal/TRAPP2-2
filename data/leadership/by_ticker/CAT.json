@@ -1,6 +1,6 @@
 {
   "ticker": "CAT",
-  "fetchedAt": "2026-10-05T11:45:07.326628Z",
+  "fetchedAt": "2026-10-05T14:45:20.339841Z",
   "people": [
     {
       "qid": "Q137168946",
@@ -106,15 +106,15 @@
         "birthPlace": "United States",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Susan%20Schwab%2C%20USTR%20official%20photo.jpg",
         "occupations": [
-          "politician",
           "university teacher",
-          "diplomat"
+          "diplomat",
+          "politician"
         ],
         "education": [
+          "Williams College",
           "Aiglon College",
           "International School Bangkok",
           "George Washington University",
-          "Williams College",
           "Stanford University"
         ],
         "employers": [
@@ -322,13 +322,13 @@
         "birthPlace": "Boston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mauricio%20Macri%20%26%20David%20W.%20MacLennan%20Davos%202018%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
-          "Booth School of Business",
           "University of Chicago",
           "Amherst College",
+          "Booth School of Business",
           "Edina High School"
         ],
         "employers": [],

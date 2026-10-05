@@ -1,6 +1,6 @@
 {
   "ticker": "AZN",
-  "fetchedAt": "2026-10-05T11:45:07.318474Z",
+  "fetchedAt": "2026-10-05T14:45:20.330730Z",
   "people": [
     {
       "qid": "Q7141722",
@@ -260,13 +260,23 @@
         "birthPlace": "Stockholm",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Recebe%20em%20audi%C3%AAncia%20o%20presidente%20do%20Conselho%20Administrativo%20do%20Shandinaviska%20Enskilda%20Banken%2C%20Electrolux%20e%20SAAB%20-%20Sistemas%20de%20Defesa%20Aeroespacial%2C%20Marcus%20Wallenberg.%20%2816794468978%29%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "banker"
+          "banker",
+          "entrepreneur"
         ],
         "education": [
           "Walsh School of Foreign Service"
         ],
         "employers": [
+          {
+            "company": "International Chamber of Commerce",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Citibank",
+            "start": "1980-01-01",
+            "end": "1982-01-01"
+          },
           {
             "company": "Skandinaviska Enskilda Banken",
             "start": null,
@@ -281,16 +291,6 @@
             "company": "Investor",
             "start": null,
             "end": null
-          },
-          {
-            "company": "International Chamber of Commerce",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Citibank",
-            "start": "1980-01-01",
-            "end": "1982-01-01"
           },
           {
             "company": "Institute of International Finance",

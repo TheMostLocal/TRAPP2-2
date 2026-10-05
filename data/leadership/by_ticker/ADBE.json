@@ -1,6 +1,6 @@
 {
   "ticker": "ADBE",
-  "fetchedAt": "2026-10-05T11:45:07.310825Z",
+  "fetchedAt": "2026-10-05T14:45:20.322685Z",
   "people": [
     {
       "qid": "Q2622748",
@@ -297,8 +297,8 @@
         "birthPlace": "Campinas",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CristianoAmon.jpeg",
         "occupations": [
-          "electronic engineer",
-          "businessperson"
+          "businessperson",
+          "electronic engineer"
         ],
         "education": [],
         "employers": [
@@ -500,10 +500,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Warnock%202008.jpg",
         "occupations": [
           "entrepreneur",
-          "mathematician",
-          "businessperson",
           "computer scientist",
-          "engineer"
+          "mathematician",
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Olympus High School",

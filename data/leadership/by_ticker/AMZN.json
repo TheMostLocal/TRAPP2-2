@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-10-05T11:45:07.315661Z",
+  "fetchedAt": "2026-10-05T14:45:20.327208Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -18,18 +18,18 @@
         ],
         "education": [
           "Harvard Business School",
-          "Harvard University",
-          "Scarsdale High School"
+          "Scarsdale High School",
+          "Harvard University"
         ],
         "employers": [
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           },
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           }
         ],
@@ -57,9 +57,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "entrepreneur",
           "business oligarch",
-          "computer scientist"
+          "computer scientist",
+          "entrepreneur"
         ],
         "education": [
           "Miami Palmetto High School",
@@ -120,18 +120,18 @@
         ],
         "education": [
           "Harvard Business School",
-          "Harvard University",
-          "Scarsdale High School"
+          "Scarsdale High School",
+          "Harvard University"
         ],
         "employers": [
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           },
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           }
         ],
@@ -295,8 +295,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
         "occupations": [
           "spy",
-          "soldier",
-          "intelligence officer"
+          "intelligence officer",
+          "soldier"
         ],
         "education": [
           "Naval Postgraduate School",
@@ -334,10 +334,10 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "executive",
-          "dean",
           "university teacher",
           "academic",
+          "executive",
+          "dean",
           "computer scientist"
         ],
         "education": [
@@ -455,9 +455,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "entrepreneur",
           "business oligarch",
-          "computer scientist"
+          "computer scientist",
+          "entrepreneur"
         ],
         "education": [
           "Miami Palmetto High School",
@@ -586,9 +586,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "entrepreneur",
           "business oligarch",
-          "computer scientist"
+          "computer scientist",
+          "entrepreneur"
         ],
         "education": [
           "Miami Palmetto High School",

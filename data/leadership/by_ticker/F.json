@@ -1,6 +1,6 @@
 {
   "ticker": "F",
-  "fetchedAt": "2026-10-05T11:45:07.344280Z",
+  "fetchedAt": "2026-10-05T14:45:20.359138Z",
   "people": [
     {
       "qid": "Q18921712",
@@ -14,12 +14,12 @@
         "birthPlace": "Argentina",
         "image": null,
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
-          "University of California, Los Angeles",
-          "Georgetown University"
+          "Georgetown University",
+          "University of California, Los Angeles"
         ],
         "employers": [
           {
@@ -117,8 +117,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Harvard Business School",
-          "Princeton University"
+          "Princeton University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -139,8 +139,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -243,12 +243,12 @@
         "birthPlace": "Argentina",
         "image": null,
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
-          "University of California, Los Angeles",
-          "Georgetown University"
+          "Georgetown University",
+          "University of California, Los Angeles"
         ],
         "employers": [
           {
