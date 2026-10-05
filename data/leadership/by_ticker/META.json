@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "fetchedAt": "2026-10-05T12:18:37.415889Z",
+  "fetchedAt": "2026-10-05T14:26:06.986771Z",
   "people": [
     {
       "qid": "Q36215",
@@ -17,9 +17,9 @@
           "patron of the arts",
           "philanthropist",
           "programmer",
-          "computer scientist",
           "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "computer scientist"
         ],
         "education": [
           "Mercy University",
@@ -128,12 +128,12 @@
         "birthPlace": "Nanjing",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch%20Disrupt%20NY%202016%20-%20Day%203%20%2826348657713%29.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
-          "Lynbrook High School",
-          "Harvard University"
+          "Harvard University",
+          "Lynbrook High School"
         ],
         "employers": [
           {
@@ -160,8 +160,8 @@
           "business executive"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
@@ -312,8 +312,8 @@
         "birthPlace": "Logan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Kimmitt%2C%20official%20Treasury%20photo.jpg",
         "occupations": [
-          "diplomat",
-          "politician"
+          "politician",
+          "diplomat"
         ],
         "education": [
           "Georgetown University Law Center",
@@ -364,11 +364,11 @@
           "technology entrepreneur",
           "manager",
           "financier",
-          "investor",
           "banker",
+          "investor",
           "entrepreneur",
-          "writer",
-          "computer scientist"
+          "computer scientist",
+          "writer"
         ],
         "education": [
           "Stanford Law School",
@@ -411,8 +411,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheryl%20Sandberg%20WEF%202013%20%28crop%20by%20James%20Tamim%29.jpg",
         "occupations": [
           "economist",
-          "entrepreneur",
           "computer scientist",
+          "entrepreneur",
           "businessperson"
         ],
         "education": [
@@ -491,12 +491,12 @@
         "birthPlace": "Cedar Falls",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Andreessen-9%20%28cropped%29.jpg",
         "occupations": [
-          "programmer",
-          "software engineer",
           "blogger",
+          "software engineer",
+          "programmer",
           "investor",
-          "entrepreneur",
           "inventor",
+          "entrepreneur",
           "engineer",
           "computer scientist"
         ],
@@ -541,9 +541,9 @@
           "patron of the arts",
           "philanthropist",
           "programmer",
-          "computer scientist",
           "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "computer scientist"
         ],
         "education": [
           "Mercy University",
@@ -585,8 +585,8 @@
           "angel investor"
         ],
         "education": [
-          "Harvard Graduate School of Education",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Graduate School of Education"
         ],
         "employers": [
           {
@@ -613,9 +613,9 @@
           "patron of the arts",
           "philanthropist",
           "programmer",
-          "computer scientist",
           "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "computer scientist"
         ],
         "education": [
           "Mercy University",

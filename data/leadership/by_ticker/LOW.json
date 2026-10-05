@@ -1,6 +1,6 @@
 {
   "ticker": "LOW",
-  "fetchedAt": "2026-10-05T12:18:37.413627Z",
+  "fetchedAt": "2026-10-05T14:26:06.983443Z",
   "people": [
     {
       "qid": "Q22279080",
@@ -76,8 +76,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Columbia Business School"
@@ -121,8 +121,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "University of California, Berkeley",
@@ -144,8 +144,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Rockhurst University"
@@ -166,8 +166,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Duke University"
@@ -188,8 +188,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [],
         "employers": [],

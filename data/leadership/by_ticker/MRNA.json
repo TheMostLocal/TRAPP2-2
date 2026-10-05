@@ -1,6 +1,6 @@
 {
   "ticker": "MRNA",
-  "fetchedAt": "2026-10-05T12:18:37.417797Z",
+  "fetchedAt": "2026-10-05T14:26:06.989355Z",
   "people": [
     {
       "qid": "Q90959587",
@@ -14,8 +14,8 @@
         "birthPlace": "Marseille",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stephane%20Bancel.png",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "\u00c9cole Centrale Paris",
@@ -78,8 +78,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Noubar%20Afeyan%20at%20Global%20Innovation%20Forum%202022%2C%20Yerevan%2C%20Armenia%20by%20Xelgen.jpg",
         "occupations": [
           "inventor",
-          "entrepreneur",
           "businessperson",
+          "entrepreneur",
           "donor"
         ],
         "education": [
@@ -134,11 +134,6 @@
         ],
         "employers": [
           {
-            "company": "University of Michigan",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "National Heart, Lung, and Blood Institute",
             "start": null,
             "end": null
@@ -150,6 +145,11 @@
           },
           {
             "company": "Brigham and Women's Hospital",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "University of Michigan",
             "start": null,
             "end": null
           }
@@ -169,9 +169,9 @@
         "birthPlace": "Albany",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Langer.jpg",
         "occupations": [
-          "chemical engineer",
           "university teacher",
           "biotechnologist",
+          "chemical engineer",
           "biochemist",
           "engineer",
           "inventor"
@@ -184,12 +184,12 @@
         ],
         "employers": [
           {
-            "company": "Harvard University",
+            "company": "Massachusetts Institute of Technology",
             "start": null,
             "end": null
           },
           {
-            "company": "Massachusetts Institute of Technology",
+            "company": "Harvard University",
             "start": null,
             "end": null
           }
@@ -210,8 +210,8 @@
         "image": null,
         "occupations": [
           "researcher",
-          "professor",
-          "physician"
+          "physician",
+          "professor"
         ],
         "education": [
           "Hebrew Reali School",
@@ -219,6 +219,11 @@
           "National Cancer Institute"
         ],
         "employers": [
+          {
+            "company": "University of Pennsylvania",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Sanofi",
             "start": null,
@@ -231,11 +236,6 @@
           },
           {
             "company": "Moderna",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "University of Pennsylvania",
             "start": null,
             "end": null
           }
@@ -255,8 +255,8 @@
         "birthPlace": "Marseille",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stephane%20Bancel.png",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "\u00c9cole Centrale Paris",
@@ -299,8 +299,8 @@
         "birthPlace": "Agadir",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Moncef%20Slaoui%20%28cropped%29.jpg",
         "occupations": [
-          "immunologist",
-          "researcher"
+          "researcher",
+          "immunologist"
         ],
         "education": [
           "Tufts University School of Medicine",
