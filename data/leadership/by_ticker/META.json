@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "fetchedAt": "2026-10-04T21:43:19.845461Z",
+  "fetchedAt": "2026-10-05T12:18:37.415889Z",
   "people": [
     {
       "qid": "Q36215",
@@ -17,9 +17,9 @@
           "patron of the arts",
           "philanthropist",
           "programmer",
-          "chief executive officer",
+          "computer scientist",
           "entrepreneur",
-          "computer scientist"
+          "chief executive officer"
         ],
         "education": [
           "Mercy University",
@@ -128,8 +128,8 @@
         "birthPlace": "Nanjing",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch%20Disrupt%20NY%202016%20-%20Day%203%20%2826348657713%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Lynbrook High School",
@@ -160,8 +160,8 @@
           "business executive"
         ],
         "education": [
-          "Harvard Business School",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -360,15 +360,15 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
+          "chess player",
           "technology entrepreneur",
-          "banker",
           "manager",
           "financier",
-          "chess player",
           "investor",
+          "banker",
           "entrepreneur",
-          "computer scientist",
-          "writer"
+          "writer",
+          "computer scientist"
         ],
         "education": [
           "Stanford Law School",
@@ -491,14 +491,14 @@
         "birthPlace": "Cedar Falls",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Andreessen-9%20%28cropped%29.jpg",
         "occupations": [
-          "software engineer",
-          "entrepreneur",
           "programmer",
+          "software engineer",
           "blogger",
           "investor",
-          "computer scientist",
+          "entrepreneur",
           "inventor",
-          "engineer"
+          "engineer",
+          "computer scientist"
         ],
         "education": [
           "New Lisbon High School",
@@ -541,9 +541,9 @@
           "patron of the arts",
           "philanthropist",
           "programmer",
-          "chief executive officer",
+          "computer scientist",
           "entrepreneur",
-          "computer scientist"
+          "chief executive officer"
         ],
         "education": [
           "Mercy University",
@@ -613,9 +613,9 @@
           "patron of the arts",
           "philanthropist",
           "programmer",
-          "chief executive officer",
+          "computer scientist",
           "entrepreneur",
-          "computer scientist"
+          "chief executive officer"
         ],
         "education": [
           "Mercy University",

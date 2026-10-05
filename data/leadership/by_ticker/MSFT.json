@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "fetchedAt": "2026-10-04T21:43:19.847321Z",
+  "fetchedAt": "2026-10-05T12:18:37.418362Z",
   "people": [
     {
       "qid": "Q7426870",
@@ -30,13 +30,13 @@
         ],
         "employers": [
           {
-            "company": "Sun Microsystems",
-            "start": null,
+            "company": "Microsoft",
+            "start": "1992-01-01",
             "end": null
           },
           {
-            "company": "Microsoft",
-            "start": "1992-01-01",
+            "company": "Sun Microsystems",
+            "start": null,
             "end": null
           }
         ],
@@ -125,14 +125,14 @@
             "end": "2015-05-01"
           },
           {
-            "company": "Dick's Sporting Goods",
-            "start": "2015-08-01",
-            "end": "2016-08-01"
-          },
-          {
             "company": "Procter & Gamble",
             "start": "1994-01-01",
             "end": "2013-01-01"
+          },
+          {
+            "company": "Dick's Sporting Goods",
+            "start": "2015-08-01",
+            "end": "2016-08-01"
           }
         ],
         "positions": [
@@ -166,17 +166,17 @@
         ],
         "employers": [
           {
-            "company": "PepsiCo",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "General Electric",
             "start": null,
             "end": null
           },
           {
             "company": "Merck & Co.",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "PepsiCo",
             "start": null,
             "end": null
           }
@@ -196,8 +196,8 @@
         "birthPlace": "Barrow-in-Furness",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emma%20Walmsley%20at%20The%20Francis%20Crick%20Institute%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "executive"
+          "executive",
+          "businessperson"
         ],
         "education": [
           "University of Oxford",
@@ -309,14 +309,14 @@
           "podcaster",
           "financier",
           "investor",
-          "entrepreneur",
           "businessperson",
+          "entrepreneur",
           "writer"
         ],
         "education": [
+          "Stanford University",
           "The Putney School",
-          "Wolfson College",
-          "Stanford University"
+          "Wolfson College"
         ],
         "employers": [
           {
@@ -411,13 +411,13 @@
         ],
         "employers": [
           {
-            "company": "Sun Microsystems",
-            "start": null,
+            "company": "Microsoft",
+            "start": "1992-01-01",
             "end": null
           },
           {
-            "company": "Microsoft",
-            "start": "1992-01-01",
+            "company": "Sun Microsystems",
+            "start": null,
             "end": null
           }
         ],
@@ -445,8 +445,8 @@
         "occupations": [
           "philanthropist",
           "art collector",
-          "co-founder",
           "film producer",
+          "co-founder",
           "programmer",
           "musician",
           "television producer",
@@ -454,13 +454,13 @@
           "investor",
           "inventor",
           "entrepreneur",
-          "businessperson",
           "computer scientist",
-          "composer"
+          "composer",
+          "businessperson"
         ],
         "education": [
-          "Lakeside School",
           "Washington State University",
+          "Lakeside School",
           "Harvard University"
         ],
         "employers": [

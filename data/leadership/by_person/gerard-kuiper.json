@@ -1,0 +1,42 @@
+{
+  "qid": "Q192948",
+  "name": "Gerard Kuiper",
+  "dateOfBirth": "1905-12-07",
+  "birthPlace": "Tuitjenhorn",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/GerardKuiper.jpg",
+  "occupations": [
+    "planetary scientist",
+    "university teacher",
+    "cartographer",
+    "astronomer"
+  ],
+  "education": [
+    "Leiden University"
+  ],
+  "employers": [
+    {
+      "company": "Lick Observatory",
+      "start": "1933-08-01",
+      "end": "1935-08-01"
+    },
+    {
+      "company": "Yerkes Observatory",
+      "start": "1936-08-01",
+      "end": "1960-08-01"
+    },
+    {
+      "company": "Harvard College Observatory",
+      "start": "1935-08-01",
+      "end": "1936-08-01"
+    },
+    {
+      "company": "Lunar and Planetary Laboratory",
+      "start": "1960-08-01",
+      "end": "1973-12-01"
+    }
+  ],
+  "positions": [],
+  "currentTickers": [
+    "LPL"
+  ]
+}

@@ -6,10 +6,10 @@
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Professor%20Jennifer%20Doudna%20ForMemRS%20%28cropped%29.jpg",
   "occupations": [
     "molecular biologist",
-    "chemist",
     "crystallographer",
+    "biochemist",
     "university teacher",
-    "biochemist"
+    "chemist"
   ],
   "education": [
     "Pomona College",
@@ -23,13 +23,13 @@
       "end": null
     },
     {
-      "company": "Howard Hughes Medical Institute",
-      "start": null,
+      "company": "University of California, Berkeley",
+      "start": "2002-01-01",
       "end": null
     },
     {
-      "company": "University of California, Berkeley",
-      "start": "2002-01-01",
+      "company": "Howard Hughes Medical Institute",
+      "start": null,
       "end": null
     },
     {

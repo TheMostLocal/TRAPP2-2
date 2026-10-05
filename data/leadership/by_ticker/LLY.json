@@ -1,6 +1,6 @@
 {
   "ticker": "LLY",
-  "fetchedAt": "2026-10-04T21:43:19.843416Z",
+  "fetchedAt": "2026-10-05T12:18:37.412683Z",
   "people": [
     {
       "qid": "Q118706826",
@@ -102,9 +102,9 @@
           "businessperson"
         ],
         "education": [
-          "Princeton University",
           "Harvard Law School",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -173,8 +173,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "immunologist",
-          "businessperson"
+          "businessperson",
+          "immunologist"
         ],
         "education": [
           "University of Texas Southwestern Medical Center",
@@ -250,8 +250,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "accountant",
           "basketball player",
+          "accountant",
           "businessperson"
         ],
         "education": [
@@ -425,9 +425,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "economist",
           "health economist",
-          "crossword creator",
-          "economist"
+          "crossword creator"
         ],
         "education": [
           "Yale University",
@@ -440,12 +440,12 @@
             "end": null
           },
           {
-            "company": "University of California, Los Angeles",
+            "company": "Council of Economic Advisers",
             "start": "2005-01-01",
             "end": "2007-01-01"
           },
           {
-            "company": "Council of Economic Advisers",
+            "company": "University of California, Los Angeles",
             "start": "2005-01-01",
             "end": "2007-01-01"
           },
@@ -493,8 +493,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20G.%20Kaelin%20Jr.%20UNIST%20CGI%202019.jpg",
         "occupations": [
-          "researcher",
           "oncologist",
+          "researcher",
           "university teacher"
         ],
         "education": [

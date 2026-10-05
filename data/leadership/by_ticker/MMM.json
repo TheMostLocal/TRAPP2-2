@@ -1,6 +1,6 @@
 {
   "ticker": "MMM",
-  "fetchedAt": "2026-10-04T21:43:19.846022Z",
+  "fetchedAt": "2026-10-05T12:18:37.416520Z",
   "people": [
     {
       "qid": "Q94016219",
@@ -455,8 +455,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [],
         "employers": [],
@@ -553,8 +553,8 @@
         "birthPlace": "Hutchinson",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Southern Methodist University",
@@ -604,12 +604,12 @@
         ],
         "employers": [
           {
-            "company": "World Bank",
+            "company": "Goldman Sachs",
             "start": null,
             "end": null
           },
           {
-            "company": "Goldman Sachs",
+            "company": "World Bank",
             "start": null,
             "end": null
           }

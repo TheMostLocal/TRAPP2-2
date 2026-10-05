@@ -8,14 +8,19 @@
     "banker"
   ],
   "education": [
-    "Tufts University",
-    "Harvard University",
     "Harvard Business School",
-    "Browning School"
+    "Browning School",
+    "Tufts University",
+    "Harvard University"
   ],
   "employers": [
     {
-      "company": "Goldman Sachs",
+      "company": "JPMorgan Chase",
+      "start": "2004-07-01",
+      "end": null
+    },
+    {
+      "company": "Boston Consulting Group",
       "start": null,
       "end": null
     },
@@ -30,12 +35,7 @@
       "end": "1985-01-01"
     },
     {
-      "company": "JPMorgan Chase",
-      "start": "2004-07-01",
-      "end": null
-    },
-    {
-      "company": "Boston Consulting Group",
+      "company": "Goldman Sachs",
       "start": null,
       "end": null
     }

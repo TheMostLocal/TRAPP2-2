@@ -1,6 +1,6 @@
 {
   "ticker": "JNJ",
-  "fetchedAt": "2026-10-04T21:43:19.841736Z",
+  "fetchedAt": "2026-10-05T12:18:37.410353Z",
   "people": [
     {
       "qid": "Q113356474",
@@ -117,8 +117,8 @@
           "Austin High School",
           "University of Texas at Austin",
           "John F. Kennedy School of Government",
-          "Harvard University",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Harvard University"
         ],
         "employers": [],
         "positions": [
@@ -185,8 +185,8 @@
         "education": [
           "Columbia Business School",
           "University of Alabama",
-          "Harvard Business School",
-          "Columbia University"
+          "Columbia University",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -306,8 +306,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "university teacher",
-          "cardiologist"
+          "cardiologist",
+          "university teacher"
         ],
         "education": [
           "Radcliffe College",
@@ -415,10 +415,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Professor%20Jennifer%20Doudna%20ForMemRS%20%28cropped%29.jpg",
         "occupations": [
           "molecular biologist",
-          "chemist",
           "crystallographer",
+          "biochemist",
           "university teacher",
-          "biochemist"
+          "chemist"
         ],
         "education": [
           "Pomona College",
@@ -432,13 +432,13 @@
             "end": null
           },
           {
-            "company": "Howard Hughes Medical Institute",
-            "start": null,
+            "company": "University of California, Berkeley",
+            "start": "2002-01-01",
             "end": null
           },
           {
-            "company": "University of California, Berkeley",
-            "start": "2002-01-01",
+            "company": "Howard Hughes Medical Institute",
+            "start": null,
             "end": null
           },
           {
@@ -519,8 +519,8 @@
         "occupations": [
           "executive",
           "business manager",
-          "lecturer",
           "chief executive officer",
+          "lecturer",
           "merchant",
           "entrepreneur"
         ],
@@ -570,8 +570,8 @@
         "birthPlace": "Scranton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Weinberger%20at%20the%20EY%20World%20Entrepreneur%20of%20the%20Year%202016.png",
         "occupations": [
-          "entrepreneur",
-          "politician"
+          "politician",
+          "entrepreneur"
         ],
         "education": [
           "Case Western Reserve University",
@@ -790,9 +790,9 @@
           "chief executive officer"
         ],
         "education": [
-          "Syracuse University",
           "Michigan State University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Syracuse University"
         ],
         "employers": [
           {

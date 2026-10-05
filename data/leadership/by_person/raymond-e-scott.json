@@ -1,0 +1,20 @@
+{
+  "qid": "Q140451393",
+  "name": "Raymond E. Scott",
+  "dateOfBirth": null,
+  "birthPlace": null,
+  "image": null,
+  "occupations": [],
+  "education": [],
+  "employers": [
+    {
+      "company": "Lear Corporation",
+      "start": null,
+      "end": null
+    }
+  ],
+  "positions": [],
+  "currentTickers": [
+    "LEA"
+  ]
+}

@@ -7,8 +7,8 @@
   "occupations": [
     "philanthropist",
     "art collector",
-    "co-founder",
     "film producer",
+    "co-founder",
     "programmer",
     "musician",
     "television producer",
@@ -16,13 +16,13 @@
     "investor",
     "inventor",
     "entrepreneur",
-    "businessperson",
     "computer scientist",
-    "composer"
+    "composer",
+    "businessperson"
   ],
   "education": [
-    "Lakeside School",
     "Washington State University",
+    "Lakeside School",
     "Harvard University"
   ],
   "employers": [
