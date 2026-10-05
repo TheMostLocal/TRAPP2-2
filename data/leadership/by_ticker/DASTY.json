@@ -1,0 +1,348 @@
+{
+  "ticker": "DASTY",
+  "fetchedAt": "2026-10-05T11:45:07.338877Z",
+  "people": [
+    {
+      "qid": "Q115735422",
+      "name": "Pascal Daloz",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q115735422",
+        "name": "Pascal Daloz",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Mines ParisTech"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "president",
+            "company": null,
+            "start": "2026-02-01",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2024-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q2897681",
+      "name": "Bernard Charl\u00e8s",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q2897681",
+        "name": "Bernard Charl\u00e8s",
+        "dateOfBirth": "1957-03-30",
+        "birthPlace": "Brittany",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bernard%20Charl%C3%A8s%20Portrait.jpg",
+        "occupations": [
+          "engineer",
+          "businessperson"
+        ],
+        "education": [
+          "Institut sup\u00e9rieur de m\u00e9canique de Paris",
+          "\u00c9cole normale sup\u00e9rieure Paris-Saclay"
+        ],
+        "employers": [
+          {
+            "company": "Dassault Syst\u00e8mes",
+            "start": "1983-09-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "director general",
+            "company": null,
+            "start": "1995-01-01",
+            "end": "2024-01-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q17434850",
+      "name": "Marie-H\u00e9l\u00e8ne Habert",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q17434850",
+        "name": "Marie-H\u00e9l\u00e8ne Habert",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q7564588",
+      "name": "Soumitra Dutta",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7564588",
+        "name": "Soumitra Dutta",
+        "dateOfBirth": "1963-08-27",
+        "birthPlace": "Chandigarh",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Soumitra%20Dutta%20-%20World%20Economic%20Forum%20on%20East%20Asia%202011.jpg",
+        "occupations": [
+          "academic",
+          "university teacher",
+          "business manager",
+          "computer scientist"
+        ],
+        "education": [
+          "University of California, Berkeley"
+        ],
+        "employers": [
+          {
+            "company": "Cornell University",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q3100600",
+      "name": "Genevi\u00e8ve Berger",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q3100600",
+        "name": "Genevi\u00e8ve Berger",
+        "dateOfBirth": "1955-01-26",
+        "birthPlace": "Dieuze",
+        "image": null,
+        "occupations": [
+          "biologist",
+          "researcher",
+          "physician"
+        ],
+        "education": [
+          "\u00c9cole normale sup\u00e9rieure Paris-Saclay"
+        ],
+        "employers": [
+          {
+            "company": "National Center for Scientific Research",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "director general",
+            "company": null,
+            "start": "2000-01-01",
+            "end": "2003-01-01"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2012-04-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q2958994",
+      "name": "Charles Edelstenne",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q2958994",
+        "name": "Charles Edelstenne",
+        "dateOfBirth": "1938-01-09",
+        "birthPlace": "Paris",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Edelstenne.png",
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [],
+        "employers": [],
+        "positions": [
+          {
+            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+            "company": null,
+            "start": "2000-04-04",
+            "end": "2013-01-09"
+          },
+          {
+            "title": "president",
+            "company": null,
+            "start": "2005-01-01",
+            "end": "2009-01-01"
+          },
+          {
+            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+            "company": null,
+            "start": "2018-01-01",
+            "end": "2025-01-08"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q2897681",
+      "name": "Bernard Charl\u00e8s",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q2897681",
+        "name": "Bernard Charl\u00e8s",
+        "dateOfBirth": "1957-03-30",
+        "birthPlace": "Brittany",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bernard%20Charl%C3%A8s%20Portrait.jpg",
+        "occupations": [
+          "engineer",
+          "businessperson"
+        ],
+        "education": [
+          "Institut sup\u00e9rieur de m\u00e9canique de Paris",
+          "\u00c9cole normale sup\u00e9rieure Paris-Saclay"
+        ],
+        "employers": [
+          {
+            "company": "Dassault Syst\u00e8mes",
+            "start": "1983-09-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "director general",
+            "company": null,
+            "start": "1995-01-01",
+            "end": "2024-01-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q138760320",
+      "name": "Anne-Laure Chevalier",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q138760320",
+        "name": "Anne-Laure Chevalier",
+        "dateOfBirth": "1985-07-13",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "politician",
+          "corporate administrative and commercial executive"
+        ],
+        "education": [],
+        "employers": [],
+        "positions": [
+          {
+            "title": "Mayor of La Chapelle-Montmartin",
+            "company": null,
+            "start": "2026-03-20",
+            "end": null
+          },
+          {
+            "title": "Mayor of La Chapelle-Montmartin",
+            "company": null,
+            "start": "2023-04-07",
+            "end": "2026-03-19"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q133566768",
+      "name": "Olivier Costa de Beauregard",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q133566768",
+        "name": "Olivier Costa de Beauregard",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q115735422",
+      "name": "Pascal Daloz",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q115735422",
+        "name": "Pascal Daloz",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Mines ParisTech"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "president",
+            "company": null,
+            "start": "2026-02-01",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2024-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q57414248",
+      "name": "Donatella Sciuto",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q57414248",
+        "name": "Donatella Sciuto",
+        "dateOfBirth": "1962-01-01",
+        "birthPlace": "Varese",
+        "image": null,
+        "occupations": [
+          "university teacher"
+        ],
+        "education": [
+          "University of Colorado Boulder",
+          "Polytechnic University of Milan",
+          "Bocconi University"
+        ],
+        "employers": [
+          {
+            "company": "Polytechnic University of Milan",
+            "start": "2000-01-01",
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
+}

@@ -7,14 +7,14 @@
   "occupations": [
     "academic",
     "investment banker",
-    "lawyer",
-    "businessperson"
+    "businessperson",
+    "lawyer"
   ],
   "education": [
-    "Harvard Law School",
     "Harvard Business School",
-    "University of Oxford",
-    "King's College, Lagos"
+    "Harvard Law School",
+    "King's College, Lagos",
+    "University of Oxford"
   ],
   "employers": [
     {

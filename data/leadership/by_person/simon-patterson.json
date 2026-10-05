@@ -1,0 +1,27 @@
+{
+  "qid": "Q108801294",
+  "name": "Simon Patterson",
+  "dateOfBirth": "1973-05-04",
+  "birthPlace": null,
+  "image": null,
+  "occupations": [
+    "board member",
+    "businessperson"
+  ],
+  "education": [
+    "University of Cambridge",
+    "Stanford Graduate School of Business"
+  ],
+  "employers": [],
+  "positions": [
+    {
+      "title": "managing director",
+      "company": null,
+      "start": "2019-01-01",
+      "end": null
+    }
+  ],
+  "currentTickers": [
+    "DELL"
+  ]
+}

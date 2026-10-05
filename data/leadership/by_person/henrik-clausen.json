@@ -1,0 +1,36 @@
+{
+  "qid": "Q62660539",
+  "name": "Henrik Clausen",
+  "dateOfBirth": "1963-06-08",
+  "birthPlace": null,
+  "image": null,
+  "occupations": [
+    "business executive"
+  ],
+  "education": [
+    "INSEAD"
+  ],
+  "employers": [
+    {
+      "company": "Bang & Olufsen",
+      "start": "2016-07-01",
+      "end": null
+    },
+    {
+      "company": "Telenor",
+      "start": "2005-01-01",
+      "end": "2010-01-01"
+    }
+  ],
+  "positions": [
+    {
+      "title": "board member",
+      "company": null,
+      "start": "2019-01-01",
+      "end": "2022-12-31"
+    }
+  ],
+  "currentTickers": [
+    "DAN"
+  ]
+}

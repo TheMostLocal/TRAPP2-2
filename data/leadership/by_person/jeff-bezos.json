@@ -12,11 +12,16 @@
     "computer scientist"
   ],
   "education": [
+    "Miami Palmetto High School",
     "Princeton University",
-    "River Oaks Elementary School",
-    "Miami Palmetto High School"
+    "River Oaks Elementary School"
   ],
   "employers": [
+    {
+      "company": "D.E. Shaw",
+      "start": "1990-01-01",
+      "end": "1994-01-01"
+    },
     {
       "company": "Amazon",
       "start": "1994-07-05",
@@ -31,25 +36,20 @@
       "company": "First International Telecom",
       "start": null,
       "end": null
-    },
-    {
-      "company": "D.E. Shaw",
-      "start": "1990-01-01",
-      "end": "1994-01-01"
     }
   ],
   "positions": [
-    {
-      "title": "chairperson of the executive board",
-      "company": null,
-      "start": null,
-      "end": null
-    },
     {
       "title": "chief executive officer",
       "company": null,
       "start": "1996-05-01",
       "end": "2021-07-05"
+    },
+    {
+      "title": "chairperson of the executive board",
+      "company": null,
+      "start": null,
+      "end": null
     }
   ],
   "currentTickers": [

@@ -1,0 +1,46 @@
+{
+  "qid": "Q26836942",
+  "name": "Eva Berneke",
+  "dateOfBirth": "1969-04-22",
+  "birthPlace": null,
+  "image": null,
+  "occupations": [
+    "manager",
+    "engineer",
+    "businessperson"
+  ],
+  "education": [
+    "Technical University of Denmark",
+    "INSEAD"
+  ],
+  "employers": [],
+  "positions": [
+    {
+      "title": "chief executive officer",
+      "company": null,
+      "start": "2014-03-10",
+      "end": null
+    },
+    {
+      "title": "board member",
+      "company": null,
+      "start": null,
+      "end": null
+    },
+    {
+      "title": "chief executive officer",
+      "company": null,
+      "start": "2022-01-01",
+      "end": "2025-05-31"
+    },
+    {
+      "title": "chief officer",
+      "company": null,
+      "start": "2014-03-10",
+      "end": null
+    }
+  ],
+  "currentTickers": [
+    "DAN"
+  ]
+}

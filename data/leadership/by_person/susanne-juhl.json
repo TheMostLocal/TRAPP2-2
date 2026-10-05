@@ -1,0 +1,58 @@
+{
+  "qid": "Q28035726",
+  "name": "Susanne Juhl",
+  "dateOfBirth": null,
+  "birthPlace": null,
+  "image": null,
+  "occupations": [],
+  "education": [],
+  "employers": [
+    {
+      "company": "Ministry of Finance of Denmark",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Ministry of Energy, Utilities, and Climate",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Ministry of Environment",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "HMN Naturgas",
+      "start": "2012-01-01",
+      "end": null
+    },
+    {
+      "company": "Danish Energy Agency",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "The Danish Road Directorate",
+      "start": null,
+      "end": null
+    }
+  ],
+  "positions": [
+    {
+      "title": "board member",
+      "company": null,
+      "start": "2017-01-01",
+      "end": null
+    },
+    {
+      "title": "chief executive officer",
+      "company": null,
+      "start": null,
+      "end": null
+    }
+  ],
+  "currentTickers": [
+    "DAN"
+  ]
+}

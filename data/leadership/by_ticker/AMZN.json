@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-10-04T21:52:31.425195Z",
+  "fetchedAt": "2026-10-05T11:45:07.315661Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -18,18 +18,18 @@
         ],
         "education": [
           "Harvard Business School",
-          "Scarsdale High School",
-          "Harvard University"
+          "Harvard University",
+          "Scarsdale High School"
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           },
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           }
         ],
@@ -62,11 +62,16 @@
           "computer scientist"
         ],
         "education": [
+          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School",
-          "Miami Palmetto High School"
+          "River Oaks Elementary School"
         ],
         "employers": [
+          {
+            "company": "D.E. Shaw",
+            "start": "1990-01-01",
+            "end": "1994-01-01"
+          },
           {
             "company": "Amazon",
             "start": "1994-07-05",
@@ -81,25 +86,20 @@
             "company": "First International Telecom",
             "start": null,
             "end": null
-          },
-          {
-            "company": "D.E. Shaw",
-            "start": "1990-01-01",
-            "end": "1994-01-01"
           }
         ],
         "positions": [
-          {
-            "title": "chairperson of the executive board",
-            "company": null,
-            "start": null,
-            "end": null
-          },
           {
             "title": "chief executive officer",
             "company": null,
             "start": "1996-05-01",
             "end": "2021-07-05"
+          },
+          {
+            "title": "chairperson of the executive board",
+            "company": null,
+            "start": null,
+            "end": null
           }
         ]
       }
@@ -120,18 +120,18 @@
         ],
         "education": [
           "Harvard Business School",
-          "Scarsdale High School",
-          "Harvard University"
+          "Harvard University",
+          "Scarsdale High School"
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           },
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           }
         ],
@@ -295,8 +295,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
         "occupations": [
           "spy",
-          "intelligence officer",
-          "soldier"
+          "soldier",
+          "intelligence officer"
         ],
         "education": [
           "Naval Postgraduate School",
@@ -334,10 +334,10 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "university teacher",
-          "academic",
           "executive",
           "dean",
+          "university teacher",
+          "academic",
           "computer scientist"
         ],
         "education": [
@@ -460,11 +460,16 @@
           "computer scientist"
         ],
         "education": [
+          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School",
-          "Miami Palmetto High School"
+          "River Oaks Elementary School"
         ],
         "employers": [
+          {
+            "company": "D.E. Shaw",
+            "start": "1990-01-01",
+            "end": "1994-01-01"
+          },
           {
             "company": "Amazon",
             "start": "1994-07-05",
@@ -479,25 +484,20 @@
             "company": "First International Telecom",
             "start": null,
             "end": null
-          },
-          {
-            "company": "D.E. Shaw",
-            "start": "1990-01-01",
-            "end": "1994-01-01"
           }
         ],
         "positions": [
-          {
-            "title": "chairperson of the executive board",
-            "company": null,
-            "start": null,
-            "end": null
-          },
           {
             "title": "chief executive officer",
             "company": null,
             "start": "1996-05-01",
             "end": "2021-07-05"
+          },
+          {
+            "title": "chairperson of the executive board",
+            "company": null,
+            "start": null,
+            "end": null
           }
         ]
       }
@@ -517,11 +517,11 @@
           "businessperson"
         ],
         "education": [
+          "Indian Institute of Management Calcutta",
+          "University of Madras",
           "Yale School of Management",
           "Holy Angels Anglo Indian Higher Secondary School",
           "Madras Christian College",
-          "Indian Institute of Management Calcutta",
-          "University of Madras",
           "Yale University"
         ],
         "employers": [
@@ -529,6 +529,11 @@
             "company": "PepsiCo",
             "start": "1994-01-01",
             "end": "2018-01-01"
+          },
+          {
+            "company": "Johnson & Johnson",
+            "start": null,
+            "end": null
           },
           {
             "company": "Boston Consulting Group",
@@ -541,18 +546,13 @@
             "end": null
           },
           {
-            "company": "Johnson & Johnson",
-            "start": null,
+            "company": "Amazon",
+            "start": "2019-01-01",
             "end": null
           },
           {
             "company": "Booz Allen Hamilton",
             "start": null,
-            "end": null
-          },
-          {
-            "company": "Amazon",
-            "start": "2019-01-01",
             "end": null
           }
         ],
@@ -591,11 +591,16 @@
           "computer scientist"
         ],
         "education": [
+          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School",
-          "Miami Palmetto High School"
+          "River Oaks Elementary School"
         ],
         "employers": [
+          {
+            "company": "D.E. Shaw",
+            "start": "1990-01-01",
+            "end": "1994-01-01"
+          },
           {
             "company": "Amazon",
             "start": "1994-07-05",
@@ -610,25 +615,20 @@
             "company": "First International Telecom",
             "start": null,
             "end": null
-          },
-          {
-            "company": "D.E. Shaw",
-            "start": "1990-01-01",
-            "end": "1994-01-01"
           }
         ],
         "positions": [
-          {
-            "title": "chairperson of the executive board",
-            "company": null,
-            "start": null,
-            "end": null
-          },
           {
             "title": "chief executive officer",
             "company": null,
             "start": "1996-05-01",
             "end": "2021-07-05"
+          },
+          {
+            "title": "chairperson of the executive board",
+            "company": null,
+            "start": null,
+            "end": null
           }
         ]
       }

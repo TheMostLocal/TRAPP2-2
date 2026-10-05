@@ -1,0 +1,30 @@
+{
+  "qid": "Q6208316",
+  "name": "Joe Albertson",
+  "dateOfBirth": "1906-10-17",
+  "birthPlace": "Yukon",
+  "image": null,
+  "occupations": [
+    "businessperson"
+  ],
+  "education": [
+    "College of Idaho",
+    "Caldwell High School"
+  ],
+  "employers": [
+    {
+      "company": "Safeway",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Albertsons",
+      "start": null,
+      "end": null
+    }
+  ],
+  "positions": [],
+  "currentTickers": [
+    "ACI"
+  ]
+}

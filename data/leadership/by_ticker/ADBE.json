@@ -1,6 +1,6 @@
 {
   "ticker": "ADBE",
-  "fetchedAt": "2026-10-04T21:52:31.424618Z",
+  "fetchedAt": "2026-10-05T11:45:07.310825Z",
   "people": [
     {
       "qid": "Q2622748",
@@ -452,8 +452,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Geschke%20photo.png",
         "occupations": [
           "university teacher",
-          "entrepreneur",
           "software developer",
+          "entrepreneur",
           "computer scientist"
         ],
         "education": [
@@ -499,11 +499,11 @@
         "birthPlace": "Salt Lake City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Warnock%202008.jpg",
         "occupations": [
-          "mathematician",
           "entrepreneur",
+          "mathematician",
+          "businessperson",
           "computer scientist",
-          "engineer",
-          "businessperson"
+          "engineer"
         ],
         "education": [
           "Olympus High School",
@@ -511,17 +511,17 @@
         ],
         "employers": [
           {
+            "company": "Adobe",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Palo Alto Research Center",
             "start": "1978-01-01",
             "end": "1982-01-01"
           },
           {
             "company": "Evans & Sutherland",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Adobe",
             "start": null,
             "end": null
           }

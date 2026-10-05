@@ -1,0 +1,23 @@
+{
+  "qid": "Q28170196",
+  "name": "Per Falholt",
+  "dateOfBirth": null,
+  "birthPlace": null,
+  "image": null,
+  "occupations": [],
+  "education": [
+    "Technical University of Denmark"
+  ],
+  "employers": [],
+  "positions": [
+    {
+      "title": "chief scientific officer",
+      "company": null,
+      "start": null,
+      "end": "2016-02-08"
+    }
+  ],
+  "currentTickers": [
+    "DAN"
+  ]
+}

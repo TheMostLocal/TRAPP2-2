@@ -1,6 +1,6 @@
 {
   "ticker": "BRK.B",
-  "fetchedAt": "2026-10-04T21:52:31.426612Z",
+  "fetchedAt": "2026-10-05T11:45:07.324446Z",
   "people": [
     {
       "qid": "Q47168572",
@@ -14,9 +14,9 @@
         "birthPlace": "Edmonton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Greg%20Abel.jpg",
         "occupations": [
-          "business executive",
           "chartered accountant",
-          "investor"
+          "investor",
+          "business executive"
         ],
         "education": [
           "University of Alberta"
@@ -62,8 +62,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20Buffett%20unveiled%20a%20plaque%20dedicated%20to%20himself%2C%20as%20an%20American%20philanthropist%2C%20on%20the%20Walk%20of%20the%20Brave%20in%20Kyiv%2C%20Ukraine%20on%2018%3BDecember%202023%20%28cropped%29.jpg",
         "occupations": [
           "entrepreneur",
-          "writer",
           "farmer",
+          "writer",
           "photographer"
         ],
         "education": [
@@ -191,9 +191,9 @@
         "birthPlace": "Edmonton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Greg%20Abel.jpg",
         "occupations": [
-          "business executive",
           "chartered accountant",
-          "investor"
+          "investor",
+          "business executive"
         ],
         "education": [
           "University of Alberta"
@@ -364,13 +364,13 @@
         "birthPlace": "Birmingham",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20burke%20comcast%20coo.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Colgate University",
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -451,15 +451,15 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20Chenault.jpg",
         "occupations": [
           "venture capitalist",
-          "lawyer",
-          "businessperson",
           "entrepreneur",
+          "businessperson",
+          "lawyer",
           "chief executive officer"
         ],
         "education": [
-          "The Waldorf School of Garden City",
           "Bowdoin College",
-          "Harvard Law School"
+          "Harvard Law School",
+          "The Waldorf School of Garden City"
         ],
         "employers": [
           {
@@ -482,12 +482,6 @@
           {
             "title": "board of directors member",
             "company": null,
-            "start": "2018-01-01",
-            "end": null
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
             "start": "2020-05-02",
             "end": null
           },
@@ -496,6 +490,12 @@
             "company": null,
             "start": "2001-01-01",
             "end": "2018-02-01"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2018-01-01",
+            "end": null
           }
         ]
       }
@@ -543,8 +543,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20Buffett%20unveiled%20a%20plaque%20dedicated%20to%20himself%2C%20as%20an%20American%20philanthropist%2C%20on%20the%20Walk%20of%20the%20Brave%20in%20Kyiv%2C%20Ukraine%20on%2018%3BDecember%202023%20%28cropped%29.jpg",
         "occupations": [
           "entrepreneur",
-          "writer",
           "farmer",
+          "writer",
           "photographer"
         ],
         "education": [

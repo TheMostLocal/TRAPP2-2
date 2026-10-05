@@ -1,0 +1,30 @@
+{
+  "qid": "Q138760320",
+  "name": "Anne-Laure Chevalier",
+  "dateOfBirth": "1985-07-13",
+  "birthPlace": null,
+  "image": null,
+  "occupations": [
+    "politician",
+    "corporate administrative and commercial executive"
+  ],
+  "education": [],
+  "employers": [],
+  "positions": [
+    {
+      "title": "Mayor of La Chapelle-Montmartin",
+      "company": null,
+      "start": "2026-03-20",
+      "end": null
+    },
+    {
+      "title": "Mayor of La Chapelle-Montmartin",
+      "company": null,
+      "start": "2023-04-07",
+      "end": "2026-03-19"
+    }
+  ],
+  "currentTickers": [
+    "DASTY"
+  ]
+}

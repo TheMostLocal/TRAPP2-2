@@ -1,0 +1,23 @@
+{
+  "ticker": "DISH",
+  "fetchedAt": "2026-10-05T11:45:07.340378Z",
+  "people": [
+    {
+      "qid": "Q31431041",
+      "name": "Cantey Ergen",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q31431041",
+        "name": "Cantey Ergen",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    }
+  ]
+}

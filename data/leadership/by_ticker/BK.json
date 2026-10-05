@@ -1,0 +1,27 @@
+{
+  "ticker": "BK",
+  "fetchedAt": "2026-10-05T11:45:07.321750Z",
+  "people": [
+    {
+      "qid": "Q58214646",
+      "name": "Dick van Gameren",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q58214646",
+        "name": "Dick van Gameren",
+        "dateOfBirth": "1962-01-01",
+        "birthPlace": "Amersfoort",
+        "image": null,
+        "occupations": [
+          "university teacher",
+          "architect",
+          "dean"
+        ],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    }
+  ]
+}

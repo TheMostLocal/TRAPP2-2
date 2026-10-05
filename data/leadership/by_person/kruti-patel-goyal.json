@@ -1,0 +1,30 @@
+{
+  "qid": "Q136670079",
+  "name": "Kruti Patel Goyal",
+  "dateOfBirth": null,
+  "birthPlace": null,
+  "image": null,
+  "occupations": [
+    "businessperson"
+  ],
+  "education": [
+    "Stanford University",
+    "Harvard University"
+  ],
+  "employers": [
+    {
+      "company": "Morgan Stanley",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Depop",
+      "start": null,
+      "end": null
+    }
+  ],
+  "positions": [],
+  "currentTickers": [
+    "ETSY"
+  ]
+}

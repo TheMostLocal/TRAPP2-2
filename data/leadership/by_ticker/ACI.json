@@ -1,0 +1,276 @@
+{
+  "ticker": "ACI",
+  "fetchedAt": "2026-10-05T11:45:07.310573Z",
+  "people": [
+    {
+      "qid": "Q114582658",
+      "name": "Scott Wille",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114582658",
+        "name": "Scott Wille",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Dartmouth College"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q114582560",
+      "name": "Alan Schumacher",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114582560",
+        "name": "Alan Schumacher",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q114582549",
+      "name": "Hersch Klaff",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114582549",
+        "name": "Hersch Klaff",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "University of the Witwatersrand"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q114582538",
+      "name": "Allen Gibson",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114582538",
+        "name": "Allen Gibson",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q114582455",
+      "name": "Kim Fennebresque",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114582455",
+        "name": "Kim Fennebresque",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q114582348",
+      "name": "Shant Babikian",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114582348",
+        "name": "Shant Babikian",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "William E. Macaulay Honors College"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q114582183",
+      "name": "Chan Galbato",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114582183",
+        "name": "Chan Galbato",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "University of Chicago"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q114580196",
+      "name": "Vivek Sankaran",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114580196",
+        "name": "Vivek Sankaran",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Georgia Tech",
+          "Indian Institute of Technology Madras",
+          "University of Michigan"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q109807190",
+      "name": "Mary Beth West",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109807190",
+        "name": "Mary Beth West",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "board member",
+          "businessperson"
+        ],
+        "education": [
+          "Columbia Business School"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q109656448",
+      "name": "Sharon Allen",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109656448",
+        "name": "Sharon Allen",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "University of Idaho"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q6194665",
+      "name": "Jim Donald",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6194665",
+        "name": "Jim Donald",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q4964346",
+      "name": "B. Kevin Turner",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q4964346",
+        "name": "B. Kevin Turner",
+        "dateOfBirth": "1965-04-03",
+        "birthPlace": "Oklahoma",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Milken%202016%20Turner.jpg",
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "East Central University"
+        ],
+        "employers": [
+          {
+            "company": "Microsoft",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q6208316",
+      "name": "Joe Albertson",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q6208316",
+        "name": "Joe Albertson",
+        "dateOfBirth": "1906-10-17",
+        "birthPlace": "Yukon",
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "College of Idaho",
+          "Caldwell High School"
+        ],
+        "employers": [
+          {
+            "company": "Safeway",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Albertsons",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "ticker": "CAT",
-  "fetchedAt": "2026-10-04T21:52:31.427003Z",
+  "fetchedAt": "2026-10-05T11:45:07.326628Z",
   "people": [
     {
       "qid": "Q137168946",
@@ -106,15 +106,15 @@
         "birthPlace": "United States",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Susan%20Schwab%2C%20USTR%20official%20photo.jpg",
         "occupations": [
-          "diplomat",
+          "politician",
           "university teacher",
-          "politician"
+          "diplomat"
         ],
         "education": [
-          "Williams College",
           "Aiglon College",
           "International School Bangkok",
           "George Washington University",
+          "Williams College",
           "Stanford University"
         ],
         "employers": [
@@ -205,8 +205,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Kettering University",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Kettering University"
         ],
         "employers": [],
         "positions": []
@@ -326,9 +326,9 @@
           "chief executive officer"
         ],
         "education": [
+          "Booth School of Business",
           "University of Chicago",
           "Amherst College",
-          "Booth School of Business",
           "Edina High School"
         ],
         "employers": [],

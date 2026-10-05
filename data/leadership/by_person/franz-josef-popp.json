@@ -1,0 +1,27 @@
+{
+  "qid": "Q113393",
+  "name": "Franz Josef Popp",
+  "dateOfBirth": "1886-01-14",
+  "birthPlace": "Vienna",
+  "image": null,
+  "occupations": [
+    "designer",
+    "engineer",
+    "entrepreneur"
+  ],
+  "education": [
+    "German Technical University in Brno",
+    "Brno University of Technology"
+  ],
+  "employers": [
+    {
+      "company": "BMW",
+      "start": null,
+      "end": null
+    }
+  ],
+  "positions": [],
+  "currentTickers": [
+    "BMWYY"
+  ]
+}

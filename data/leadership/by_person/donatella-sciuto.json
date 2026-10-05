@@ -1,0 +1,26 @@
+{
+  "qid": "Q57414248",
+  "name": "Donatella Sciuto",
+  "dateOfBirth": "1962-01-01",
+  "birthPlace": "Varese",
+  "image": null,
+  "occupations": [
+    "university teacher"
+  ],
+  "education": [
+    "University of Colorado Boulder",
+    "Polytechnic University of Milan",
+    "Bocconi University"
+  ],
+  "employers": [
+    {
+      "company": "Polytechnic University of Milan",
+      "start": "2000-01-01",
+      "end": null
+    }
+  ],
+  "positions": [],
+  "currentTickers": [
+    "DASTY"
+  ]
+}

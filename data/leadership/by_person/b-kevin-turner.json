@@ -1,0 +1,24 @@
+{
+  "qid": "Q4964346",
+  "name": "B. Kevin Turner",
+  "dateOfBirth": "1965-04-03",
+  "birthPlace": "Oklahoma",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Milken%202016%20Turner.jpg",
+  "occupations": [
+    "businessperson"
+  ],
+  "education": [
+    "East Central University"
+  ],
+  "employers": [
+    {
+      "company": "Microsoft",
+      "start": null,
+      "end": null
+    }
+  ],
+  "positions": [],
+  "currentTickers": [
+    "ACI"
+  ]
+}

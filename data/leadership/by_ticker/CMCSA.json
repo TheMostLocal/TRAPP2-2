@@ -1,6 +1,6 @@
 {
   "ticker": "CMCSA",
-  "fetchedAt": "2026-10-04T21:52:31.427259Z",
+  "fetchedAt": "2026-10-05T11:45:07.329680Z",
   "people": [
     {
       "qid": "Q4964404",
@@ -163,8 +163,8 @@
           "nurse"
         ],
         "education": [
-          "Villanova University",
-          "University of Pennsylvania"
+          "University of Pennsylvania",
+          "Villanova University"
         ],
         "employers": [],
         "positions": []
@@ -327,8 +327,8 @@
           "businessperson"
         ],
         "education": [
-          "The Wharton School",
-          "University of Pennsylvania"
+          "University of Pennsylvania",
+          "The Wharton School"
         ],
         "employers": [
           {

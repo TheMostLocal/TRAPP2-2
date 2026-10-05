@@ -1,6 +1,6 @@
 {
   "ticker": "COST",
-  "fetchedAt": "2026-10-04T21:52:31.427601Z",
+  "fetchedAt": "2026-10-05T11:45:07.331582Z",
   "people": [
     {
       "qid": "Q114361370",
@@ -273,9 +273,9 @@
         "birthPlace": "Nebraska",
         "image": null,
         "occupations": [
-          "chief executive officer",
           "computer scientist",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Stanford University"

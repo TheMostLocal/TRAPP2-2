@@ -1,0 +1,35 @@
+{
+  "qid": "Q2958994",
+  "name": "Charles Edelstenne",
+  "dateOfBirth": "1938-01-09",
+  "birthPlace": "Paris",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Edelstenne.png",
+  "occupations": [
+    "businessperson"
+  ],
+  "education": [],
+  "employers": [],
+  "positions": [
+    {
+      "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+      "company": null,
+      "start": "2000-04-04",
+      "end": "2013-01-09"
+    },
+    {
+      "title": "president",
+      "company": null,
+      "start": "2005-01-01",
+      "end": "2009-01-01"
+    },
+    {
+      "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+      "company": null,
+      "start": "2018-01-01",
+      "end": "2025-01-08"
+    }
+  ],
+  "currentTickers": [
+    "DASTY"
+  ]
+}

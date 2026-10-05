@@ -1,6 +1,6 @@
 {
   "ticker": "DIS",
-  "fetchedAt": "2026-10-04T21:52:31.428744Z",
+  "fetchedAt": "2026-10-05T11:45:07.339672Z",
   "people": [
     {
       "qid": "Q86408516",
@@ -14,8 +14,8 @@
         "birthPlace": "Hammond",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Chapek%20%2849607223226%29%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
           "Indiana University Bloomington",
@@ -276,9 +276,9 @@
         "birthPlace": "Oceanside",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2018%20Bob%20Iger%20%28cropped%29.jpg",
         "occupations": [
-          "television producer",
           "film producer",
           "business executive",
+          "television producer",
           "entrepreneur",
           "businessperson"
         ],
@@ -319,6 +319,12 @@
             "end": "2005-01-01"
           },
           {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2005-10-01",
+            "end": "2020-02-25"
+          },
+          {
             "title": "president",
             "company": null,
             "start": "1989-01-01",
@@ -329,12 +335,6 @@
             "company": null,
             "start": "2022-11-20",
             "end": "2026-03-17"
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2005-10-01",
-            "end": "2020-02-25"
           }
         ]
       }
@@ -357,17 +357,17 @@
           "manufacturer",
           "film actor",
           "caricaturist",
-          "illustrator",
           "director",
-          "film producer",
           "film director",
+          "film producer",
           "voice actor",
+          "illustrator",
           "painter",
           "television presenter",
           "comics artist",
           "animator",
-          "writer",
           "inventor",
+          "writer",
           "actor"
         ],
         "education": [
@@ -391,8 +391,8 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "businessperson",
-          "manager"
+          "manager",
+          "businessperson"
         ],
         "education": [
           "Joseph M. Katz Graduate School of Business",
@@ -422,8 +422,8 @@
         "birthPlace": "Hammond",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Chapek%20%2849607223226%29%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
           "Indiana University Bloomington",
@@ -494,9 +494,9 @@
           "Princeton School of Public and International Affairs",
           "St Antony's College",
           "Harvard Law School",
-          "The Branson School",
           "University of Oxford",
-          "Princeton University"
+          "Princeton University",
+          "The Branson School"
         ],
         "employers": [],
         "positions": [
@@ -530,10 +530,10 @@
           "business executive"
         ],
         "education": [
-          "Stanford University",
           "Waterford Mott High School",
           "Kettering University",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -649,8 +649,8 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "businessperson",
-          "manager"
+          "manager",
+          "businessperson"
         ],
         "education": [
           "Joseph M. Katz Graduate School of Business",
@@ -803,8 +803,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Indiana University",
@@ -853,17 +853,17 @@
           "manufacturer",
           "film actor",
           "caricaturist",
-          "illustrator",
           "director",
-          "film producer",
           "film director",
+          "film producer",
           "voice actor",
+          "illustrator",
           "painter",
           "television presenter",
           "comics artist",
           "animator",
-          "writer",
           "inventor",
+          "writer",
           "actor"
         ],
         "education": [

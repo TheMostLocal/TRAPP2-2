@@ -1,0 +1,305 @@
+{
+  "ticker": "DAN",
+  "fetchedAt": "2026-10-05T11:45:07.338679Z",
+  "people": [
+    {
+      "qid": "Q62660539",
+      "name": "Henrik Clausen",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q62660539",
+        "name": "Henrik Clausen",
+        "dateOfBirth": "1963-06-08",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "INSEAD"
+        ],
+        "employers": [
+          {
+            "company": "Bang & Olufsen",
+            "start": "2016-07-01",
+            "end": null
+          },
+          {
+            "company": "Telenor",
+            "start": "2005-01-01",
+            "end": "2010-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "board member",
+            "company": null,
+            "start": "2019-01-01",
+            "end": "2022-12-31"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q28170196",
+      "name": "Per Falholt",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q28170196",
+        "name": "Per Falholt",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Technical University of Denmark"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "chief scientific officer",
+            "company": null,
+            "start": null,
+            "end": "2016-02-08"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q28037111",
+      "name": "Hanne S\u00f8ndergaard",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q28037111",
+        "name": "Hanne S\u00f8ndergaard",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Aarhus School of Business",
+          "Harvard Business School"
+        ],
+        "employers": [
+          {
+            "company": "Arla Foods",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q28035726",
+      "name": "Susanne Juhl",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q28035726",
+        "name": "Susanne Juhl",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [],
+        "employers": [
+          {
+            "company": "Ministry of Finance of Denmark",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Ministry of Energy, Utilities, and Climate",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Ministry of Environment",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "HMN Naturgas",
+            "start": "2012-01-01",
+            "end": null
+          },
+          {
+            "company": "Danish Energy Agency",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "The Danish Road Directorate",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board member",
+            "company": null,
+            "start": "2017-01-01",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q26836942",
+      "name": "Eva Berneke",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q26836942",
+        "name": "Eva Berneke",
+        "dateOfBirth": "1969-04-22",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "manager",
+          "engineer",
+          "businessperson"
+        ],
+        "education": [
+          "Technical University of Denmark",
+          "INSEAD"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2014-03-10",
+            "end": null
+          },
+          {
+            "title": "board member",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2022-01-01",
+            "end": "2025-05-31"
+          },
+          {
+            "title": "chief officer",
+            "company": null,
+            "start": "2014-03-10",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q2437740",
+      "name": "Tobias Colding",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q2437740",
+        "name": "Tobias Colding",
+        "dateOfBirth": "1963-01-01",
+        "birthPlace": "Copenhagen",
+        "image": null,
+        "occupations": [
+          "mathematician",
+          "university teacher"
+        ],
+        "education": [
+          "University of Pennsylvania"
+        ],
+        "employers": [
+          {
+            "company": "Massachusetts Institute of Technology",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board member",
+            "company": null,
+            "start": "2017-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q44412",
+      "name": "Hans Christian \u00d8rsted",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q44412",
+        "name": "Hans Christian \u00d8rsted",
+        "dateOfBirth": "1777-08-14",
+        "birthPlace": "Rudk\u00f8bing",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98rsted%2C%20Hans%20Christian%20%28av%20Christian%20Albrecht%20Jensen%201842%29.jpg",
+        "occupations": [
+          "university teacher",
+          "chemist",
+          "inventor",
+          "physicist",
+          "engineer",
+          "pharmacist"
+        ],
+        "education": [
+          "University of Copenhagen",
+          "University of Jena"
+        ],
+        "employers": [
+          {
+            "company": "Technical University of Denmark",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "University of Copenhagen",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "rector",
+            "company": null,
+            "start": "1840-01-01",
+            "end": "1841-01-01"
+          },
+          {
+            "title": "rector",
+            "company": null,
+            "start": "1825-01-01",
+            "end": "1826-01-01"
+          },
+          {
+            "title": "rector",
+            "company": null,
+            "start": "1850-01-01",
+            "end": "1851-01-01"
+          },
+          {
+            "title": "rector",
+            "company": null,
+            "start": "1829-01-27",
+            "end": "1851-03-13"
+          }
+        ]
+      }
+    }
+  ]
+}

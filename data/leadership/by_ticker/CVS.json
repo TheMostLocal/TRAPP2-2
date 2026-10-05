@@ -1,6 +1,6 @@
 {
   "ticker": "CVS",
-  "fetchedAt": "2026-10-04T21:52:31.428234Z",
+  "fetchedAt": "2026-10-05T11:45:07.336335Z",
   "people": [
     {
       "qid": "Q130783979",
@@ -42,8 +42,8 @@
         "birthPlace": "Ware",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karen%20S.%20Lynch%20by%20Rick%20Bern%20Photography.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
           "Boston University",
@@ -159,8 +159,8 @@
         "birthPlace": "Brooklyn",
         "image": null,
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Quinnipiac University"
@@ -248,8 +248,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Columbia University",
-          "College of the Holy Cross"
+          "College of the Holy Cross",
+          "Columbia University"
         ],
         "employers": [],
         "positions": []
@@ -306,8 +306,8 @@
         "birthPlace": "Detroit",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Bertolini%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "entrepreneur"
         ],
         "education": [
           "Samuel Curtis Johnson Graduate School of Management",
@@ -382,8 +382,8 @@
         "birthPlace": "Ware",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karen%20S.%20Lynch%20by%20Rick%20Bern%20Photography.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
           "Boston University",
