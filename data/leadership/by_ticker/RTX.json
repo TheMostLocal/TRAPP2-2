@@ -1,6 +1,6 @@
 {
   "ticker": "RTX",
-  "fetchedAt": "2026-10-04T21:46:32.788673Z",
+  "fetchedAt": "2026-10-05T14:34:18.434679Z",
   "people": [
     {
       "qid": "Q28922190",
@@ -58,8 +58,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "University of Miami"
@@ -80,8 +80,8 @@
         "birthPlace": "Dubuque",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ortberg-Senate%20%28cropped%29.png",
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "University of Iowa"
@@ -240,17 +240,17 @@
         ],
         "employers": [
           {
-            "company": "United States Department of the Navy",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "United States Department of Defense",
             "start": null,
             "end": null
           },
           {
             "company": "George Washington University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "United States Department of the Navy",
             "start": null,
             "end": null
           }
@@ -286,10 +286,10 @@
           "civil servant"
         ],
         "education": [
-          "University of Oxford",
           "Saddleback High School",
           "Lexington High School",
-          "Georgetown University"
+          "Georgetown University",
+          "University of Oxford"
         ],
         "employers": [
           {

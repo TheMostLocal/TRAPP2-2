@@ -1,6 +1,6 @@
 {
   "ticker": "TSLA",
-  "fetchedAt": "2026-10-04T21:46:32.791066Z",
+  "fetchedAt": "2026-10-05T14:34:18.439692Z",
   "people": [
     {
       "qid": "Q317521",
@@ -14,15 +14,15 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "financier",
-          "investor",
           "philanthropist",
           "technology entrepreneur",
-          "dub actor",
           "programmer",
+          "dub actor",
+          "financier",
+          "investor",
           "civil servant",
-          "entrepreneur",
           "inventor",
+          "entrepreneur",
           "engineer",
           "politician"
         ],
@@ -44,14 +44,14 @@
             "end": null
           },
           {
-            "company": "The Boring Company",
-            "start": "2016-12-17",
-            "end": null
-          },
-          {
             "company": "Department of Government Efficiency",
             "start": "2025-01-20",
             "end": "2025-05-30"
+          },
+          {
+            "company": "The Boring Company",
+            "start": "2016-12-17",
+            "end": null
           },
           {
             "company": "SolarCity",
@@ -291,9 +291,9 @@
           "venture capitalist"
         ],
         "education": [
+          "University of California, Los Angeles",
           "Stanford Law School",
-          "Stanford Graduate School of Business",
-          "University of California, Los Angeles"
+          "Stanford Graduate School of Business"
         ],
         "employers": [],
         "positions": [
@@ -525,15 +525,15 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "financier",
-          "investor",
           "philanthropist",
           "technology entrepreneur",
-          "dub actor",
           "programmer",
+          "dub actor",
+          "financier",
+          "investor",
           "civil servant",
-          "entrepreneur",
           "inventor",
+          "entrepreneur",
           "engineer",
           "politician"
         ],
@@ -555,14 +555,14 @@
             "end": null
           },
           {
-            "company": "The Boring Company",
-            "start": "2016-12-17",
-            "end": null
-          },
-          {
             "company": "Department of Government Efficiency",
             "start": "2025-01-20",
             "end": "2025-05-30"
+          },
+          {
+            "company": "The Boring Company",
+            "start": "2016-12-17",
+            "end": null
           },
           {
             "company": "SolarCity",
@@ -644,8 +644,8 @@
         "occupations": [
           "aircraft pilot",
           "entrepreneur",
-          "businessperson",
           "computer scientist",
+          "businessperson",
           "actor"
         ],
         "education": [
@@ -706,8 +706,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Murdoch%202008-%20NRKbeta%20%28cropped%29.jpg",
         "occupations": [
           "karateka",
-          "publisher",
-          "businessperson"
+          "businessperson",
+          "publisher"
         ],
         "education": [
           "Horace Mann School",
@@ -742,8 +742,8 @@
         "birthPlace": "Berkeley",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Eberhard%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "engineer"
+          "engineer",
+          "entrepreneur"
         ],
         "education": [
           "York Community High School",

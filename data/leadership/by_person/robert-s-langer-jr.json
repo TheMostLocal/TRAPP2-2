@@ -5,9 +5,9 @@
   "birthPlace": "Albany",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Langer.jpg",
   "occupations": [
-    "chemical engineer",
     "university teacher",
     "biotechnologist",
+    "chemical engineer",
     "biochemist",
     "engineer",
     "inventor"
@@ -20,12 +20,12 @@
   ],
   "employers": [
     {
-      "company": "Harvard University",
+      "company": "Massachusetts Institute of Technology",
       "start": null,
       "end": null
     },
     {
-      "company": "Massachusetts Institute of Technology",
+      "company": "Harvard University",
       "start": null,
       "end": null
     }

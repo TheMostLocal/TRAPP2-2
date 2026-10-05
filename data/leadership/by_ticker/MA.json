@@ -1,6 +1,6 @@
 {
   "ticker": "MA",
-  "fetchedAt": "2026-10-05T12:18:37.414258Z",
+  "fetchedAt": "2026-10-05T14:26:06.984934Z",
   "people": [
     {
       "qid": "Q115735747",
@@ -23,11 +23,6 @@
         ],
         "employers": [
           {
-            "company": "Mastercard",
-            "start": "2010-01-01",
-            "end": null
-          },
-          {
             "company": "Citigroup",
             "start": "1994-01-01",
             "end": "2007-01-01"
@@ -36,6 +31,11 @@
             "company": "Barclays",
             "start": "2007-01-01",
             "end": "2010-01-01"
+          },
+          {
+            "company": "Mastercard",
+            "start": "2010-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -116,9 +116,9 @@
           "businessperson"
         ],
         "education": [
+          "Princeton University",
           "Harvard Law School",
-          "Harvard Business School",
-          "Princeton University"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -164,11 +164,6 @@
         ],
         "employers": [
           {
-            "company": "Mastercard",
-            "start": "2010-01-01",
-            "end": null
-          },
-          {
             "company": "Citigroup",
             "start": "1994-01-01",
             "end": "2007-01-01"
@@ -177,6 +172,11 @@
             "company": "Barclays",
             "start": "2007-01-01",
             "end": "2010-01-01"
+          },
+          {
+            "company": "Mastercard",
+            "start": "2010-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -357,8 +357,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "banker"
+          "banker",
+          "entrepreneur"
         ],
         "education": [
           "California State University, Fullerton"

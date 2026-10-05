@@ -1,6 +1,6 @@
 {
   "ticker": "XOM",
-  "fetchedAt": "2026-10-04T21:46:32.794572Z",
+  "fetchedAt": "2026-10-05T14:34:18.446678Z",
   "people": [
     {
       "qid": "Q28018191",
@@ -399,10 +399,10 @@
           "lawyer"
         ],
         "education": [
-          "Northeast High School",
-          "Julia R. Masterman School",
           "Pennsylvania State University",
-          "Harvard Law School"
+          "Harvard Law School",
+          "Northeast High School",
+          "Julia R. Masterman School"
         ],
         "employers": [
           {

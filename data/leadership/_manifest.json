@@ -43,8 +43,7 @@
       "name": "Glenn Tilton",
       "slug": "glenn-tilton",
       "tickers": [
-        "ABBV",
-        "ABT"
+        "PSX"
       ],
       "positionsCount": 2,
       "employersCount": 1
@@ -135,7 +134,7 @@
       "name": "Roxanne Austin",
       "slug": "roxanne-austin",
       "tickers": [
-        "ABBV"
+        "VZ"
       ],
       "positionsCount": 1,
       "employersCount": 0
@@ -286,8 +285,7 @@
       "name": "Shantanu Narayen",
       "slug": "shantanu-narayen",
       "tickers": [
-        "ADBE",
-        "ADBE"
+        "PFE"
       ],
       "positionsCount": 2,
       "employersCount": 0
@@ -367,7 +365,7 @@
       "name": "Cristiano Amon",
       "slug": "cristiano-amon",
       "tickers": [
-        "ADBE"
+        "QCOM"
       ],
       "positionsCount": 3,
       "employersCount": 1
@@ -1047,7 +1045,7 @@
       "name": "Joe Almeida",
       "slug": "joe-almeida",
       "tickers": [
-        "BAC"
+        "WBA"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -1107,7 +1105,8 @@
       "name": "Denise Ramos",
       "slug": "denise-ramos",
       "tickers": [
-        "BAC"
+        "PSX",
+        "RTX"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -1952,7 +1951,7 @@
       "name": "John Harris",
       "slug": "john-harris",
       "tickers": [
-        "CSCO"
+        "XOM"
       ],
       "positionsCount": 1,
       "employersCount": 0
@@ -2014,7 +2013,8 @@
       "name": "Dan Schulman",
       "slug": "dan-schulman",
       "tickers": [
-        "CSCO"
+        "PYPL",
+        "VZ"
       ],
       "positionsCount": 1,
       "employersCount": 0
@@ -2146,7 +2146,7 @@
       "name": "Mark T. Bertolini",
       "slug": "mark-t-bertolini",
       "tickers": [
-        "CVS"
+        "VZ"
       ],
       "positionsCount": 0,
       "employersCount": 2
@@ -2228,7 +2228,7 @@
       "name": "Ronald Sugar",
       "slug": "ronald-sugar",
       "tickers": [
-        "CVX"
+        "UBER"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -2258,7 +2258,7 @@
       "name": "Charles Moorman",
       "slug": "charles-moorman",
       "tickers": [
-        "CVX"
+        "ORCL"
       ],
       "positionsCount": 0,
       "employersCount": 2
@@ -2485,7 +2485,7 @@
       "name": "Mark Parker",
       "slug": "mark-parker",
       "tickers": [
-        "DIS"
+        "NKE"
       ],
       "positionsCount": 0,
       "employersCount": 1
@@ -2495,7 +2495,7 @@
       "name": "Safra Catz",
       "slug": "safra-catz",
       "tickers": [
-        "DIS"
+        "ORCL"
       ],
       "positionsCount": 6,
       "employersCount": 2
@@ -2628,7 +2628,7 @@
       "name": "Beth E. Mooney",
       "slug": "beth-e-mooney",
       "tickers": [
-        "F"
+        "T"
       ],
       "positionsCount": 2,
       "employersCount": 1
@@ -2668,7 +2668,7 @@
       "name": "William Kennard",
       "slug": "william-kennard",
       "tickers": [
-        "F"
+        "T"
       ],
       "positionsCount": 2,
       "employersCount": 1
@@ -3263,7 +3263,7 @@
       "name": "Inderpal Bhandari",
       "slug": "inderpal-bhandari",
       "tickers": [
-        "AES"
+        "WBA"
       ],
       "positionsCount": 1,
       "employersCount": 2
@@ -3653,7 +3653,7 @@
       "name": "Kelly Ortberg",
       "slug": "kelly-ortberg",
       "tickers": [
-        "BOE"
+        "RTX"
       ],
       "positionsCount": 1,
       "employersCount": 2
@@ -3673,7 +3673,7 @@
       "name": "Larry Kellner",
       "slug": "larry-kellner",
       "tickers": [
-        "BOE"
+        "XOM"
       ],
       "positionsCount": 1,
       "employersCount": 0
@@ -4593,7 +4593,7 @@
       "name": "Dion Weisler",
       "slug": "dion-weisler",
       "tickers": [
-        "INTC"
+        "TMO"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -4910,7 +4910,7 @@
       "name": "Timothy P. Flynn",
       "slug": "timothy-p-flynn",
       "tickers": [
-        "JPM"
+        "WMT"
       ],
       "positionsCount": 2,
       "employersCount": 0
@@ -5041,7 +5041,7 @@
       "name": "Ron Sargent",
       "slug": "ron-sargent",
       "tickers": [
-        "KR"
+        "WFC"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -5283,7 +5283,7 @@
       "name": "Jeh C. Johnson",
       "slug": "jeh-c-johnson",
       "tickers": [
-        "LMT"
+        "X"
       ],
       "positionsCount": 3,
       "employersCount": 8
@@ -5323,7 +5323,8 @@
       "name": "David Burritt",
       "slug": "david-burritt",
       "tickers": [
-        "LMT"
+        "X",
+        "X"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -5484,7 +5485,7 @@
       "name": "Brian Rogers",
       "slug": "brian-rogers",
       "tickers": [
-        "LOW"
+        "RTX"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -5586,7 +5587,7 @@
       "name": "Richard K. Davis",
       "slug": "richard-k-davis",
       "tickers": [
-        "MA"
+        "WFC"
       ],
       "positionsCount": 1,
       "employersCount": 0
@@ -5606,7 +5607,7 @@
       "name": "Goh Choon Phong",
       "slug": "goh-choon-phong",
       "tickers": [
-        "MA"
+        "SQ"
       ],
       "positionsCount": 2,
       "employersCount": 0
@@ -5929,8 +5930,7 @@
       "name": "Kenneth Frazier",
       "slug": "kenneth-frazier",
       "tickers": [
-        "MRK",
-        "MRK"
+        "XOM"
       ],
       "positionsCount": 2,
       "employersCount": 2
@@ -6143,7 +6143,7 @@
       "name": "Teri List",
       "slug": "teri-list",
       "tickers": [
-        "MSFT"
+        "V"
       ],
       "positionsCount": 1,
       "employersCount": 5
@@ -6193,7 +6193,8 @@
       "name": "Charlie Scharf",
       "slug": "charlie-scharf",
       "tickers": [
-        "MSFT"
+        "WFC",
+        "WFC"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -6204,6 +6205,2581 @@
       "slug": "paul-allen",
       "tickers": [
         "MSFT"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q17003309",
+      "name": "Adena Friedman",
+      "slug": "adena-friedman",
+      "tickers": [
+        "NDAQ"
+      ],
+      "positionsCount": 1,
+      "employersCount": 2
+    },
+    {
+      "qid": "Q19661212",
+      "name": "Ted Sarandos",
+      "slug": "ted-sarandos",
+      "tickers": [
+        "NFLX"
+      ],
+      "positionsCount": 2,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q130612644",
+      "name": "Elliott Hill",
+      "slug": "elliott-hill",
+      "tickers": [
+        "NKE"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q267074",
+      "name": "John Donahoe",
+      "slug": "john-donahoe",
+      "tickers": [
+        "NKE",
+        "PYPL"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q265852",
+      "name": "Tim Cook",
+      "slug": "tim-cook",
+      "tickers": [
+        "NKE"
+      ],
+      "positionsCount": 1,
+      "employersCount": 2
+    },
+    {
+      "qid": "Q114832647",
+      "name": "Michelle Peluso",
+      "slug": "michelle-peluso",
+      "tickers": [
+        "NKE"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q114832560",
+      "name": "Alan B. Graf, Jr.",
+      "slug": "alan-b-graf-jr",
+      "tickers": [
+        "NKE"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q114832432",
+      "name": "John Connors",
+      "slug": "john-connors",
+      "tickers": [
+        "NKE"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q114832389",
+      "name": "Cathy Benko",
+      "slug": "cathy-benko",
+      "tickers": [
+        "NKE"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q96002081",
+      "name": "Thasunda Duckett",
+      "slug": "thasunda-duckett",
+      "tickers": [
+        "NKE"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q7836302",
+      "name": "Travis Knight",
+      "slug": "travis-knight",
+      "tickers": [
+        "NKE"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q7172847",
+      "name": "Peter Henry",
+      "slug": "peter-henry",
+      "tickers": [
+        "NKE"
+      ],
+      "positionsCount": 0,
+      "employersCount": 2
+    },
+    {
+      "qid": "Q6262507",
+      "name": "John W. Rogers, Jr.",
+      "slug": "john-w-rogers-jr",
+      "tickers": [
+        "NKE"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q557305",
+      "name": "Phil Knight",
+      "slug": "phil-knight",
+      "tickers": [
+        "NKE",
+        "NKE"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q115735574",
+      "name": "Justin Hotard",
+      "slug": "justin-hotard",
+      "tickers": [
+        "NOK"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q2271104",
+      "name": "Fredrik Idestam",
+      "slug": "fredrik-idestam",
+      "tickers": [
+        "NOK"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q38589106",
+      "name": "Vasant Narasimhan",
+      "slug": "vasant-narasimhan",
+      "tickers": [
+        "NOVA",
+        "NVS"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q52177144",
+      "name": "Shuntaro Furukawa",
+      "slug": "shuntaro-furukawa",
+      "tickers": [
+        "NTDOY"
+      ],
+      "positionsCount": 1,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q5278137",
+      "name": "Ding Lei",
+      "slug": "ding-lei",
+      "tickers": [
+        "NTES",
+        "NTES"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q305177",
+      "name": "Jensen Huang",
+      "slug": "jensen-huang",
+      "tickers": [
+        "NVDA",
+        "NVDA",
+        "NVDA"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q124911295",
+      "name": "A. Brooke Seawell",
+      "slug": "a-brooke-seawell",
+      "tickers": [
+        "NVDA"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q124907215",
+      "name": "Melissa Lora",
+      "slug": "melissa-lora",
+      "tickers": [
+        "NVDA"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q124879578",
+      "name": "Dawn Hudson",
+      "slug": "dawn-hudson",
+      "tickers": [
+        "NVDA"
+      ],
+      "positionsCount": 2,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q124879467",
+      "name": "Tench Coxe",
+      "slug": "tench-coxe",
+      "tickers": [
+        "NVDA"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q116376004",
+      "name": "Harvey C. Jones",
+      "slug": "harvey-c-jones",
+      "tickers": [
+        "NVDA"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q113509387",
+      "name": "Aarti Shah",
+      "slug": "aarti-shah",
+      "tickers": [
+        "NVDA"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q7610086",
+      "name": "Stephen Neal",
+      "slug": "stephen-neal",
+      "tickers": [
+        "NVDA"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q6769848",
+      "name": "Mark Stevens",
+      "slug": "mark-stevens",
+      "tickers": [
+        "NVDA"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q6228369",
+      "name": "John O. Dabiri",
+      "slug": "john-o-dabiri",
+      "tickers": [
+        "NVDA"
+      ],
+      "positionsCount": 1,
+      "employersCount": 2
+    },
+    {
+      "qid": "Q135494805",
+      "name": "Mike Doustdar",
+      "slug": "mike-doustdar",
+      "tickers": [
+        "NVO"
+      ],
+      "positionsCount": 2,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q123148855",
+      "name": "Kurt Sievers",
+      "slug": "kurt-sievers",
+      "tickers": [
+        "NXPI"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q100309485",
+      "name": "John D. Wren",
+      "slug": "john-d-wren",
+      "tickers": [
+        "OMC"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q136661156",
+      "name": "Hassane El-Khoury",
+      "slug": "hassane-el-khoury",
+      "tickers": [
+        "ON"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q117824948",
+      "name": "Keith D. Jackson",
+      "slug": "keith-d-jackson",
+      "tickers": [
+        "ON"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q63100570",
+      "name": "Paul Mascarenas",
+      "slug": "paul-mascarenas",
+      "tickers": [
+        "ON",
+        "X"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q4991137",
+      "name": "Christina Lampe \u00d6nnerud",
+      "slug": "christina-lampe-nnerud",
+      "tickers": [
+        "ON"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q92759",
+      "name": "Larry Ellison",
+      "slug": "larry-ellison",
+      "tickers": [
+        "ORCL",
+        "ORCL",
+        "ORCL",
+        "TSLA"
+      ],
+      "positionsCount": 4,
+      "employersCount": 2
+    },
+    {
+      "qid": "Q16745344",
+      "name": "Ren\u00e9e James",
+      "slug": "ren-e-james",
+      "tickers": [
+        "ORCL"
+      ],
+      "positionsCount": 2,
+      "employersCount": 2
+    },
+    {
+      "qid": "Q8009564",
+      "name": "William G. Parrett",
+      "slug": "william-g-parrett",
+      "tickers": [
+        "ORCL"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q7935934",
+      "name": "Vishal Sikka",
+      "slug": "vishal-sikka",
+      "tickers": [
+        "ORCL"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q6964675",
+      "name": "Naomi O. Seligman",
+      "slug": "naomi-o-seligman",
+      "tickers": [
+        "ORCL"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q6176194",
+      "name": "Jeffrey O. Henley",
+      "slug": "jeffrey-o-henley",
+      "tickers": [
+        "ORCL"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q2745626",
+      "name": "Bruce Chizen",
+      "slug": "bruce-chizen",
+      "tickers": [
+        "ORCL"
+      ],
+      "positionsCount": 1,
+      "employersCount": 4
+    },
+    {
+      "qid": "Q979545",
+      "name": "Michael Boskin",
+      "slug": "michael-boskin",
+      "tickers": [
+        "ORCL"
+      ],
+      "positionsCount": 0,
+      "employersCount": 4
+    },
+    {
+      "qid": "Q114880923",
+      "name": "Jeff Berg",
+      "slug": "jeff-berg",
+      "tickers": [
+        "ORCL"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q114880746",
+      "name": "Awo Ablo",
+      "slug": "awo-ablo",
+      "tickers": [
+        "ORCL"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q18719428",
+      "name": "George Conrades",
+      "slug": "george-conrades",
+      "tickers": [
+        "ORCL"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q17712328",
+      "name": "Rona Fairhead",
+      "slug": "rona-fairhead",
+      "tickers": [
+        "ORCL"
+      ],
+      "positionsCount": 4,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q244631",
+      "name": "Leon Panetta",
+      "slug": "leon-panetta",
+      "tickers": [
+        "ORCL"
+      ],
+      "positionsCount": 14,
+      "employersCount": 2
+    },
+    {
+      "qid": "Q6195201",
+      "name": "Jim Giannopulos",
+      "slug": "jim-giannopulos",
+      "tickers": [
+        "PARA"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q361208",
+      "name": "Adolph Zukor",
+      "slug": "adolph-zukor",
+      "tickers": [
+        "PARA"
+      ],
+      "positionsCount": 0,
+      "employersCount": 3
+    },
+    {
+      "qid": "Q61729443",
+      "name": "Jim Gash",
+      "slug": "jim-gash",
+      "tickers": [
+        "PEP"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q63400080",
+      "name": "Albert Bourla",
+      "slug": "albert-bourla",
+      "tickers": [
+        "PFE",
+        "PFE"
+      ],
+      "positionsCount": 1,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q27839505",
+      "name": "James Quincey",
+      "slug": "james-quincey",
+      "tickers": [
+        "PFE"
+      ],
+      "positionsCount": 1,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q21552641",
+      "name": "Ronald E. Blaylock",
+      "slug": "ronald-e-blaylock",
+      "tickers": [
+        "PFE"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q21433424",
+      "name": "Helen Hobbs",
+      "slug": "helen-hobbs",
+      "tickers": [
+        "PFE"
+      ],
+      "positionsCount": 0,
+      "employersCount": 3
+    },
+    {
+      "qid": "Q7945457",
+      "name": "W. Don Cornwell",
+      "slug": "w-don-cornwell",
+      "tickers": [
+        "PFE"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q7650926",
+      "name": "Suzanne Nora Johnson",
+      "slug": "suzanne-nora-johnson",
+      "tickers": [
+        "PFE"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q7647750",
+      "name": "Susan Desmond-Hellmann",
+      "slug": "susan-desmond-hellmann",
+      "tickers": [
+        "PFE"
+      ],
+      "positionsCount": 0,
+      "employersCount": 5
+    },
+    {
+      "qid": "Q114627943",
+      "name": "Joe Echevarria",
+      "slug": "joe-echevarria",
+      "tickers": [
+        "PFE"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q30612546",
+      "name": "James C. Smith",
+      "slug": "james-c-smith",
+      "tickers": [
+        "PFE"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q28229066",
+      "name": "Scott Gottlieb",
+      "slug": "scott-gottlieb",
+      "tickers": [
+        "PFE"
+      ],
+      "positionsCount": 1,
+      "employersCount": 3
+    },
+    {
+      "qid": "Q6138480",
+      "name": "James M. Kilts",
+      "slug": "james-m-kilts",
+      "tickers": [
+        "PFE"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q5213885",
+      "name": "Dan Littman",
+      "slug": "dan-littman",
+      "tickers": [
+        "PFE"
+      ],
+      "positionsCount": 0,
+      "employersCount": 2
+    },
+    {
+      "qid": "Q985719",
+      "name": "Susan Hockfield",
+      "slug": "susan-hockfield",
+      "tickers": [
+        "PFE"
+      ],
+      "positionsCount": 1,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q18748980",
+      "name": "Charles F. Erhart",
+      "slug": "charles-f-erhart",
+      "tickers": [
+        "PFE"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q114393056",
+      "name": "Mark Lashier",
+      "slug": "mark-lashier",
+      "tickers": [
+        "PSX"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q109667784",
+      "name": "Marna Whittington",
+      "slug": "marna-whittington",
+      "tickers": [
+        "PSX"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q109667669",
+      "name": "Doug Terreson",
+      "slug": "doug-terreson",
+      "tickers": [
+        "PSX"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q109667617",
+      "name": "John Lowe",
+      "slug": "john-lowe",
+      "tickers": [
+        "PSX"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q109667553",
+      "name": "Charles Holley",
+      "slug": "charles-holley",
+      "tickers": [
+        "PSX"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q109667401",
+      "name": "Denise Singleton",
+      "slug": "denise-singleton",
+      "tickers": [
+        "PSX"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q109667244",
+      "name": "Julie Bushman",
+      "slug": "julie-bushman",
+      "tickers": [
+        "PSX"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q60737140",
+      "name": "Gary Adams",
+      "slug": "gary-adams",
+      "tickers": [
+        "PSX"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q28922190",
+      "name": "Greg Hayes",
+      "slug": "greg-hayes",
+      "tickers": [
+        "PSX",
+        "RTX",
+        "RTX"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q19289251",
+      "name": "Lisa Davis",
+      "slug": "lisa-davis",
+      "tickers": [
+        "PSX"
+      ],
+      "positionsCount": 1,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q4805143",
+      "name": "Paul E. Jacobs",
+      "slug": "paul-e-jacobs",
+      "tickers": [
+        "QCOM"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q113997343",
+      "name": "Sumedh Thakar",
+      "slug": "sumedh-thakar",
+      "tickers": [
+        "QLYS"
+      ],
+      "positionsCount": 2,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q5562089",
+      "name": "Gilles Samoun",
+      "slug": "gilles-samoun",
+      "tickers": [
+        "QLYS"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q47005455",
+      "name": "Anthony Wood",
+      "slug": "anthony-wood",
+      "tickers": [
+        "ROKU",
+        "ROKU",
+        "ROKU"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q109767326",
+      "name": "Fredric G. Reynolds",
+      "slug": "fredric-g-reynolds",
+      "tickers": [
+        "RTX"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q109767191",
+      "name": "George Oliver",
+      "slug": "george-oliver",
+      "tickers": [
+        "RTX"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q27924267",
+      "name": "Tracy Atkinson",
+      "slug": "tracy-atkinson",
+      "tickers": [
+        "RTX"
+      ],
+      "positionsCount": 5,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q7348126",
+      "name": "Robert O. Work",
+      "slug": "robert-o-work",
+      "tickers": [
+        "RTX"
+      ],
+      "positionsCount": 2,
+      "employersCount": 3
+    },
+    {
+      "qid": "Q6809043",
+      "name": "Meghan O'Sullivan",
+      "slug": "meghan-o-sullivan",
+      "tickers": [
+        "RTX"
+      ],
+      "positionsCount": 1,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q6128328",
+      "name": "James A. Winnefeld, Jr.",
+      "slug": "james-a-winnefeld-jr",
+      "tickers": [
+        "RTX"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q5364921",
+      "name": "Ellen M. Pawlikowski",
+      "slug": "ellen-m-pawlikowski",
+      "tickers": [
+        "RTX"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q5278098",
+      "name": "Dinesh Paliwal",
+      "slug": "dinesh-paliwal",
+      "tickers": [
+        "RTX"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q822249",
+      "name": "Bernard A. Harris, Jr.",
+      "slug": "bernard-a-harris-jr",
+      "tickers": [
+        "RTX"
+      ],
+      "positionsCount": 0,
+      "employersCount": 2
+    },
+    {
+      "qid": "Q16502557",
+      "name": "Marit af Bj\u00f6rkesten",
+      "slug": "marit-af-bj-rkesten",
+      "tickers": [
+        "RUN"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q15728648",
+      "name": "Marcelo Claure",
+      "slug": "marcelo-claure",
+      "tickers": [
+        "S"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q717038",
+      "name": "Masayoshi Son",
+      "slug": "masayoshi-son",
+      "tickers": [
+        "S"
+      ],
+      "positionsCount": 2,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q117249140",
+      "name": "Brian Niccol",
+      "slug": "brian-niccol",
+      "tickers": [
+        "SBUX"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q766557",
+      "name": "Zev Siegl",
+      "slug": "zev-siegl",
+      "tickers": [
+        "SBUX"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q113988833",
+      "name": "Wael Sawan",
+      "slug": "wael-sawan",
+      "tickers": [
+        "SHEL"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q15042554",
+      "name": "Andrew Mackenzie",
+      "slug": "andrew-mackenzie",
+      "tickers": [
+        "SHEL",
+        "SHEL"
+      ],
+      "positionsCount": 1,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q6988360",
+      "name": "Neil Carson",
+      "slug": "neil-carson",
+      "tickers": [
+        "SHEL"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q4522462",
+      "name": "Nigel Sheinwald",
+      "slug": "nigel-sheinwald",
+      "tickers": [
+        "SHEL"
+      ],
+      "positionsCount": 2,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q717674",
+      "name": "Gerrit Zalm",
+      "slug": "gerrit-zalm",
+      "tickers": [
+        "SHEL"
+      ],
+      "positionsCount": 8,
+      "employersCount": 2
+    },
+    {
+      "qid": "Q97817045",
+      "name": "Euleen Goh",
+      "slug": "euleen-goh",
+      "tickers": [
+        "SHEL"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q20684647",
+      "name": "Tobias L\u00fctke",
+      "slug": "tobias-l-tke",
+      "tickers": [
+        "SHOP"
+      ],
+      "positionsCount": 0,
+      "employersCount": 2
+    },
+    {
+      "qid": "Q64783806",
+      "name": "Kenichiro Yoshida",
+      "slug": "kenichiro-yoshida",
+      "tickers": [
+        "SONY"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q901670",
+      "name": "Daniel Ek",
+      "slug": "daniel-ek",
+      "tickers": [
+        "SPOT",
+        "SPOT",
+        "SPOT"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q62098183",
+      "name": "Martin Lorentzon",
+      "slug": "martin-lorentzon",
+      "tickers": [
+        "SPOT",
+        "SPOT"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q126519099",
+      "name": "Peter Seah Lim Huat",
+      "slug": "peter-seah-lim-huat",
+      "tickers": [
+        "SQ"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q90461962",
+      "name": "Martin Bucht\u00edk",
+      "slug": "martin-bucht-k",
+      "tickers": [
+        "STEM"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q33106448",
+      "name": "Jean-Marc Ch\u00e9ry",
+      "slug": "jean-marc-ch-ry",
+      "tickers": [
+        "STM"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q61985799",
+      "name": "John Stankey",
+      "slug": "john-stankey",
+      "tickers": [
+        "T",
+        "T"
+      ],
+      "positionsCount": 0,
+      "employersCount": 2
+    },
+    {
+      "qid": "Q7609568",
+      "name": "Stephen J. Luczo",
+      "slug": "stephen-j-luczo",
+      "tickers": [
+        "T"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q7437344",
+      "name": "Scott T. Ford",
+      "slug": "scott-t-ford",
+      "tickers": [
+        "T"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q7411262",
+      "name": "Samuel DiPiazza",
+      "slug": "samuel-dipiazza",
+      "tickers": [
+        "T"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q6790760",
+      "name": "Matthew K. Rose",
+      "slug": "matthew-k-rose",
+      "tickers": [
+        "T"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q6701168",
+      "name": "Luis Ubi\u00f1as",
+      "slug": "luis-ubi-as",
+      "tickers": [
+        "T"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q5568888",
+      "name": "Glenn Hutchins",
+      "slug": "glenn-hutchins",
+      "tickers": [
+        "T"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q5248484",
+      "name": "Debra Lee",
+      "slug": "debra-lee",
+      "tickers": [
+        "T"
+      ],
+      "positionsCount": 2,
+      "employersCount": 8
+    },
+    {
+      "qid": "Q109531557",
+      "name": "Geoff Yang",
+      "slug": "geoff-yang",
+      "tickers": [
+        "T"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q109531220",
+      "name": "Cynthia B. Taylor",
+      "slug": "cynthia-b-taylor",
+      "tickers": [
+        "T"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q7966126",
+      "name": "Walter Sherman Gifford",
+      "slug": "walter-sherman-gifford",
+      "tickers": [
+        "T"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q5044471",
+      "name": "Carol Meyrowitz",
+      "slug": "carol-meyrowitz",
+      "tickers": [
+        "TJX",
+        "TJX"
+      ],
+      "positionsCount": 1,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q114731643",
+      "name": "John O'Brien",
+      "slug": "john-o-brien",
+      "tickers": [
+        "TJX"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q114731563",
+      "name": "C. Kim Goodwin",
+      "slug": "c-kim-goodwin",
+      "tickers": [
+        "TJX"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q114729951",
+      "name": "Jackwyn Nemerov",
+      "slug": "jackwyn-nemerov",
+      "tickers": [
+        "TJX"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q114729357",
+      "name": "David Ching",
+      "slug": "david-ching",
+      "tickers": [
+        "TJX"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q114729342",
+      "name": "Alan M. Bennett",
+      "slug": "alan-m-bennett",
+      "tickers": [
+        "TJX"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q114729335",
+      "name": "Rosemary Berkery",
+      "slug": "rosemary-berkery",
+      "tickers": [
+        "TJX"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q114729311",
+      "name": "Michael Hines",
+      "slug": "michael-hines",
+      "tickers": [
+        "TJX"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q114729188",
+      "name": "Jos\u00e9 Alvarez",
+      "slug": "jos-alvarez",
+      "tickers": [
+        "TJX"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q114725827",
+      "name": "Ernie Herrman",
+      "slug": "ernie-herrman",
+      "tickers": [
+        "TJX"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q114377240",
+      "name": "Amy Lane",
+      "slug": "amy-lane",
+      "tickers": [
+        "TJX"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q116935918",
+      "name": "K\u014dji Sat\u014d",
+      "slug": "k-ji-sat",
+      "tickers": [
+        "TM"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q418622",
+      "name": "Akio Toyoda",
+      "slug": "akio-toyoda",
+      "tickers": [
+        "TM"
+      ],
+      "positionsCount": 2,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q358556",
+      "name": "Kiichir\u014d Toyoda",
+      "slug": "kiichir-toyoda",
+      "tickers": [
+        "TM"
+      ],
+      "positionsCount": 1,
+      "employersCount": 3
+    },
+    {
+      "qid": "Q114890303",
+      "name": "C. Martin Harris",
+      "slug": "c-martin-harris",
+      "tickers": [
+        "TMO"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q114890116",
+      "name": "Ruby Chandy",
+      "slug": "ruby-chandy",
+      "tickers": [
+        "TMO"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q114882848",
+      "name": "Scott Sperling",
+      "slug": "scott-sperling",
+      "tickers": [
+        "TMO"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q114837355",
+      "name": "Marc N. Casper",
+      "slug": "marc-n-casper",
+      "tickers": [
+        "TMO"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q56222987",
+      "name": "R. Alexandra Keith",
+      "slug": "r-alexandra-keith",
+      "tickers": [
+        "TMO"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q47546071",
+      "name": "James Mullen",
+      "slug": "james-mullen",
+      "tickers": [
+        "TMO"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q16151394",
+      "name": "Jim Manzi",
+      "slug": "jim-manzi",
+      "tickers": [
+        "TMO"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q12323903",
+      "name": "Lars Rebien S\u00f8rensen",
+      "slug": "lars-rebien-s-rensen",
+      "tickers": [
+        "TMO"
+      ],
+      "positionsCount": 1,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q6990415",
+      "name": "Nelson Chai",
+      "slug": "nelson-chai",
+      "tickers": [
+        "TMO",
+        "UBER"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q5248147",
+      "name": "Debora Spar",
+      "slug": "debora-spar",
+      "tickers": [
+        "TMO"
+      ],
+      "positionsCount": 0,
+      "employersCount": 3
+    },
+    {
+      "qid": "Q79960347",
+      "name": "Mike Sievert",
+      "slug": "mike-sievert",
+      "tickers": [
+        "TMUS"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q4911038",
+      "name": "Bill Stromberg",
+      "slug": "bill-stromberg",
+      "tickers": [
+        "TROW"
+      ],
+      "positionsCount": 1,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q317521",
+      "name": "Elon Musk",
+      "slug": "elon-musk",
+      "tickers": [
+        "TSLA",
+        "TSLA"
+      ],
+      "positionsCount": 6,
+      "employersCount": 8
+    },
+    {
+      "qid": "Q58345040",
+      "name": "Robyn Denholm",
+      "slug": "robyn-denholm",
+      "tickers": [
+        "TSLA",
+        "TSLA"
+      ],
+      "positionsCount": 4,
+      "employersCount": 8
+    },
+    {
+      "qid": "Q6409751",
+      "name": "Kimbal Musk",
+      "slug": "kimbal-musk",
+      "tickers": [
+        "TSLA"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q6107808",
+      "name": "J. B. Straubel",
+      "slug": "j-b-straubel",
+      "tickers": [
+        "TSLA"
+      ],
+      "positionsCount": 1,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q104626485",
+      "name": "Ira Ehrenpreis",
+      "slug": "ira-ehrenpreis",
+      "tickers": [
+        "TSLA"
+      ],
+      "positionsCount": 2,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q86744346",
+      "name": "Hiromichi Mizuno",
+      "slug": "hiromichi-mizuno",
+      "tickers": [
+        "TSLA"
+      ],
+      "positionsCount": 1,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q60330177",
+      "name": "Kathleen Wilson-Thompson",
+      "slug": "kathleen-wilson-thompson",
+      "tickers": [
+        "TSLA"
+      ],
+      "positionsCount": 1,
+      "employersCount": 2
+    },
+    {
+      "qid": "Q19560551",
+      "name": "Joe Gebbia",
+      "slug": "joe-gebbia",
+      "tickers": [
+        "TSLA"
+      ],
+      "positionsCount": 2,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q471851",
+      "name": "James Murdoch",
+      "slug": "james-murdoch",
+      "tickers": [
+        "TSLA"
+      ],
+      "positionsCount": 2,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q1903673",
+      "name": "Martin Eberhard",
+      "slug": "martin-eberhard",
+      "tickers": [
+        "TSLA"
+      ],
+      "positionsCount": 2,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q114819469",
+      "name": "Barbara Tyson",
+      "slug": "barbara-tyson",
+      "tickers": [
+        "TSN"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q114819227",
+      "name": "Jeff Schomburger",
+      "slug": "jeff-schomburger",
+      "tickers": [
+        "TSN"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q114818980",
+      "name": "Donnie King",
+      "slug": "donnie-king",
+      "tickers": [
+        "TSN"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q114818834",
+      "name": "Maria Borras",
+      "slug": "maria-borras",
+      "tickers": [
+        "TSN"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q114818700",
+      "name": "Les Baledge",
+      "slug": "les-baledge",
+      "tickers": [
+        "TSN"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q114818550",
+      "name": "Noel White",
+      "slug": "noel-white",
+      "tickers": [
+        "TSN"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q107765444",
+      "name": "Maria Martinez",
+      "slug": "maria-martinez",
+      "tickers": [
+        "TSN"
+      ],
+      "positionsCount": 0,
+      "employersCount": 5
+    },
+    {
+      "qid": "Q107616121",
+      "name": "Cheryl Miller",
+      "slug": "cheryl-miller",
+      "tickers": [
+        "TSN"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q16106192",
+      "name": "David J. Bronczek",
+      "slug": "david-j-bronczek",
+      "tickers": [
+        "TSN"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q6237128",
+      "name": "John H. Tyson",
+      "slug": "john-h-tyson",
+      "tickers": [
+        "TSN"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q361460",
+      "name": "Mike Beebe",
+      "slug": "mike-beebe",
+      "tickers": [
+        "TSN"
+      ],
+      "positionsCount": 2,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q115129580",
+      "name": "John R. Tyson",
+      "slug": "john-r-tyson",
+      "tickers": [
+        "TSN"
+      ],
+      "positionsCount": 0,
+      "employersCount": 4
+    },
+    {
+      "qid": "Q7595870",
+      "name": "Stacey Snider",
+      "slug": "stacey-snider",
+      "tickers": [
+        "TW"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q5221979",
+      "name": "Dara Khosrowshahi",
+      "slug": "dara-khosrowshahi",
+      "tickers": [
+        "UBER",
+        "UBER"
+      ],
+      "positionsCount": 0,
+      "employersCount": 4
+    },
+    {
+      "qid": "Q99880011",
+      "name": "Revathi Advaithi",
+      "slug": "revathi-advaithi",
+      "tickers": [
+        "UBER"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q64853380",
+      "name": "Yasir Al-Rumayyan",
+      "slug": "yasir-al-rumayyan",
+      "tickers": [
+        "UBER"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q51676942",
+      "name": "David Trujillo",
+      "slug": "david-trujillo",
+      "tickers": [
+        "UBER"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q29646366",
+      "name": "Robert A. Eckert",
+      "slug": "robert-a-eckert",
+      "tickers": [
+        "UBER"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q22317597",
+      "name": "Alexander Wynaendts",
+      "slug": "alexander-wynaendts",
+      "tickers": [
+        "UBER"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q18157584",
+      "name": "Wan Ling Martello",
+      "slug": "wan-ling-martello",
+      "tickers": [
+        "UBER"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q16196331",
+      "name": "Tony West",
+      "slug": "tony-west",
+      "tickers": [
+        "UBER"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q6192865",
+      "name": "Jill Hazelbaker",
+      "slug": "jill-hazelbaker",
+      "tickers": [
+        "UBER"
+      ],
+      "positionsCount": 0,
+      "employersCount": 2
+    },
+    {
+      "qid": "Q1701913",
+      "name": "John Alexander Thain",
+      "slug": "john-alexander-thain",
+      "tickers": [
+        "UBER"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q465663",
+      "name": "Ursula Burns",
+      "slug": "ursula-burns",
+      "tickers": [
+        "UBER",
+        "XOM"
+      ],
+      "positionsCount": 1,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q3265178",
+      "name": "Lucian Grainge",
+      "slug": "lucian-grainge",
+      "tickers": [
+        "UMG"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q114837486",
+      "name": "Ryan McInerney",
+      "slug": "ryan-mcinerney",
+      "tickers": [
+        "V",
+        "V"
+      ],
+      "positionsCount": 2,
+      "employersCount": 3
+    },
+    {
+      "qid": "Q104784751",
+      "name": "Alfred F. Kelly Jr.",
+      "slug": "alfred-f-kelly-jr",
+      "tickers": [
+        "V",
+        "V"
+      ],
+      "positionsCount": 2,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q19663069",
+      "name": "John F. Lundgren",
+      "slug": "john-f-lundgren",
+      "tickers": [
+        "V",
+        "V"
+      ],
+      "positionsCount": 3,
+      "employersCount": 2
+    },
+    {
+      "qid": "Q84035212",
+      "name": "Pam Murphy",
+      "slug": "pam-murphy",
+      "tickers": [
+        "V"
+      ],
+      "positionsCount": 1,
+      "employersCount": 4
+    },
+    {
+      "qid": "Q56042353",
+      "name": "Ramon Laguarta",
+      "slug": "ramon-laguarta",
+      "tickers": [
+        "V"
+      ],
+      "positionsCount": 1,
+      "employersCount": 3
+    },
+    {
+      "qid": "Q16727839",
+      "name": "Lloyd Carney",
+      "slug": "lloyd-carney",
+      "tickers": [
+        "V"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q6797437",
+      "name": "Maynard Webb",
+      "slug": "maynard-webb",
+      "tickers": [
+        "V"
+      ],
+      "positionsCount": 1,
+      "employersCount": 4
+    },
+    {
+      "qid": "Q5257725",
+      "name": "Denise Morrison",
+      "slug": "denise-morrison",
+      "tickers": [
+        "V"
+      ],
+      "positionsCount": 2,
+      "employersCount": 5
+    },
+    {
+      "qid": "Q125096465",
+      "name": "Linda J. Rendle",
+      "slug": "linda-j-rendle",
+      "tickers": [
+        "V"
+      ],
+      "positionsCount": 3,
+      "employersCount": 2
+    },
+    {
+      "qid": "Q125087577",
+      "name": "Francisco Javier Fern\u00e1ndez-Carbajal",
+      "slug": "francisco-javier-fern-ndez-carbajal",
+      "tickers": [
+        "V"
+      ],
+      "positionsCount": 1,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q114682606",
+      "name": "Kermit Crawford",
+      "slug": "kermit-crawford",
+      "tickers": [
+        "V"
+      ],
+      "positionsCount": 2,
+      "employersCount": 3
+    },
+    {
+      "qid": "Q135228816",
+      "name": "Giordano Albertazzi",
+      "slug": "giordano-albertazzi",
+      "tickers": [
+        "VRT"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q1175376",
+      "name": "David M. Cote",
+      "slug": "david-m-cote",
+      "tickers": [
+        "VRT"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q75692161",
+      "name": "Reshma Kewalramani",
+      "slug": "reshma-kewalramani",
+      "tickers": [
+        "VRTX"
+      ],
+      "positionsCount": 2,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q1582880",
+      "name": "Hans Vestberg",
+      "slug": "hans-vestberg",
+      "tickers": [
+        "VZ",
+        "VZ"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q17198710",
+      "name": "Shellye Archambeau",
+      "slug": "shellye-archambeau",
+      "tickers": [
+        "VZ"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q5126682",
+      "name": "Clarence Otis, Jr.",
+      "slug": "clarence-otis-jr",
+      "tickers": [
+        "VZ"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q2161181",
+      "name": "Rodney E. Slater",
+      "slug": "rodney-e-slater",
+      "tickers": [
+        "VZ"
+      ],
+      "positionsCount": 1,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q109626132",
+      "name": "Greg Weaver",
+      "slug": "greg-weaver",
+      "tickers": [
+        "VZ"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q109625577",
+      "name": "Melanie Healey",
+      "slug": "melanie-healey",
+      "tickers": [
+        "VZ"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q64745663",
+      "name": "Laxman Narasimhan",
+      "slug": "laxman-narasimhan",
+      "tickers": [
+        "VZ"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q21551443",
+      "name": "Carol Tom\u00e9",
+      "slug": "carol-tom",
+      "tickers": [
+        "VZ"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q3497982",
+      "name": "Stefano Pessina",
+      "slug": "stefano-pessina",
+      "tickers": [
+        "WBA",
+        "WBA"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q114395991",
+      "name": "Steven Shulman",
+      "slug": "steven-shulman",
+      "tickers": [
+        "WBA"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q109619406",
+      "name": "Nancy Schlichting",
+      "slug": "nancy-schlichting",
+      "tickers": [
+        "WBA"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q109619240",
+      "name": "Dominic Murphy",
+      "slug": "dominic-murphy",
+      "tickers": [
+        "WBA"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q109617563",
+      "name": "John Lederer",
+      "slug": "john-lederer",
+      "tickers": [
+        "WBA"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q109614242",
+      "name": "Ginger Graham",
+      "slug": "ginger-graham",
+      "tickers": [
+        "WBA"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q109614181",
+      "name": "William C. Foote",
+      "slug": "william-c-foote",
+      "tickers": [
+        "WBA"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q109613993",
+      "name": "Jan Babiak",
+      "slug": "jan-babiak",
+      "tickers": [
+        "WBA"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q7367220",
+      "name": "Rosalind Brewer",
+      "slug": "rosalind-brewer",
+      "tickers": [
+        "WBA"
+      ],
+      "positionsCount": 1,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q5231666",
+      "name": "David Brailer",
+      "slug": "david-brailer",
+      "tickers": [
+        "WBA"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q1355678",
+      "name": "Jim Skinner",
+      "slug": "jim-skinner",
+      "tickers": [
+        "WBA"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q259514",
+      "name": "Valerie Jarrett",
+      "slug": "valerie-jarrett",
+      "tickers": [
+        "WBA"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q4377226",
+      "name": "David Zaslav",
+      "slug": "david-zaslav",
+      "tickers": [
+        "WBD"
+      ],
+      "positionsCount": 0,
+      "employersCount": 3
+    },
+    {
+      "qid": "Q114448889",
+      "name": "Felicia Norwood",
+      "slug": "felicia-norwood",
+      "tickers": [
+        "WFC"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q114448713",
+      "name": "CeCe Morken",
+      "slug": "cece-morken",
+      "tickers": [
+        "WFC"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q109684919",
+      "name": "Juan Pujadas",
+      "slug": "juan-pujadas",
+      "tickers": [
+        "WFC"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q109680126",
+      "name": "Richard Payne",
+      "slug": "richard-payne",
+      "tickers": [
+        "WFC"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q109680080",
+      "name": "Maria Morris",
+      "slug": "maria-morris",
+      "tickers": [
+        "WFC"
+      ],
+      "positionsCount": 1,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q109679764",
+      "name": "Celeste Clark",
+      "slug": "celeste-clark",
+      "tickers": [
+        "WFC"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q109679730",
+      "name": "Mark Chancy",
+      "slug": "mark-chancy",
+      "tickers": [
+        "WFC"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q109666471",
+      "name": "Wayne Hewett",
+      "slug": "wayne-hewett",
+      "tickers": [
+        "WFC"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q104177467",
+      "name": "Zan Vautrinot",
+      "slug": "zan-vautrinot",
+      "tickers": [
+        "WFC"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q22122625",
+      "name": "Theodore Craver",
+      "slug": "theodore-craver",
+      "tickers": [
+        "WFC"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q7614498",
+      "name": "Steven Black",
+      "slug": "steven-black",
+      "tickers": [
+        "WFC"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q7608947",
+      "name": "Stephen Cooper",
+      "slug": "stephen-cooper",
+      "tickers": [
+        "WMG"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q14927550",
+      "name": "Michael Lynton",
+      "slug": "michael-lynton",
+      "tickers": [
+        "WMG"
+      ],
+      "positionsCount": 1,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q16196595",
+      "name": "Doug McMillon",
+      "slug": "doug-mcmillon",
+      "tickers": [
+        "WMT",
+        "WMT"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q20177269",
+      "name": "Greg Penner",
+      "slug": "greg-penner",
+      "tickers": [
+        "WMT",
+        "WMT"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q7794754",
+      "name": "Thomas Horton",
+      "slug": "thomas-horton",
+      "tickers": [
+        "WMT"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q7615193",
+      "name": "Steven Reinemund",
+      "slug": "steven-reinemund",
+      "tickers": [
+        "WMT"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q5065434",
+      "name": "Cesar Conde",
+      "slug": "cesar-conde",
+      "tickers": [
+        "WMT"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q979750",
+      "name": "Randall L. Stephenson",
+      "slug": "randall-l-stephenson",
+      "tickers": [
+        "WMT"
+      ],
+      "positionsCount": 1,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q108001876",
+      "name": "Carla A. Harris",
+      "slug": "carla-a-harris",
+      "tickers": [
+        "WMT"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q107434318",
+      "name": "Sarah Friar",
+      "slug": "sarah-friar",
+      "tickers": [
+        "WMT"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q24524594",
+      "name": "Steuart Walton",
+      "slug": "steuart-walton",
+      "tickers": [
+        "WMT"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q736477",
+      "name": "S. Robson Walton",
+      "slug": "s-robson-walton",
+      "tickers": [
+        "WMT"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q14086",
+      "name": "Marissa Mayer",
+      "slug": "marissa-mayer",
+      "tickers": [
+        "WMT"
+      ],
+      "positionsCount": 2,
+      "employersCount": 3
+    },
+    {
+      "qid": "Q80978371",
+      "name": "Mark Read",
+      "slug": "mark-read",
+      "tickers": [
+        "WPP"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q7351858",
+      "name": "Roberto Quarta",
+      "slug": "roberto-quarta",
+      "tickers": [
+        "WPP"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q6767521",
+      "name": "Mark Emmert",
+      "slug": "mark-emmert",
+      "tickers": [
+        "WY"
+      ],
+      "positionsCount": 0,
+      "employersCount": 4
+    },
+    {
+      "qid": "Q55819291",
+      "name": "David S. Sutherland",
+      "slug": "david-s-sutherland",
+      "tickers": [
+        "X"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q7145550",
+      "name": "Patricia Diaz Dennis",
+      "slug": "patricia-diaz-dennis",
+      "tickers": [
+        "X"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q28018191",
+      "name": "Darren Woods",
+      "slug": "darren-woods",
+      "tickers": [
+        "XOM",
+        "XOM"
+      ],
+      "positionsCount": 2,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q107985563",
+      "name": "Jay Hooley",
+      "slug": "jay-hooley",
+      "tickers": [
+        "XOM"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q107973729",
+      "name": "Michael J. Angelakis",
+      "slug": "michael-j-angelakis",
+      "tickers": [
+        "XOM"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q107048667",
+      "name": "Kaisa Hietala",
+      "slug": "kaisa-hietala",
+      "tickers": [
+        "XOM"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q21266693",
+      "name": "Jeffrey W. Ubben",
+      "slug": "jeffrey-w-ubben",
+      "tickers": [
+        "XOM"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q19816316",
+      "name": "Andy Karsner",
+      "slug": "andy-karsner",
+      "tickers": [
+        "XOM"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q19663942",
+      "name": "Gregory J. Goff",
+      "slug": "gregory-j-goff",
+      "tickers": [
+        "XOM"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q18156599",
+      "name": "Susan Avery",
+      "slug": "susan-avery",
+      "tickers": [
+        "XOM"
+      ],
+      "positionsCount": 1,
+      "employersCount": 2
+    },
+    {
+      "qid": "Q5188669",
+      "name": "Steven A. Kandarian",
+      "slug": "steven-a-kandarian",
+      "tickers": [
+        "XOM"
+      ],
+      "positionsCount": 2,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q527495",
+      "name": "Angela Braly",
+      "slug": "angela-braly",
+      "tickers": [
+        "XOM"
+      ],
+      "positionsCount": 2,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q7323183",
+      "name": "Rich Barton",
+      "slug": "rich-barton",
+      "tickers": [
+        "Z",
+        "Z"
       ],
       "positionsCount": 0,
       "employersCount": 1
