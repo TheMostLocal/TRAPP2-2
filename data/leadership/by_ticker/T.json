@@ -1,6 +1,6 @@
 {
   "ticker": "T",
-  "fetchedAt": "2026-10-04T21:46:32.789816Z",
+  "fetchedAt": "2026-10-05T14:58:41.001621Z",
   "people": [
     {
       "qid": "Q61985799",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Stankey%20%2854598693935%29%20%28cropped%29.jpg",
         "occupations": [
-          "business executive",
-          "chief executive officer"
+          "chief executive officer",
+          "business executive"
         ],
         "education": [
           "University of California, Los Angeles",
@@ -120,8 +120,8 @@
         "birthPlace": "Salina",
         "image": null,
         "occupations": [
-          "musician",
-          "artist"
+          "artist",
+          "musician"
         ],
         "education": [
           "Trulaske College of Business",
@@ -146,9 +146,9 @@
           "manager"
         ],
         "education": [
+          "Harvard Business School",
           "Collegiate School",
           "Allen-Stevenson School",
-          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [],
@@ -201,16 +201,6 @@
         ],
         "employers": [
           {
-            "company": "Ad Council",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "BET Media Group",
-            "start": "1986-01-01",
-            "end": "2018-01-01"
-          },
-          {
             "company": "Monsanto",
             "start": null,
             "end": null
@@ -239,6 +229,16 @@
             "company": "Washington Gas",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Ad Council",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "BET Media Group",
+            "start": "1986-01-01",
+            "end": "2018-01-01"
           }
         ],
         "positions": [
@@ -350,8 +350,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Stankey%20%2854598693935%29%20%28cropped%29.jpg",
         "occupations": [
-          "business executive",
-          "chief executive officer"
+          "chief executive officer",
+          "business executive"
         ],
         "education": [
           "University of California, Los Angeles",

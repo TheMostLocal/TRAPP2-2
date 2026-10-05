@@ -1,0 +1,63 @@
+{
+  "ticker": "QLYS",
+  "fetchedAt": "2026-10-05T14:58:40.995614Z",
+  "people": [
+    {
+      "qid": "Q113997343",
+      "name": "Sumedh Thakar",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q113997343",
+        "name": "Sumedh Thakar",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "executive"
+        ],
+        "education": [],
+        "employers": [],
+        "positions": [
+          {
+            "title": "president",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q5562089",
+      "name": "Gilles Samoun",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q5562089",
+        "name": "Gilles Samoun",
+        "dateOfBirth": "1965-05-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Qualys",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
+}

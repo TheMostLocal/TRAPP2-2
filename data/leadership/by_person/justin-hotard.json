@@ -1,0 +1,23 @@
+{
+  "qid": "Q115735574",
+  "name": "Justin Hotard",
+  "dateOfBirth": null,
+  "birthPlace": null,
+  "image": null,
+  "occupations": [
+    "businessperson"
+  ],
+  "education": [],
+  "employers": [],
+  "positions": [
+    {
+      "title": "chief executive officer",
+      "company": null,
+      "start": "2025-03-01",
+      "end": null
+    }
+  ],
+  "currentTickers": [
+    "NOK"
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "ticker": "NKE",
-  "fetchedAt": "2026-10-04T21:46:32.784797Z",
+  "fetchedAt": "2026-10-05T14:58:40.986431Z",
   "people": [
     {
       "qid": "Q130612644",
@@ -34,9 +34,9 @@
           "entrepreneur"
         ],
         "education": [
-          "Dartmouth College",
+          "Stanford University",
           "Stanford Graduate School of Business",
-          "Stanford University"
+          "Dartmouth College"
         ],
         "employers": [
           {
@@ -60,30 +60,30 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20in%20New%20York%20City%20-%202026%20%28cropped%29.jpg",
         "occupations": [
-          "computer scientist",
           "presenter",
-          "chief executive officer",
           "manager",
+          "chief executive officer",
+          "computer scientist",
           "engineer",
           "businessperson"
         ],
         "education": [
+          "Auburn University",
+          "Duke University",
           "Rostrevor College",
           "Robertsdale High School",
-          "Fuqua School of Business",
-          "Auburn University",
-          "Duke University"
+          "Fuqua School of Business"
         ],
         "employers": [
-          {
-            "company": "Apple Inc.",
-            "start": "1998-01-01",
-            "end": null
-          },
           {
             "company": "IBM",
             "start": "1982-01-01",
             "end": "1994-01-01"
+          },
+          {
+            "company": "Apple Inc.",
+            "start": "1998-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -151,8 +151,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "venture capitalist"
+          "venture capitalist",
+          "businessperson"
         ],
         "education": [
           "University of Montana"
@@ -214,8 +214,8 @@
         "birthPlace": "Hillsboro",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Travis%20Knight%20%2830000495292%29.jpg",
         "occupations": [
-          "film director",
           "film producer",
+          "film director",
           "rapper",
           "animator"
         ],
@@ -324,17 +324,17 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
+          "businessperson",
           "philanthropist",
           "entrepreneur",
-          "businessperson",
           "writer"
         ],
         "education": [
-          "Oregon State University",
-          "University of Oregon",
           "Stanford University",
           "Charles H. Lundquist College of Business",
-          "Cleveland High School"
+          "Cleveland High School",
+          "Oregon State University",
+          "University of Oregon"
         ],
         "employers": [
           {
@@ -358,17 +358,17 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
+          "businessperson",
           "philanthropist",
           "entrepreneur",
-          "businessperson",
           "writer"
         ],
         "education": [
-          "Oregon State University",
-          "University of Oregon",
           "Stanford University",
           "Charles H. Lundquist College of Business",
-          "Cleveland High School"
+          "Cleveland High School",
+          "Oregon State University",
+          "University of Oregon"
         ],
         "employers": [
           {

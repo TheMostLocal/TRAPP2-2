@@ -1,6 +1,6 @@
 {
   "ticker": "NVDA",
-  "fetchedAt": "2026-10-04T21:46:32.785486Z",
+  "fetchedAt": "2026-10-05T14:58:40.988570Z",
   "people": [
     {
       "qid": "Q305177",
@@ -14,21 +14,21 @@
         "birthPlace": "Tainan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jen-Hsun%20Huang%202025.jpg",
         "occupations": [
-          "tech VIP",
-          "entrepreneur",
-          "founder",
-          "computer scientist",
           "manager",
           "electrical engineer",
+          "founder",
           "chief executive officer",
+          "tech VIP",
+          "engineer",
           "businessperson",
-          "engineer"
+          "computer scientist",
+          "entrepreneur"
         ],
         "education": [
+          "Stanford University",
           "Oneida Baptist Institute",
           "Aloha High School",
-          "Oregon State University",
-          "Stanford University"
+          "Oregon State University"
         ],
         "employers": [],
         "positions": []
@@ -234,9 +234,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Stevens%2C%202017.jpg",
         "occupations": [],
         "education": [
-          "Harvard Business School",
           "Harvard University",
           "University of Southern California",
+          "Harvard Business School",
           "USC Viterbi School of Engineering"
         ],
         "employers": [],
@@ -268,8 +268,8 @@
           "engineer"
         ],
         "education": [
-          "California Institute of Technology",
-          "Princeton University"
+          "Princeton University",
+          "California Institute of Technology"
         ],
         "employers": [
           {
@@ -305,21 +305,21 @@
         "birthPlace": "Tainan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jen-Hsun%20Huang%202025.jpg",
         "occupations": [
-          "tech VIP",
-          "entrepreneur",
-          "founder",
-          "computer scientist",
           "manager",
           "electrical engineer",
+          "founder",
           "chief executive officer",
+          "tech VIP",
+          "engineer",
           "businessperson",
-          "engineer"
+          "computer scientist",
+          "entrepreneur"
         ],
         "education": [
+          "Stanford University",
           "Oneida Baptist Institute",
           "Aloha High School",
-          "Oregon State University",
-          "Stanford University"
+          "Oregon State University"
         ],
         "employers": [],
         "positions": []
@@ -337,21 +337,21 @@
         "birthPlace": "Tainan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jen-Hsun%20Huang%202025.jpg",
         "occupations": [
-          "tech VIP",
-          "entrepreneur",
-          "founder",
-          "computer scientist",
           "manager",
           "electrical engineer",
+          "founder",
           "chief executive officer",
+          "tech VIP",
+          "engineer",
           "businessperson",
-          "engineer"
+          "computer scientist",
+          "entrepreneur"
         ],
         "education": [
+          "Stanford University",
           "Oneida Baptist Institute",
           "Aloha High School",
-          "Oregon State University",
-          "Stanford University"
+          "Oregon State University"
         ],
         "employers": [],
         "positions": []

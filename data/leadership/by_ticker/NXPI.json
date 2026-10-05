@@ -1,0 +1,26 @@
+{
+  "ticker": "NXPI",
+  "fetchedAt": "2026-10-05T14:58:40.989452Z",
+  "people": [
+    {
+      "qid": "Q123148855",
+      "name": "Kurt Sievers",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q123148855",
+        "name": "Kurt Sievers",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Ashridge Executive Education",
+          "University of Augsburg"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    }
+  ]
+}
