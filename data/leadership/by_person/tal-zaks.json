@@ -6,8 +6,8 @@
   "image": null,
   "occupations": [
     "researcher",
-    "professor",
-    "physician"
+    "physician",
+    "professor"
   ],
   "education": [
     "Hebrew Reali School",
@@ -15,6 +15,11 @@
     "National Cancer Institute"
   ],
   "employers": [
+    {
+      "company": "University of Pennsylvania",
+      "start": null,
+      "end": null
+    },
     {
       "company": "Sanofi",
       "start": null,
@@ -27,11 +32,6 @@
     },
     {
       "company": "Moderna",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "University of Pennsylvania",
       "start": null,
       "end": null
     }

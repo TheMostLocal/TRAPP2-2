@@ -1,6 +1,6 @@
 {
   "ticker": "MMM",
-  "fetchedAt": "2026-10-05T12:18:37.416520Z",
+  "fetchedAt": "2026-10-05T14:26:06.987900Z",
   "people": [
     {
       "qid": "Q94016219",
@@ -18,9 +18,9 @@
           "business executive"
         ],
         "education": [
+          "University of Southern California",
           "University of Wisconsin\u2013Stevens Point",
-          "University of Minnesota",
-          "University of Southern California"
+          "University of Minnesota"
         ],
         "employers": [
           {
@@ -330,9 +330,9 @@
           "business executive"
         ],
         "education": [
+          "University of Southern California",
           "University of Wisconsin\u2013Stevens Point",
-          "University of Minnesota",
-          "University of Southern California"
+          "University of Minnesota"
         ],
         "employers": [
           {
@@ -553,8 +553,8 @@
         "birthPlace": "Hutchinson",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Southern Methodist University",
@@ -604,12 +604,12 @@
         ],
         "employers": [
           {
-            "company": "Goldman Sachs",
+            "company": "World Bank",
             "start": null,
             "end": null
           },
           {
-            "company": "World Bank",
+            "company": "Goldman Sachs",
             "start": null,
             "end": null
           }
