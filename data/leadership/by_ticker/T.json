@@ -1,6 +1,6 @@
 {
   "ticker": "T",
-  "fetchedAt": "2026-10-04T21:46:32.789816Z",
+  "fetchedAt": "2026-10-05T14:34:18.437706Z",
   "people": [
     {
       "qid": "Q61985799",
@@ -146,9 +146,9 @@
           "manager"
         ],
         "education": [
+          "Harvard Business School",
           "Collegiate School",
           "Allen-Stevenson School",
-          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [],
@@ -201,14 +201,14 @@
         ],
         "employers": [
           {
-            "company": "Ad Council",
+            "company": "BET",
             "start": null,
             "end": null
           },
           {
-            "company": "BET Media Group",
-            "start": "1986-01-01",
-            "end": "2018-01-01"
+            "company": "Marriott International",
+            "start": null,
+            "end": null
           },
           {
             "company": "Monsanto",
@@ -221,16 +221,6 @@
             "end": null
           },
           {
-            "company": "BET",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Marriott International",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Revlon",
             "start": null,
             "end": null
@@ -239,6 +229,16 @@
             "company": "Washington Gas",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Ad Council",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "BET Media Group",
+            "start": "1986-01-01",
+            "end": "2018-01-01"
           }
         ],
         "positions": [

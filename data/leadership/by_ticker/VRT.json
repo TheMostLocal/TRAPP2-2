@@ -1,0 +1,48 @@
+{
+  "ticker": "VRT",
+  "fetchedAt": "2026-10-05T14:34:18.444362Z",
+  "people": [
+    {
+      "qid": "Q135228816",
+      "name": "Giordano Albertazzi",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q135228816",
+        "name": "Giordano Albertazzi",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Polytechnic University of Milan",
+          "Stanford University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q1175376",
+      "name": "David M. Cote",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q1175376",
+        "name": "David M. Cote",
+        "dateOfBirth": "1952-07-19",
+        "birthPlace": "Manchester",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dave%20Cote%20Headshot%20retusche%20b.jpg",
+        "occupations": [
+          "entrepreneur"
+        ],
+        "education": [
+          "Pembroke Academy",
+          "University of New Hampshire"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    }
+  ]
+}

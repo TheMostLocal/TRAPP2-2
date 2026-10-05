@@ -1,0 +1,60 @@
+{
+  "ticker": "NOK",
+  "fetchedAt": "2026-10-05T14:34:18.428303Z",
+  "people": [
+    {
+      "qid": "Q115735574",
+      "name": "Justin Hotard",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q115735574",
+        "name": "Justin Hotard",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [],
+        "employers": [],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2025-03-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q2271104",
+      "name": "Fredrik Idestam",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q2271104",
+        "name": "Fredrik Idestam",
+        "dateOfBirth": "1838-10-28",
+        "birthPlace": "Tyrv\u00e4nt\u00f6",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fredrik%20Idestam.png",
+        "occupations": [
+          "mining engineer",
+          "entrepreneur",
+          "engineer",
+          "businessperson"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Nokia",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "ticker": "NVDA",
-  "fetchedAt": "2026-10-04T21:46:32.785486Z",
+  "fetchedAt": "2026-10-05T14:34:18.429241Z",
   "people": [
     {
       "qid": "Q305177",
@@ -14,15 +14,15 @@
         "birthPlace": "Tainan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jen-Hsun%20Huang%202025.jpg",
         "occupations": [
-          "tech VIP",
-          "entrepreneur",
-          "founder",
-          "computer scientist",
           "manager",
           "electrical engineer",
-          "chief executive officer",
+          "founder",
+          "entrepreneur",
+          "tech VIP",
           "businessperson",
-          "engineer"
+          "computer scientist",
+          "engineer",
+          "chief executive officer"
         ],
         "education": [
           "Oneida Baptist Institute",
@@ -264,8 +264,8 @@
         "occupations": [
           "biophysicist",
           "military flight engineer",
-          "university teacher",
-          "engineer"
+          "engineer",
+          "university teacher"
         ],
         "education": [
           "California Institute of Technology",
@@ -305,15 +305,15 @@
         "birthPlace": "Tainan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jen-Hsun%20Huang%202025.jpg",
         "occupations": [
-          "tech VIP",
-          "entrepreneur",
-          "founder",
-          "computer scientist",
           "manager",
           "electrical engineer",
-          "chief executive officer",
+          "founder",
+          "entrepreneur",
+          "tech VIP",
           "businessperson",
-          "engineer"
+          "computer scientist",
+          "engineer",
+          "chief executive officer"
         ],
         "education": [
           "Oneida Baptist Institute",
@@ -337,15 +337,15 @@
         "birthPlace": "Tainan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jen-Hsun%20Huang%202025.jpg",
         "occupations": [
-          "tech VIP",
-          "entrepreneur",
-          "founder",
-          "computer scientist",
           "manager",
           "electrical engineer",
-          "chief executive officer",
+          "founder",
+          "entrepreneur",
+          "tech VIP",
           "businessperson",
-          "engineer"
+          "computer scientist",
+          "engineer",
+          "chief executive officer"
         ],
         "education": [
           "Oneida Baptist Institute",

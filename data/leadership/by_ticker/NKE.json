@@ -1,6 +1,6 @@
 {
   "ticker": "NKE",
-  "fetchedAt": "2026-10-04T21:46:32.784797Z",
+  "fetchedAt": "2026-10-05T14:34:18.427789Z",
   "people": [
     {
       "qid": "Q130612644",
@@ -35,8 +35,8 @@
         ],
         "education": [
           "Dartmouth College",
-          "Stanford Graduate School of Business",
-          "Stanford University"
+          "Stanford University",
+          "Stanford Graduate School of Business"
         ],
         "employers": [
           {
@@ -60,12 +60,12 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20in%20New%20York%20City%20-%202026%20%28cropped%29.jpg",
         "occupations": [
-          "computer scientist",
           "presenter",
-          "chief executive officer",
           "manager",
-          "engineer",
-          "businessperson"
+          "businessperson",
+          "computer scientist",
+          "chief executive officer",
+          "engineer"
         ],
         "education": [
           "Rostrevor College",
@@ -76,14 +76,14 @@
         ],
         "employers": [
           {
-            "company": "Apple Inc.",
-            "start": "1998-01-01",
-            "end": null
-          },
-          {
             "company": "IBM",
             "start": "1982-01-01",
             "end": "1994-01-01"
+          },
+          {
+            "company": "Apple Inc.",
+            "start": "1998-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -111,8 +111,8 @@
           "businessperson"
         ],
         "education": [
-          "The Wharton School",
-          "University of Oxford"
+          "University of Oxford",
+          "The Wharton School"
         ],
         "employers": [],
         "positions": []
@@ -214,10 +214,10 @@
         "birthPlace": "Hillsboro",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Travis%20Knight%20%2830000495292%29.jpg",
         "occupations": [
-          "film director",
-          "film producer",
           "rapper",
-          "animator"
+          "animator",
+          "film producer",
+          "film director"
         ],
         "education": [
           "Jesuit High School",
@@ -247,13 +247,13 @@
         ],
         "employers": [
           {
-            "company": "New York University",
-            "start": "2010-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           },
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "New York University",
+            "start": "2010-01-01",
             "end": null
           }
         ],
@@ -295,8 +295,8 @@
         "birthPlace": "Poughkeepsie",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Parker%20-%20World%20Economic%20Forum%202008.jpg",
         "occupations": [
-          "director",
-          "entrepreneur"
+          "entrepreneur",
+          "director"
         ],
         "education": [
           "Westhill High School",
@@ -325,8 +325,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
           "philanthropist",
-          "entrepreneur",
           "businessperson",
+          "entrepreneur",
           "writer"
         ],
         "education": [
@@ -359,8 +359,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
           "philanthropist",
-          "entrepreneur",
           "businessperson",
+          "entrepreneur",
           "writer"
         ],
         "education": [

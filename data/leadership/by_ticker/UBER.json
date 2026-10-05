@@ -1,6 +1,6 @@
 {
   "ticker": "UBER",
-  "fetchedAt": "2026-10-04T21:46:32.791761Z",
+  "fetchedAt": "2026-10-05T14:34:18.440779Z",
   "people": [
     {
       "qid": "Q5221979",
@@ -107,8 +107,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Yale University",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Yale University"
         ],
         "employers": [],
         "positions": []
