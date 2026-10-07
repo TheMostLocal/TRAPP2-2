@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "fetchedAt": "2026-10-05T14:26:06.986771Z",
+  "fetchedAt": "2026-10-07T05:30:02.411561Z",
   "people": [
     {
       "qid": "Q36215",
@@ -18,16 +18,16 @@
           "philanthropist",
           "programmer",
           "entrepreneur",
-          "chief executive officer",
-          "computer scientist"
+          "computer scientist",
+          "chief executive officer"
         ],
         "education": [
           "Mercy University",
           "Johns Hopkins Center for Talented Youth",
           "Ardsley High School",
           "New York Medical College",
-          "Phillips Exeter Academy",
-          "Harvard University"
+          "Harvard University",
+          "Phillips Exeter Academy"
         ],
         "employers": [
           {
@@ -58,8 +58,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Columbia Business School",
@@ -132,8 +132,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
-          "Lynbrook High School"
+          "Lynbrook High School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -361,19 +361,19 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
           "chess player",
-          "technology entrepreneur",
           "manager",
           "financier",
           "banker",
           "investor",
-          "entrepreneur",
           "computer scientist",
+          "entrepreneur",
+          "technology entrepreneur",
           "writer"
         ],
         "education": [
+          "Stanford University",
           "Stanford Law School",
-          "San Mateo High School",
-          "Stanford University"
+          "San Mateo High School"
         ],
         "employers": [
           {
@@ -411,9 +411,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheryl%20Sandberg%20WEF%202013%20%28crop%20by%20James%20Tamim%29.jpg",
         "occupations": [
           "economist",
-          "computer scientist",
           "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "computer scientist"
         ],
         "education": [
           "Harvard College",
@@ -492,13 +492,13 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Andreessen-9%20%28cropped%29.jpg",
         "occupations": [
           "blogger",
-          "software engineer",
-          "programmer",
           "investor",
-          "inventor",
-          "entrepreneur",
           "engineer",
-          "computer scientist"
+          "programmer",
+          "software engineer",
+          "entrepreneur",
+          "computer scientist",
+          "inventor"
         ],
         "education": [
           "New Lisbon High School",
@@ -542,16 +542,16 @@
           "philanthropist",
           "programmer",
           "entrepreneur",
-          "chief executive officer",
-          "computer scientist"
+          "computer scientist",
+          "chief executive officer"
         ],
         "education": [
           "Mercy University",
           "Johns Hopkins Center for Talented Youth",
           "Ardsley High School",
           "New York Medical College",
-          "Phillips Exeter Academy",
-          "Harvard University"
+          "Harvard University",
+          "Phillips Exeter Academy"
         ],
         "employers": [
           {
@@ -614,16 +614,16 @@
           "philanthropist",
           "programmer",
           "entrepreneur",
-          "chief executive officer",
-          "computer scientist"
+          "computer scientist",
+          "chief executive officer"
         ],
         "education": [
           "Mercy University",
           "Johns Hopkins Center for Talented Youth",
           "Ardsley High School",
           "New York Medical College",
-          "Phillips Exeter Academy",
-          "Harvard University"
+          "Harvard University",
+          "Phillips Exeter Academy"
         ],
         "employers": [
           {

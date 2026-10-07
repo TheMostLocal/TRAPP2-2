@@ -1,6 +1,6 @@
 {
   "ticker": "MRNA",
-  "fetchedAt": "2026-10-05T14:26:06.989355Z",
+  "fetchedAt": "2026-10-07T05:30:02.415038Z",
   "people": [
     {
       "qid": "Q90959587",
@@ -78,9 +78,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Noubar%20Afeyan%20at%20Global%20Innovation%20Forum%202022%2C%20Yerevan%2C%20Armenia%20by%20Xelgen.jpg",
         "occupations": [
           "inventor",
-          "businessperson",
           "entrepreneur",
-          "donor"
+          "donor",
+          "businessperson"
         ],
         "education": [
           "McGill University",
@@ -124,8 +124,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nabel%20in%20her%20lab%20at%20the%20NHLBI.jpg",
         "occupations": [
-          "cardiologist",
-          "scientist"
+          "scientist",
+          "cardiologist"
         ],
         "education": [
           "Weill Cornell Medicine",
@@ -133,6 +133,11 @@
           "Harvard Medical School"
         ],
         "employers": [
+          {
+            "company": "University of Michigan",
+            "start": null,
+            "end": null
+          },
           {
             "company": "National Heart, Lung, and Blood Institute",
             "start": null,
@@ -145,11 +150,6 @@
           },
           {
             "company": "Brigham and Women's Hospital",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "University of Michigan",
             "start": null,
             "end": null
           }
@@ -169,9 +169,9 @@
         "birthPlace": "Albany",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Langer.jpg",
         "occupations": [
+          "chemical engineer",
           "university teacher",
           "biotechnologist",
-          "chemical engineer",
           "biochemist",
           "engineer",
           "inventor"
@@ -209,9 +209,9 @@
         "birthPlace": "Haifa",
         "image": null,
         "occupations": [
+          "professor",
           "researcher",
-          "physician",
-          "professor"
+          "physician"
         ],
         "education": [
           "Hebrew Reali School",
@@ -219,11 +219,6 @@
           "National Cancer Institute"
         ],
         "employers": [
-          {
-            "company": "University of Pennsylvania",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Sanofi",
             "start": null,
@@ -236,6 +231,11 @@
           },
           {
             "company": "Moderna",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "University of Pennsylvania",
             "start": null,
             "end": null
           }
@@ -299,8 +299,8 @@
         "birthPlace": "Agadir",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Moncef%20Slaoui%20%28cropped%29.jpg",
         "occupations": [
-          "researcher",
-          "immunologist"
+          "immunologist",
+          "researcher"
         ],
         "education": [
           "Tufts University School of Medicine",

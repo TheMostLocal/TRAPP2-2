@@ -1,6 +1,6 @@
 {
   "ticker": "MDT",
-  "fetchedAt": "2026-10-05T14:26:06.986222Z",
+  "fetchedAt": "2026-10-07T05:30:02.411077Z",
   "people": [
     {
       "qid": "Q108259354",
@@ -58,9 +58,9 @@
           "businessperson"
         ],
         "education": [
-          "University of Virginia Darden School of Business",
           "University of Virginia",
-          "Duke University"
+          "Duke University",
+          "University of Virginia Darden School of Business"
         ],
         "employers": [],
         "positions": []

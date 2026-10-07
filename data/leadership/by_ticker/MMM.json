@@ -1,6 +1,6 @@
 {
   "ticker": "MMM",
-  "fetchedAt": "2026-10-05T14:26:06.987900Z",
+  "fetchedAt": "2026-10-07T05:30:02.413058Z",
   "people": [
     {
       "qid": "Q94016219",
@@ -14,13 +14,13 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Roman%2C%20CEO%20of%203M%20%2849651820963%29%20%28cropped%29.jpg",
         "occupations": [
-          "engineer",
-          "business executive"
+          "business executive",
+          "engineer"
         ],
         "education": [
-          "University of Southern California",
           "University of Wisconsin\u2013Stevens Point",
-          "University of Minnesota"
+          "University of Minnesota",
+          "University of Southern California"
         ],
         "employers": [
           {
@@ -326,13 +326,13 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Roman%2C%20CEO%20of%203M%20%2849651820963%29%20%28cropped%29.jpg",
         "occupations": [
-          "engineer",
-          "business executive"
+          "business executive",
+          "engineer"
         ],
         "education": [
-          "University of Southern California",
           "University of Wisconsin\u2013Stevens Point",
-          "University of Minnesota"
+          "University of Minnesota",
+          "University of Southern California"
         ],
         "employers": [
           {
@@ -455,8 +455,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [],
         "employers": [],
@@ -595,21 +595,21 @@
           "writer"
         ],
         "education": [
+          "Harvard University",
+          "John F. Kennedy School of Government",
           "Kogod School of Business",
           "St Antony's College",
           "American University",
-          "John F. Kennedy School of Government",
-          "University of Oxford",
-          "Harvard University"
+          "University of Oxford"
         ],
         "employers": [
           {
-            "company": "World Bank",
+            "company": "Goldman Sachs",
             "start": null,
             "end": null
           },
           {
-            "company": "Goldman Sachs",
+            "company": "World Bank",
             "start": null,
             "end": null
           }

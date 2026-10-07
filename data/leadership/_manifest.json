@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-05T14:58:41.077295Z",
+  "generatedAt": "2026-10-07T05:30:02.461584Z",
   "totalPeople": 863,
   "totalTickers": 146,
-  "lastRangeFilter": "N-Z",
-  "thisRunPeople": 283,
-  "thisRunTickers": 134,
+  "lastRangeFilter": "H-M",
+  "thisRunPeople": 186,
+  "thisRunTickers": 69,
   "index": [
     {
       "qid": "Q125257078",
@@ -215,7 +215,8 @@
       "name": "Mike Roman",
       "slug": "mike-roman",
       "tickers": [
-        "ABT"
+        "MMM",
+        "MMM"
       ],
       "positionsCount": 3,
       "employersCount": 2
@@ -345,7 +346,8 @@
       "name": "David A. Ricks",
       "slug": "david-a-ricks",
       "tickers": [
-        "ADBE"
+        "LLY",
+        "LLY"
       ],
       "positionsCount": 3,
       "employersCount": 0
@@ -651,8 +653,7 @@
       "name": "Tan Hock Eng",
       "slug": "tan-hock-eng",
       "tickers": [
-        "AVGO",
-        "AVGO"
+        "META"
       ],
       "positionsCount": 1,
       "employersCount": 6
@@ -1312,8 +1313,7 @@
       "name": "Steve Burke",
       "slug": "steve-burke",
       "tickers": [
-        "BRK.A",
-        "BRK.B"
+        "JPM"
       ],
       "positionsCount": 2,
       "employersCount": 1
@@ -1494,8 +1494,7 @@
       "name": "Debra Reed",
       "slug": "debra-reed",
       "tickers": [
-        "CAT",
-        "CVX"
+        "LMT"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -1809,7 +1808,7 @@
       "name": "John W. Stanton",
       "slug": "john-w-stanton",
       "tickers": [
-        "COST"
+        "MSFT"
       ],
       "positionsCount": 2,
       "employersCount": 0
@@ -2268,7 +2267,7 @@
       "name": "Marillyn Hewson",
       "slug": "marillyn-hewson",
       "tickers": [
-        "CVX"
+        "JNJ"
       ],
       "positionsCount": 3,
       "employersCount": 1
@@ -2308,7 +2307,7 @@
       "name": "Dambisa Moyo, Baroness Moyo",
       "slug": "dambisa-moyo-baroness-moyo",
       "tickers": [
-        "CVX"
+        "MMM"
       ],
       "positionsCount": 3,
       "employersCount": 2
@@ -2788,7 +2787,7 @@
       "name": "Patricia Russo",
       "slug": "patricia-russo",
       "tickers": [
-        "GM"
+        "MRK"
       ],
       "positionsCount": 2,
       "employersCount": 2
@@ -3132,7 +3131,7 @@
       "name": "Mary Beth West",
       "slug": "mary-beth-west",
       "tickers": [
-        "ACI"
+        "LOW"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -3663,7 +3662,7 @@
       "name": "Ron Williams",
       "slug": "ron-williams",
       "tickers": [
-        "BOE"
+        "JNJ"
       ],
       "positionsCount": 3,
       "employersCount": 1
@@ -3934,7 +3933,7 @@
       "name": "Nancy Killefer",
       "slug": "nancy-killefer",
       "tickers": [
-        "CAH"
+        "META"
       ],
       "positionsCount": 1,
       "employersCount": 0
@@ -4419,7 +4418,7 @@
       "name": "Emma Walmsley",
       "slug": "emma-walmsley",
       "tickers": [
-        "GSK"
+        "MSFT"
       ],
       "positionsCount": 1,
       "employersCount": 2
@@ -4593,7 +4592,7 @@
       "name": "Dion Weisler",
       "slug": "dion-weisler",
       "tickers": [
-        "TMO"
+        "INTC"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -4910,7 +4909,7 @@
       "name": "Timothy P. Flynn",
       "slug": "timothy-p-flynn",
       "tickers": [
-        "WMT"
+        "JPM"
       ],
       "positionsCount": 2,
       "employersCount": 0
@@ -5041,7 +5040,7 @@
       "name": "Ron Sargent",
       "slug": "ron-sargent",
       "tickers": [
-        "WFC"
+        "KR"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -5283,7 +5282,7 @@
       "name": "Jeh C. Johnson",
       "slug": "jeh-c-johnson",
       "tickers": [
-        "X"
+        "LMT"
       ],
       "positionsCount": 3,
       "employersCount": 8
@@ -5323,8 +5322,7 @@
       "name": "David Burritt",
       "slug": "david-burritt",
       "tickers": [
-        "X",
-        "X"
+        "LMT"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -5485,7 +5483,7 @@
       "name": "Brian Rogers",
       "slug": "brian-rogers",
       "tickers": [
-        "RTX"
+        "LOW"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -5587,7 +5585,7 @@
       "name": "Richard K. Davis",
       "slug": "richard-k-davis",
       "tickers": [
-        "WFC"
+        "MA"
       ],
       "positionsCount": 1,
       "employersCount": 0
@@ -5607,7 +5605,7 @@
       "name": "Goh Choon Phong",
       "slug": "goh-choon-phong",
       "tickers": [
-        "SQ"
+        "MA"
       ],
       "positionsCount": 2,
       "employersCount": 0
@@ -5930,7 +5928,8 @@
       "name": "Kenneth Frazier",
       "slug": "kenneth-frazier",
       "tickers": [
-        "XOM"
+        "MRK",
+        "MRK"
       ],
       "positionsCount": 2,
       "employersCount": 2
@@ -6143,7 +6142,7 @@
       "name": "Teri List",
       "slug": "teri-list",
       "tickers": [
-        "V"
+        "MSFT"
       ],
       "positionsCount": 1,
       "employersCount": 5
@@ -6193,8 +6192,7 @@
       "name": "Charlie Scharf",
       "slug": "charlie-scharf",
       "tickers": [
-        "WFC",
-        "WFC"
+        "MSFT"
       ],
       "positionsCount": 0,
       "employersCount": 0

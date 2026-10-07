@@ -1,6 +1,6 @@
 {
   "ticker": "JNJ",
-  "fetchedAt": "2026-10-05T14:26:06.978223Z",
+  "fetchedAt": "2026-10-07T05:30:02.401222Z",
   "people": [
     {
       "qid": "Q113356474",
@@ -415,25 +415,25 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Professor%20Jennifer%20Doudna%20ForMemRS%20%28cropped%29.jpg",
         "occupations": [
           "molecular biologist",
-          "crystallographer",
-          "biochemist",
           "university teacher",
+          "biochemist",
+          "crystallographer",
           "chemist"
         ],
         "education": [
+          "Harvard University",
           "Pomona College",
-          "Hilo High School",
-          "Harvard University"
+          "Hilo High School"
         ],
         "employers": [
           {
-            "company": "University of California, San Francisco",
-            "start": null,
+            "company": "University of California, Berkeley",
+            "start": "2002-01-01",
             "end": null
           },
           {
-            "company": "University of California, Berkeley",
-            "start": "2002-01-01",
+            "company": "University of California, San Francisco",
+            "start": null,
             "end": null
           },
           {
@@ -517,12 +517,12 @@
         "birthPlace": "Laxou",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20Joly%20headshot.jpg",
         "occupations": [
-          "lecturer",
           "executive",
           "business manager",
-          "chief executive officer",
+          "lecturer",
+          "entrepreneur",
           "merchant",
-          "entrepreneur"
+          "chief executive officer"
         ],
         "education": [
           "Lyc\u00e9e Louis-le-Grand",
@@ -570,8 +570,8 @@
         "birthPlace": "Scranton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Weinberger%20at%20the%20EY%20World%20Entrepreneur%20of%20the%20Year%202016.png",
         "occupations": [
-          "politician",
-          "entrepreneur"
+          "entrepreneur",
+          "politician"
         ],
         "education": [
           "Case Western Reserve University",
