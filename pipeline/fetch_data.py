@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 # ============================================================
-#  >>> DESTINATION: TRAPP2-1 repo  →  pipeline/fetch_data.py  <<<
-#  TheMostLocal/TRAPP2-1/pipeline/fetch_data.py
+#  >>> DESTINATION: TRAPP2-2 repo  →  pipeline/fetch_data.py  <<<
+#  TheMostLocal/TRAPP2-2/pipeline/fetch_data.py
 #
-#  Replace the existing pipeline/fetch_data.py in the TRAPP2-1 repo with
+#  Replace the existing pipeline/fetch_data.py in the TRAPP2-2 repo with
 #  THIS file. (One file per repo — do not mix them up; each is labeled.)
 # ============================================================
 """
-TRAPP2 — Quote + fundamentals fetcher.
+TRAPP2-2 — Quote + fundamentals fetcher.
 
 Pulls live (or 15-min delayed) quotes for every ticker in data/tickers.txt via
 yfinance, plus the fundamentals snapshot. Writes:
@@ -53,9 +53,8 @@ COLUMNS = [
     "ipodate", "isetf", "isfund", "isactive", "web_url", "image",
     "currency", "employees", "city", "state", "phone", "address",
     "dividend_yield", "fetched_at", "profile_fetched_at",
-    # Financial metrics for Research grading + bot engine (camelCase to match app).
-    # Most TRAPP2-1 vehicles (FX/crypto/ETF) won't have these, but foreign
-    # equities listed here will — and the app reads them for grading.
+    "asset_class",  # NEW — Equity / Future / FX / Crypto / Index / Mutual Fund / Private / Option
+    # Financial metrics for Research grading + bot engine (camelCase to match app)
     "returnOnEquity", "returnOnAssets", "grossMargin", "operatingMargin",
     "profitMargin", "revenueGrowth", "earningsGrowth", "revenue", "ebitda",
     "freeCashFlow", "netIncome", "stockBasedComp", "priceToBook", "evToEbitda",
@@ -63,7 +62,6 @@ COLUMNS = [
     # NEW — expense ratio (fund fee) + extra grading ratios
     "expenseRatio", "currentRatio", "quickRatio", "debtToEquity", "payoutRatio",
     "pegRatio", "heldPctInsiders", "heldPctInstitutions", "shortPctFloat",
-    "asset_class",  # NEW — Equity / Future / FX / Crypto / Index / Mutual Fund / Private / Option
 ]
 
 
@@ -468,6 +466,8 @@ def fetch_quote(ticker, profile_cache):
         "address": safe(info, "address1") or safe(info, "address"),
         "dividend_yield": fmt_num(safe(info, "dividendYield")),
         # --- Financial metrics for Research grading + the bot engine ---
+        # Yahoo's .info already carries these; we just extract them. camelCase
+        # so they match what the app reads (no client-side remap needed).
         "returnOnEquity": fmt_num(safe(info, "returnOnEquity")),
         "returnOnAssets": fmt_num(safe(info, "returnOnAssets")),
         "grossMargin": fmt_num(safe(info, "grossMargins")),
@@ -510,9 +510,11 @@ def fetch_quote(ticker, profile_cache):
     }
 
     # ---- Balance-sheet / cashflow fallback ----
-    # Foreign equities here often return EMPTY balance-sheet fields from
-    # yfinance .info. Pull from the financial STATEMENTS so equity/assets/debt/
-    # SBC populate. Best-effort: fills only gaps, never overwrites, never fails.
+    # Foreign ADRs (e.g. TSM) often return EMPTY balance-sheet fields from
+    # yfinance .info, leaving totalEquity / totalAssets / totalDebt / SBC blank
+    # so Research metrics like ROTCE, Debt/Equity and SBC% can't compute. The
+    # financial STATEMENTS usually carry the numbers even when .info doesn't.
+    # Best-effort: fills only the gaps, never overwrites, never fails the row.
     try:
         _need_bs = (not row.get("totalEquity")) or (not row.get("totalAssets")) or (not row.get("totalDebt"))
         if _need_bs:
