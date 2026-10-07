@@ -1,6 +1,6 @@
 {
   "ticker": "MCD",
-  "fetchedAt": "2026-10-05T14:26:06.985636Z",
+  "fetchedAt": "2026-10-07T05:30:02.410331Z",
   "people": [
     {
       "qid": "Q73426541",
@@ -67,9 +67,9 @@
         "occupations": [
           "restaurateur",
           "salesperson",
-          "businessperson",
           "entrepreneur",
-          "writer"
+          "writer",
+          "businessperson"
         ],
         "education": [
           "Chester"
