@@ -1,6 +1,6 @@
 {
   "ticker": "AMD",
-  "fetchedAt": "2026-10-05T14:45:20.326410Z",
+  "fetchedAt": "2026-10-07T05:44:45.987587Z",
   "people": [
     {
       "qid": "Q18207172",
@@ -15,8 +15,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SXSW-2024-alih-OB7A0861-Lisa%20Su.jpg",
         "occupations": [
           "electrical engineer",
-          "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "entrepreneur"
         ],
         "education": [
           "Massachusetts Institute of Technology"
@@ -272,8 +272,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SXSW-2024-alih-OB7A0861-Lisa%20Su.jpg",
         "occupations": [
           "electrical engineer",
-          "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "entrepreneur"
         ],
         "education": [
           "Massachusetts Institute of Technology"

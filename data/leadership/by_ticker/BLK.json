@@ -1,6 +1,6 @@
 {
   "ticker": "BLK",
-  "fetchedAt": "2026-10-05T14:45:20.334615Z",
+  "fetchedAt": "2026-10-07T05:44:45.995847Z",
   "people": [
     {
       "qid": "Q3218882",
@@ -16,8 +16,8 @@
         "occupations": [
           "manager",
           "economist",
-          "financier",
-          "politician"
+          "politician",
+          "financier"
         ],
         "education": [
           "University of California, Los Angeles",
@@ -65,8 +65,8 @@
         "occupations": [
           "manager",
           "economist",
-          "financier",
-          "politician"
+          "politician",
+          "financier"
         ],
         "education": [
           "University of California, Los Angeles",

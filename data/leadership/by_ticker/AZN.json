@@ -1,6 +1,6 @@
 {
   "ticker": "AZN",
-  "fetchedAt": "2026-10-05T14:45:20.330730Z",
+  "fetchedAt": "2026-10-07T05:44:45.991937Z",
   "people": [
     {
       "qid": "Q7141722",
@@ -11,7 +11,7 @@
         "qid": "Q7141722",
         "name": "Pascal Soriot",
         "dateOfBirth": "1959-05-23",
-        "birthPlace": "France",
+        "birthPlace": "Paris",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pascal%20Soriot%202025.jpg",
         "occupations": [
           "veterinarian",
@@ -50,8 +50,8 @@
         "birthPlace": "Gothenburg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leif%20Johansson%202014-07-15%20001%20%28cropped%29.jpg",
         "occupations": [
-          "engineer",
-          "entrepreneur"
+          "entrepreneur",
+          "engineer"
         ],
         "education": [
           "Chalmers University of Technology"
@@ -157,7 +157,7 @@
         "qid": "Q7141722",
         "name": "Pascal Soriot",
         "dateOfBirth": "1959-05-23",
-        "birthPlace": "France",
+        "birthPlace": "Paris",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pascal%20Soriot%202025.jpg",
         "occupations": [
           "veterinarian",
@@ -218,9 +218,9 @@
         "birthPlace": "Dieuze",
         "image": null,
         "occupations": [
-          "biologist",
           "researcher",
-          "physician"
+          "physician",
+          "biologist"
         ],
         "education": [
           "\u00c9cole normale sup\u00e9rieure Paris-Saclay"
@@ -330,8 +330,8 @@
         "birthPlace": "Gothenburg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leif%20Johansson%202014-07-15%20001%20%28cropped%29.jpg",
         "occupations": [
-          "engineer",
-          "entrepreneur"
+          "entrepreneur",
+          "engineer"
         ],
         "education": [
           "Chalmers University of Technology"

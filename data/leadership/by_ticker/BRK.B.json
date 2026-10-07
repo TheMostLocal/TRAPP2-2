@@ -1,6 +1,6 @@
 {
   "ticker": "BRK.B",
-  "fetchedAt": "2026-10-05T14:45:20.337606Z",
+  "fetchedAt": "2026-10-07T05:44:45.999743Z",
   "people": [
     {
       "qid": "Q47168572",
@@ -411,9 +411,9 @@
         ],
         "education": [
           "Omaha Central High School",
+          "University of Michigan College of Literature, Science, and the Arts",
           "California Institute of Technology",
-          "Harvard Law School",
-          "University of Michigan College of Literature, Science, and the Arts"
+          "Harvard Law School"
         ],
         "employers": [
           {
@@ -450,11 +450,11 @@
         "birthPlace": "Mineola",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20Chenault.jpg",
         "occupations": [
-          "venture capitalist",
           "entrepreneur",
+          "venture capitalist",
           "businessperson",
-          "chief executive officer",
-          "lawyer"
+          "lawyer",
+          "chief executive officer"
         ],
         "education": [
           "The Waldorf School of Garden City",
@@ -618,8 +618,8 @@
           "military personnel"
         ],
         "education": [
-          "Harvard Business School",
           "Cornell University",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [],

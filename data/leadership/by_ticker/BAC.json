@@ -1,6 +1,6 @@
 {
   "ticker": "BAC",
-  "fetchedAt": "2026-10-05T14:45:20.331753Z",
+  "fetchedAt": "2026-10-07T05:44:45.992943Z",
   "people": [
     {
       "qid": "Q912811",
@@ -413,8 +413,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "University of Chicago",
           "Booth School of Business",
+          "University of Chicago",
           "University of Pennsylvania"
         ],
         "employers": [

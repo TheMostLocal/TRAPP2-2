@@ -1,6 +1,6 @@
 {
   "ticker": "COP",
-  "fetchedAt": "2026-10-05T14:45:20.343700Z",
+  "fetchedAt": "2026-10-07T05:44:46.008330Z",
   "people": [
     {
       "qid": "Q7384237",
@@ -181,8 +181,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "The Wharton School"
+          "The Wharton School",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -242,12 +242,12 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jody%20Freeman%20at%20Metcalf%20Institute.jpg",
         "occupations": [
-          "jurist",
-          "lawyer"
+          "lawyer",
+          "jurist"
         ],
         "education": [
-          "University of Toronto",
           "Harvard Law School",
+          "University of Toronto",
           "Stanford University"
         ],
         "employers": [
