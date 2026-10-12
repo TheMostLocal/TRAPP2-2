@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-12T12:55:07.889437Z",
-  "totalPeople": 272,
+  "generatedAt": "2026-10-12T15:17:23.513832Z",
+  "totalPeople": 276,
   "totalTickers": 80,
-  "lastRangeFilter": "H-M",
-  "thisRunPeople": 29,
-  "thisRunTickers": 48,
+  "lastRangeFilter": "N-Z",
+  "thisRunPeople": 77,
+  "thisRunTickers": 93,
   "index": [
     {
       "qid": "Q5214311",
@@ -564,7 +564,7 @@
       "name": "Inderpal Bhandari",
       "slug": "inderpal-bhandari",
       "tickers": [
-        "AES"
+        "WBA"
       ],
       "positionsCount": 1,
       "employersCount": 2
@@ -2774,6 +2774,47 @@
       ],
       "positionsCount": 0,
       "employersCount": 1
+    },
+    {
+      "qid": "Q5577535",
+      "name": "Goh Choon Phong",
+      "slug": "goh-choon-phong",
+      "tickers": [
+        "SQ"
+      ],
+      "positionsCount": 2,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q6291340",
+      "name": "Joe Almeida",
+      "slug": "joe-almeida",
+      "tickers": [
+        "WBA"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q55819254",
+      "name": "David Burritt",
+      "slug": "david-burritt",
+      "tickers": [
+        "X",
+        "X"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q6176439",
+      "name": "Jeh C. Johnson",
+      "slug": "jeh-c-johnson",
+      "tickers": [
+        "X"
+      ],
+      "positionsCount": 3,
+      "employersCount": 8
     }
   ]
 }
