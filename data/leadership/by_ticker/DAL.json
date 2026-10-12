@@ -1,6 +1,6 @@
 {
   "ticker": "DAL",
-  "fetchedAt": "2026-10-07T05:44:46.014933Z",
+  "fetchedAt": "2026-10-12T12:09:35.525512Z",
   "people": [
     {
       "qid": "Q32374551",
@@ -59,14 +59,14 @@
         "birthPlace": "Boston",
         "image": null,
         "occupations": [
-          "lawyer",
+          "entrepreneur",
           "business executive",
-          "entrepreneur"
+          "lawyer"
         ],
         "education": [
+          "Harvard University",
           "Columbia Law School",
-          "Brooks School",
-          "Harvard University"
+          "Brooks School"
         ],
         "employers": [],
         "positions": [

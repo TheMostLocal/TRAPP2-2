@@ -1,6 +1,6 @@
 {
   "ticker": "BK",
-  "fetchedAt": "2026-10-07T05:44:45.995617Z",
+  "fetchedAt": "2026-10-12T12:09:35.513714Z",
   "people": [
     {
       "qid": "Q58214646",
@@ -14,9 +14,9 @@
         "birthPlace": "Amersfoort",
         "image": null,
         "occupations": [
+          "university teacher",
           "dean",
-          "architect",
-          "university teacher"
+          "architect"
         ],
         "education": [],
         "employers": [],
