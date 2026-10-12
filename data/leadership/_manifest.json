@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-12T12:09:35.583527Z",
+  "generatedAt": "2026-10-12T12:55:07.889437Z",
   "totalPeople": 272,
   "totalTickers": 80,
-  "lastRangeFilter": "A-G",
-  "thisRunPeople": 171,
-  "thisRunTickers": 97,
+  "lastRangeFilter": "H-M",
+  "thisRunPeople": 29,
+  "thisRunTickers": 48,
   "index": [
     {
       "qid": "Q5214311",
@@ -2775,6 +2775,5 @@
       "positionsCount": 0,
       "employersCount": 1
     }
-  ],
-  "prunedAt": "2026-10-12T12:09:35.701001Z"
+  ]
 }
