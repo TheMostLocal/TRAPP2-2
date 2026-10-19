@@ -19,7 +19,14 @@
       "end": null
     }
   ],
-  "positions": [],
+  "positions": [
+    {
+      "title": "chairperson",
+      "company": null,
+      "start": null,
+      "end": null
+    }
+  ],
   "currentTickers": [
     "BP"
   ]

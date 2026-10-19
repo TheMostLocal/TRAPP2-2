@@ -1,6 +1,6 @@
 {
   "ticker": "DAN",
-  "fetchedAt": "2026-10-12T12:09:35.525764Z",
+  "fetchedAt": "2026-10-19T09:55:05.531065Z",
   "people": [
     {
       "qid": "Q62660539",
@@ -166,9 +166,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "engineer",
           "manager",
-          "businessperson",
-          "engineer"
+          "businessperson"
         ],
         "education": [
           "Technical University of Denmark",
@@ -252,8 +252,8 @@
         "occupations": [
           "university teacher",
           "chemist",
-          "physicist",
           "inventor",
+          "physicist",
           "pharmacist",
           "engineer"
         ],

@@ -1,6 +1,6 @@
 {
   "ticker": "BNTX",
-  "fetchedAt": "2026-10-12T12:09:35.514578Z",
+  "fetchedAt": "2026-10-19T09:55:05.523781Z",
   "people": [
     {
       "qid": "Q2505089",
@@ -16,13 +16,13 @@
         "occupations": [
           "oncologist",
           "immunologist",
-          "researcher",
           "academic",
           "chairperson of the executive board",
+          "researcher",
           "university teacher",
           "entrepreneur",
-          "physician",
-          "chief executive officer"
+          "chief executive officer",
+          "physician"
         ],
         "education": [
           "Erich Kastner Gymnasium"
@@ -70,10 +70,10 @@
           "academic",
           "board member",
           "immunologist",
-          "university teacher",
           "researcher",
-          "entrepreneur",
           "physician",
+          "university teacher",
+          "entrepreneur",
           "Privatdozent"
         ],
         "education": [
@@ -117,13 +117,13 @@
         "occupations": [
           "oncologist",
           "immunologist",
-          "researcher",
           "academic",
           "chairperson of the executive board",
+          "researcher",
           "university teacher",
           "entrepreneur",
-          "physician",
-          "chief executive officer"
+          "chief executive officer",
+          "physician"
         ],
         "education": [
           "Erich Kastner Gymnasium"
@@ -171,10 +171,10 @@
           "academic",
           "board member",
           "immunologist",
-          "university teacher",
           "researcher",
-          "entrepreneur",
           "physician",
+          "university teacher",
+          "entrepreneur",
           "Privatdozent"
         ],
         "education": [
@@ -218,13 +218,13 @@
         "occupations": [
           "oncologist",
           "immunologist",
-          "researcher",
           "academic",
           "chairperson of the executive board",
+          "researcher",
           "university teacher",
           "entrepreneur",
-          "physician",
-          "chief executive officer"
+          "chief executive officer",
+          "physician"
         ],
         "education": [
           "Erich Kastner Gymnasium"

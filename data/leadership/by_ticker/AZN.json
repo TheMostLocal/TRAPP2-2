@@ -1,6 +1,6 @@
 {
   "ticker": "AZN",
-  "fetchedAt": "2026-10-12T12:09:35.510950Z",
+  "fetchedAt": "2026-10-19T09:55:05.521341Z",
   "people": [
     {
       "qid": "Q7141722",
@@ -14,8 +14,8 @@
         "birthPlace": "Paris",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pascal%20Soriot%202025.jpg",
         "occupations": [
-          "entrepreneur",
-          "veterinarian"
+          "veterinarian",
+          "entrepreneur"
         ],
         "education": [
           "HEC Paris",
@@ -50,8 +50,8 @@
         "birthPlace": "Gothenburg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leif%20Johansson%202014-07-15%20001%20%28cropped%29.jpg",
         "occupations": [
-          "engineer",
-          "entrepreneur"
+          "entrepreneur",
+          "engineer"
         ],
         "education": [
           "Chalmers University of Technology"
@@ -136,13 +136,13 @@
         "birthPlace": "Quincy",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheri%20McCoy.jpg",
         "occupations": [
-          "businessperson",
-          "engineer"
+          "engineer",
+          "businessperson"
         ],
         "education": [
-          "Princeton University",
           "University of Massachusetts Dartmouth",
-          "Rutgers University"
+          "Rutgers University",
+          "Princeton University"
         ],
         "employers": [],
         "positions": []
@@ -160,8 +160,8 @@
         "birthPlace": "Paris",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pascal%20Soriot%202025.jpg",
         "occupations": [
-          "entrepreneur",
-          "veterinarian"
+          "veterinarian",
+          "entrepreneur"
         ],
         "education": [
           "HEC Paris",
@@ -218,9 +218,9 @@
         "birthPlace": "Dieuze",
         "image": null,
         "occupations": [
-          "physician",
           "researcher",
-          "biologist"
+          "biologist",
+          "physician"
         ],
         "education": [
           "\u00c9cole normale sup\u00e9rieure Paris-Saclay"
@@ -260,8 +260,8 @@
         "birthPlace": "Stockholm",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Recebe%20em%20audi%C3%AAncia%20o%20presidente%20do%20Conselho%20Administrativo%20do%20Shandinaviska%20Enskilda%20Banken%2C%20Electrolux%20e%20SAAB%20-%20Sistemas%20de%20Defesa%20Aeroespacial%2C%20Marcus%20Wallenberg.%20%2816794468978%29%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "banker"
+          "banker",
+          "entrepreneur"
         ],
         "education": [
           "Walsh School of Foreign Service"
@@ -283,16 +283,6 @@
             "end": null
           },
           {
-            "company": "Institute of International Finance",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Deutsche Bank",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "International Chamber of Commerce",
             "start": null,
             "end": null
@@ -301,6 +291,16 @@
             "company": "Citibank",
             "start": "1980-01-01",
             "end": "1982-01-01"
+          },
+          {
+            "company": "Institute of International Finance",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Deutsche Bank",
+            "start": null,
+            "end": null
           },
           {
             "company": "S. G. Warburg & Co.",
@@ -330,8 +330,8 @@
         "birthPlace": "Gothenburg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leif%20Johansson%202014-07-15%20001%20%28cropped%29.jpg",
         "occupations": [
-          "engineer",
-          "entrepreneur"
+          "entrepreneur",
+          "engineer"
         ],
         "education": [
           "Chalmers University of Technology"

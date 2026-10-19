@@ -1,6 +1,6 @@
 {
   "ticker": "BP",
-  "fetchedAt": "2026-10-12T12:09:35.515637Z",
+  "fetchedAt": "2026-10-19T09:55:05.524487Z",
   "people": [
     {
       "qid": "Q130611962",
@@ -53,7 +53,14 @@
             "end": null
           }
         ],
-        "positions": []
+        "positions": [
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
       }
     }
   ]

@@ -5,9 +5,9 @@
   "birthPlace": null,
   "image": null,
   "occupations": [
+    "engineer",
     "manager",
-    "businessperson",
-    "engineer"
+    "businessperson"
   ],
   "education": [
     "Technical University of Denmark",

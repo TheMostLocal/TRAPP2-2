@@ -1,6 +1,6 @@
 {
   "ticker": "CHTR",
-  "fetchedAt": "2026-10-12T12:09:35.520253Z",
+  "fetchedAt": "2026-10-19T09:55:05.527354Z",
   "people": [
     {
       "qid": "Q114704965",
@@ -111,8 +111,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Harvard University",
-          "Washington and Lee University"
+          "Washington and Lee University",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -131,8 +131,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Brown University",
-          "George Washington University Law School"
+          "George Washington University Law School",
+          "Brown University"
         ],
         "employers": [],
         "positions": []
@@ -171,8 +171,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Princeton University",
           "University of Virginia",
+          "Princeton University",
           "University of Mississippi"
         ],
         "employers": [],
@@ -258,15 +258,10 @@
           "businessperson"
         ],
         "education": [
-          "Dartmouth College",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Dartmouth College"
         ],
         "employers": [
-          {
-            "company": "Barnes & Noble",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Electronic Arts",
             "start": null,
@@ -274,6 +269,11 @@
           },
           {
             "company": "Starbucks",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Barnes & Noble",
             "start": null,
             "end": null
           }
@@ -294,8 +294,8 @@
         "image": null,
         "occupations": [
           "business executive",
-          "publisher",
-          "entrepreneur"
+          "entrepreneur",
+          "publisher"
         ],
         "education": [
           "Yale School of Engineering and Applied Science",
