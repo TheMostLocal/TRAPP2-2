@@ -1,6 +1,6 @@
 {
   "ticker": "VRT",
-  "fetchedAt": "2026-10-12T15:17:23.492628Z",
+  "fetchedAt": "2026-10-19T12:57:31.430711Z",
   "people": [
     {
       "qid": "Q135228816",
@@ -15,8 +15,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Stanford University",
-          "Polytechnic University of Milan"
+          "Polytechnic University of Milan",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []

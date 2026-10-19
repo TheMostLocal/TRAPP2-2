@@ -1,6 +1,6 @@
 {
   "ticker": "S",
-  "fetchedAt": "2026-10-12T15:17:23.482790Z",
+  "fetchedAt": "2026-10-19T12:57:31.421698Z",
   "people": [
     {
       "qid": "Q15728648",
@@ -14,9 +14,9 @@
         "birthPlace": "Guatemala City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marcelo%20Claure%202019%20uncropped%20%28cropped%29.jpg",
         "occupations": [
-          "chief executive officer",
+          "technology entrepreneur",
           "philanthropist",
-          "technology entrepreneur"
+          "chief executive officer"
         ],
         "education": [
           "Bentley University",
@@ -38,8 +38,8 @@
         "birthPlace": "Tosu",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Masayoshi%20Son%20%28P066533-522034%2C%20cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "engineer"
+          "engineer",
+          "entrepreneur"
         ],
         "education": [
           "University of California, Berkeley",

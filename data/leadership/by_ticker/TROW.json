@@ -1,6 +1,6 @@
 {
   "ticker": "TROW",
-  "fetchedAt": "2026-10-12T15:17:23.489128Z",
+  "fetchedAt": "2026-10-19T12:57:31.427318Z",
   "people": [
     {
       "qid": "Q4911038",
@@ -18,10 +18,10 @@
           "American football player"
         ],
         "education": [
-          "Johns Hopkins University",
-          "Dartmouth College",
           "Tuck School of Business",
-          "Loyola Blakefield"
+          "Loyola Blakefield",
+          "Johns Hopkins University",
+          "Dartmouth College"
         ],
         "employers": [
           {
