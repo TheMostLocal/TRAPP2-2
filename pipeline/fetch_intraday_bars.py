@@ -1,0 +1,104 @@
+# ============================================================
+#  >>> DESTINATION: TheMostLocal/TRAPP2-1
+#  >>> FILE PATH:   .github/workflows/intraday.yml
+#  >>> FULL PATH:   TheMostLocal/TRAPP2-1/.github/workflows/intraday.yml
+#
+#  Edit/paste directly on GitHub here:
+#  https://github.com/TheMostLocal/TRAPP2-1/edit/main/.github/workflows/intraday.yml
+#
+#  WHAT CHANGED IN THIS FILE
+#  -------------------------
+#  1. 15-MINUTE CADENCE (session loop since z115), STAGGERED ACROSS REPOS. This repo fires at :3,18,33,48
+#     past the hour. TRAPP2 :0,15,30,45 · TRAPP2-2 :5,20,35,50 ·
+#     TRAPP2-3 :10,25,40,55 · TRAPP2-1 :3,18,33,48. The fleet therefore pushes
+#     fresh prices to the frontend roughly every ~4 minutes, and no two repos
+#     ever queue for a runner in the same minute.
+#
+#  2. NEW STEP: "Append 15-minute intraday tape" runs
+#     pipeline/append_intraday_snapshot.py immediately after the quote fetch. It
+#     writes data/intraday/<today>.json (the session tape), data/intraday/
+#     latest.json (the frontend's one-request fast path) and index.json. This is
+#     what gives the app a GOOGLEFINANCE-style refreshing price series for
+#     today's trading day even when nobody has the app open.
+#
+#  3. SCOPED COMMITS. `git add -A data/` staged EVERY file under data/, including
+#     output owned by other workflows in this repo (macro/quad.json, history/,
+#     leadership/, 13f/ ...). Combined with the `merge -X ours` retry, a quote
+#     run that started before a sibling pushed would REVERT that sibling's work.
+#     This job now stages only the files it actually produces.
+#
+#  4. SCOPED CONFLICT RECOVERY. `git checkout --ours -- data/` had the same
+#     blast radius on the conflict path. Now scoped to this job's own files.
+# ============================================================
+
+
+# z115 — SESSION LOOP. GitHub's scheduler delayed / dropped most of the
+# "every 15 minutes" crons (2026-10-15 live tape: 4 points — 13:09, 17:36, 20:33,
+# 23:19 UTC). Each run now LOOPS inside one job (pipeline/intraday_loop.sh):
+# quotes -> corrections -> signals/regime -> tape point -> commit, then sleeps to
+# the next 15-minute mark (+3 min for this repo), until 22:30 UTC or the job's
+# 5h40m budget. GitHub only has to START the job a couple of times a day.
+# Starts: 12:03 UTC (pre-market) and 17:03 UTC (continues past the close),
+# plus 14:33 / 20:33 UTC fallbacks in case a start is dropped.
+# While a loop runs, a later start just waits (same concurrency group) and picks
+# up where it left off.
+# z117 - HOURLY STARTS 12:00-21:00 UTC. GitHub dropped the 12:00 and 14:30 starts on
+# 2026-10-16 (no tape 08:45-15:58 UTC - through the open). A start that finds the loop
+# running waits as the single pending run (a newer start replaces it); one that finds
+# nothing running restarts the tape within the hour. The loop fast-forwards to the latest
+# main before its first pass, so a long wait can't overwrite newer points.
+name: Intraday Quotes + 15-min Tape
+
+on:
+  schedule:
+    - cron: '3 8-23 * * 1-5'     # z131: hourly starts 08-23 UTC - pre-market (04:00 ET) to after hours (20:00 EDT)
+  workflow_dispatch:
+    inputs:
+      force_tape:
+        description: 'Write an intraday tape point even outside session hours'
+        type: boolean
+        required: false
+        default: false
+      single:
+        description: 'One pass only (no loop)'
+        type: boolean
+        required: false
+        default: false
+
+concurrency:
+  group: trapp2-quote-push
+  cancel-in-progress: false     # never kill a run mid-write
+
+jobs:
+  quotes:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360          # GitHub's per-job maximum; the loop stops itself at 5h40m
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Session loop (quotes + tape every 15 min, committed each pass)
+        env:
+          INTRADAY_FORCE: ${{ github.event.inputs.force_tape == 'true' && '1' || '' }}
+          LOOP_MAX_ITERS: ${{ github.event.inputs.single == 'true' && '1' || '1000' }}
+          LOOP_OFFSET_SEC: '180'
+          LOOP_START_UTC: '0800'      # z131: 04:00 EDT / 03:00 EST - the bars step skips anything outside 04:00-20:15 ET
+          LOOP_STOP_UTC: '2400'       # z131: through 20:00 EDT (19:00 EST)
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          bash pipeline/intraday_loop.sh
