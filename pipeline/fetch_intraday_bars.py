@@ -1,104 +1,177 @@
+#!/usr/bin/env python3
 # ============================================================
-#  >>> DESTINATION: TheMostLocal/TRAPP2-1
-#  >>> FILE PATH:   .github/workflows/intraday.yml
-#  >>> FULL PATH:   TheMostLocal/TRAPP2-1/.github/workflows/intraday.yml
+#  >>> DESTINATION: TheMostLocal/TRAPP2, TRAPP2-1, TRAPP2-2, TRAPP2-3  (identical file)
+#  >>> FILE PATH:   pipeline/fetch_intraday_bars.py
 #
-#  Edit/paste directly on GitHub here:
-#  https://github.com/TheMostLocal/TRAPP2-1/edit/main/.github/workflows/intraday.yml
+#  z131 - TODAY'S 5-MINUTE BARS (open / high / low / close / volume), pre-market and
+#  after hours included, for the app's 1D candles + volume and the tape's pre-market /
+#  after-hours movers. Runs in the intraday loop after the tape (every 15 minutes,
+#  04:00-20:00 ET on NYSE trading days).
 #
-#  WHAT CHANGED IN THIS FILE
-#  -------------------------
-#  1. 15-MINUTE CADENCE (session loop since z115), STAGGERED ACROSS REPOS. This repo fires at :3,18,33,48
-#     past the hour. TRAPP2 :0,15,30,45 · TRAPP2-2 :5,20,35,50 ·
-#     TRAPP2-3 :10,25,40,55 · TRAPP2-1 :3,18,33,48. The fleet therefore pushes
-#     fresh prices to the frontend roughly every ~4 minutes, and no two repos
-#     ever queue for a runner in the same minute.
+#    data/bars/YYYY-MM-DD/<T>.json  { date, interval: "5m", updatedAt, pc, b: [[t, o, h, l, c, v], ...] }
+#                                   one small file per ticker (~10 KB) - the app loads only the one
+#                                   it shows; t = bar START, epoch seconds (UTC); pc = prior close.
+#                                   File name = the ticker as in data/history/ (^VIX.json, EURUSD=X.json)
+#    data/bars/latest.json          { date, updatedAt, tickers: [...], ext: { T: { s, px, ref, pct, t } } }
+#                                 s = "pre" | "post"; px = last extended-hours price;
+#                                 ref = the close it is measured from (prior close for
+#                                 pre-market, today's 16:00 close for after hours)
 #
-#  2. NEW STEP: "Append 15-minute intraday tape" runs
-#     pipeline/append_intraday_snapshot.py immediately after the quote fetch. It
-#     writes data/intraday/<today>.json (the session tape), data/intraday/
-#     latest.json (the frontend's one-request fast path) and index.json. This is
-#     what gives the app a GOOGLEFINANCE-style refreshing price series for
-#     today's trading day even when nobody has the app open.
-#
-#  3. SCOPED COMMITS. `git add -A data/` staged EVERY file under data/, including
-#     output owned by other workflows in this repo (macro/quad.json, history/,
-#     leadership/, 13f/ ...). Combined with the `merge -X ours` retry, a quote
-#     run that started before a sibling pushed would REVERT that sibling's work.
-#     This job now stages only the files it actually produces.
-#
-#  4. SCOPED CONFLICT RECOVERY. `git checkout --ours -- data/` had the same
-#     blast radius on the conflict path. Now scoped to this job's own files.
+#  Sessions (ET): pre-market 04:00-09:30, regular 09:30-16:00, after hours 16:00-20:00.
+#  Only US listings trade them; Yahoo returns extended bars only for symbols that do,
+#  so a ticker without them simply has none. Foreign listings (RMS.PA, 7203.T ...)
+#  trade while this loop sleeps and are skipped - their 1D view uses the daily data.
+#  Retention: the newest KEEP_DAYS day files. Never writes NaN.
 # ============================================================
+import json
+import math
+import os
+import re
+import sys
+import time
+from datetime import datetime, timezone
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+DATA = ROOT / "data"
+OUT = DATA / "bars"
+MASTER = DATA / "master.json"
+KEEP_DAYS = int(os.environ.get("BARS_KEEP_DAYS", "3"))
+CHUNK = int(os.environ.get("BARS_CHUNK", "40"))
+FORCE = os.environ.get("BARS_FORCE", "").strip() not in ("", "0", "false", "False")
+PRE_OPEN, REG_OPEN, REG_CLOSE, POST_CLOSE = 4 * 60, 9 * 60 + 30, 16 * 60, 20 * 60
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from append_intraday_snapshot import _et_now, session_for  # noqa: E402  (the tape's own calendar)
+
+FOREIGN = re.compile(r"\.[A-Z]{1,3}$")
+NOT_US_EXT = re.compile(r"^\^|=X$|=F$|-USD$")              # indices, FX, futures, crypto: no US pre / after hours
 
 
-# z115 — SESSION LOOP. GitHub's scheduler delayed / dropped most of the
-# "every 15 minutes" crons (2026-10-15 live tape: 4 points — 13:09, 17:36, 20:33,
-# 23:19 UTC). Each run now LOOPS inside one job (pipeline/intraday_loop.sh):
-# quotes -> corrections -> signals/regime -> tape point -> commit, then sleeps to
-# the next 15-minute mark (+3 min for this repo), until 22:30 UTC or the job's
-# 5h40m budget. GitHub only has to START the job a couple of times a day.
-# Starts: 12:03 UTC (pre-market) and 17:03 UTC (continues past the close),
-# plus 14:33 / 20:33 UTC fallbacks in case a start is dropped.
-# While a loop runs, a later start just waits (same concurrency group) and picks
-# up where it left off.
-# z117 - HOURLY STARTS 12:00-21:00 UTC. GitHub dropped the 12:00 and 14:30 starts on
-# 2026-10-16 (no tape 08:45-15:58 UTC - through the open). A start that finds the loop
-# running waits as the single pending run (a newer start replaces it); one that finds
-# nothing running restarts the tape within the hour. The loop fast-forwards to the latest
-# main before its first pass, so a long wait can't overwrite newer points.
-name: Intraday Quotes + 15-min Tape
+def log(*a):
+    print("[bars]", *a, flush=True)
 
-on:
-  schedule:
-    - cron: '3 8-23 * * 1-5'     # z131: hourly starts 08-23 UTC - pre-market (04:00 ET) to after hours (20:00 EDT)
-  workflow_dispatch:
-    inputs:
-      force_tape:
-        description: 'Write an intraday tape point even outside session hours'
-        type: boolean
-        required: false
-        default: false
-      single:
-        description: 'One pass only (no loop)'
-        type: boolean
-        required: false
-        default: false
 
-concurrency:
-  group: trapp2-quote-push
-  cancel-in-progress: false     # never kill a run mid-write
+def eligible(t):
+    t = str(t or "").upper().strip()
+    if not t:
+        return False
+    if FOREIGN.search(t) and not t.endswith(".NYB"):     # foreign listing: its session is overnight here
+        return False
+    return True
 
-jobs:
-  quotes:
-    runs-on: ubuntu-latest
-    timeout-minutes: 360          # GitHub's per-job maximum; the loop stops itself at 5h40m
-    permissions:
-      contents: write
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-          cache: 'pip'
+def num(v):
+    try:
+        f = float(v)
+        return f if math.isfinite(f) else None
+    except (TypeError, ValueError):
+        return None
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
 
-      - name: Session loop (quotes + tape every 15 min, committed each pass)
-        env:
-          INTRADAY_FORCE: ${{ github.event.inputs.force_tape == 'true' && '1' || '' }}
-          LOOP_MAX_ITERS: ${{ github.event.inputs.single == 'true' && '1' || '1000' }}
-          LOOP_OFFSET_SEC: '180'
-          LOOP_START_UTC: '0800'      # z131: 04:00 EDT / 03:00 EST - the bars step skips anything outside 04:00-20:15 ET
-          LOOP_STOP_UTC: '2400'       # z131: through 20:00 EDT (19:00 EST)
-          GITHUB_REPOSITORY: ${{ github.repository }}
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          bash pipeline/intraday_loop.sh
+def et_minute(ts_sec):
+    et = _et_now(datetime.fromtimestamp(ts_sec, tz=timezone.utc))
+    return et.hour * 60 + et.minute, et.date().isoformat()
+
+
+def frame_rows(frame):
+    rows = []
+    if frame is None:
+        return rows
+    for ts, r in frame.iterrows():
+        o, h, l, c = (num(r.get(k)) for k in ("Open", "High", "Low", "Close"))
+        if None in (o, h, l, c) or c <= 0:
+            continue
+        v = num(r.get("Volume"))
+        rows.append([int(ts.timestamp()), round(o, 6), round(h, 6), round(l, 6), round(c, 6), int(v) if v is not None else 0])
+    rows.sort(key=lambda x: x[0])
+    return rows
+
+
+def download(tickers):
+    import pandas as pd
+    import yfinance as yf
+    out = {}
+    for i in range(0, len(tickers), CHUNK):
+        chunk = tickers[i:i + CHUNK]
+        try:
+            df = yf.download(chunk, period="1d", interval="5m", prepost=True, group_by="ticker",
+                             auto_adjust=False, progress=False, threads=True)
+        except Exception as e:                                       # one bad chunk must not stop the rest
+            log(f"chunk {i // CHUNK + 1}: download failed: {e}")
+            continue
+        if df is None or getattr(df, "empty", True):
+            continue
+        multi = isinstance(df.columns, pd.MultiIndex)
+        for t in chunk:
+            try:
+                f = df[t] if multi and t in df.columns.get_level_values(0) else (df if not multi and len(chunk) == 1 else None)
+                rows = frame_rows(f)
+                if rows:
+                    out[t] = rows
+            except Exception as e:
+                log(f"{t}: {e}")
+        time.sleep(1.0)
+    return out
+
+
+def main():
+    now_et = _et_now(datetime.now(timezone.utc))
+    trading, _close, label = session_for(now_et)
+    m = now_et.hour * 60 + now_et.minute
+    if not FORCE and (not trading or m < PRE_OPEN or m > POST_CLOSE + 15):
+        log(f"skip: {label if not trading else 'outside 04:00-20:15 ET'}")
+        return 0
+    rows = json.loads(MASTER.read_text())
+    rows = rows if isinstance(rows, list) else (rows.get("rows") or [])
+    prev = {}
+    tickers = []
+    for r in rows:
+        t = str(r.get("ticker") or "").upper().strip()
+        if eligible(t) and t not in prev:
+            tickers.append(t)
+            prev[t] = num(r.get("closeyest"))
+    log(f"{len(tickers)} tickers")
+    bars = download(tickers)
+    if not bars:
+        log("no bars this pass")
+        return 0
+    # the trading date of the bars (the newest bar's ET date)
+    newest = max(b[-1][0] for b in bars.values())
+    day = et_minute(newest)[1]
+    ddir = OUT / day
+    ddir.mkdir(parents=True, exist_ok=True)
+    stamp = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    ext, wrote, nbars = {}, 0, 0
+    for t, b in bars.items():
+        b = [x for x in b if et_minute(x[0])[1] == day]               # today's session only
+        if not b:
+            continue
+        pc = prev.get(t)
+        (ddir / f"{t}.json").write_text(json.dumps({"date": day, "interval": "5m", "updatedAt": stamp, "pc": pc, "b": b}, separators=(",", ":")))
+        wrote += 1
+        nbars += len(b)
+        if NOT_US_EXT.search(t):                                       # no US pre-market / after hours to quote
+            continue
+        last = b[-1]
+        lm = et_minute(last[0])[0]
+        if lm < REG_OPEN and pc:                                       # pre-market, from the prior close
+            ext[t] = {"s": "pre", "px": last[4], "ref": pc, "pct": round(last[4] / pc - 1, 6), "t": last[0]}
+        elif lm >= REG_CLOSE:                                          # after hours, from today's 16:00 close
+            reg = [x for x in b if REG_OPEN <= et_minute(x[0])[0] < REG_CLOSE]
+            if reg:
+                ref = reg[-1][4]
+                ext[t] = {"s": "post", "px": last[4], "ref": ref, "pct": round(last[4] / ref - 1, 6), "t": last[0]}
+    have = sorted(p.stem for p in ddir.glob("*.json"))
+    (OUT / "latest.json").write_text(json.dumps({"date": day, "updatedAt": stamp, "tickers": have, "ext": ext}, separators=(",", ":")))
+    import shutil
+    days = sorted(p for p in OUT.iterdir() if p.is_dir() and re.fullmatch(r"\d{4}-\d{2}-\d{2}", p.name))
+    for p in days[:-KEEP_DAYS]:
+        shutil.rmtree(p, ignore_errors=True)
+    log(f"{day}: {wrote} tickers · {nbars} bars · "
+        f"{sum(1 for v in ext.values() if v['s'] == 'pre')} pre-market / {sum(1 for v in ext.values() if v['s'] == 'post')} after-hours quotes")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
