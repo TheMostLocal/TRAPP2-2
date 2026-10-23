@@ -15,7 +15,8 @@ name: Leadership History Refresh H-M (Weekly)
 
 on:
   schedule:
-    - cron: '0 5 * * MON'  # Every Monday 05:00 UTC (staggered after A-G)
+  # z149: off GitHub's busy top / half of the hour, where scheduled runs get delayed or dropped
+    - cron: '13 5 * * MON'  # Every Monday 05:13 UTC (staggered after A-G)
   workflow_dispatch:
 
 concurrency:
