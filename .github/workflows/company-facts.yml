@@ -15,7 +15,8 @@ name: Company Facts Refresh (Monthly)
 
 on:
   schedule:
-    - cron: '0 2 1 * *'  # 1st of every month, 02:00 UTC
+  # z149: off GitHub's busy top / half of the hour, where scheduled runs get delayed or dropped
+    - cron: '23 2 1 * *'  # 1st of every month, 02:23 UTC
   workflow_dispatch:
 
 concurrency:
