@@ -16,7 +16,8 @@ name: Nightly Full Refresh
 
 on:
   schedule:
-    - cron: '30 0 * * *'
+  # z149: off GitHub's busy top / half of the hour, where scheduled runs get delayed or dropped
+    - cron: '41 0 * * *'       # 2041 EDT / 1941 EST - after the close and the after-hours tape
   workflow_dispatch:
 
 concurrency:
