@@ -5,12 +5,12 @@
   "birthPlace": "Rudk\u00f8bing",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98rsted%2C%20Hans%20Christian%20%28av%20Christian%20Albrecht%20Jensen%201842%29.jpg",
   "occupations": [
-    "university teacher",
     "chemist",
+    "university teacher",
     "inventor",
     "physicist",
-    "pharmacist",
-    "engineer"
+    "engineer",
+    "pharmacist"
   ],
   "education": [
     "University of Copenhagen",

@@ -1,6 +1,6 @@
 {
   "ticker": "ADI",
-  "fetchedAt": "2026-10-19T09:55:05.517897Z",
+  "fetchedAt": "2026-10-23T04:36:59.883009Z",
   "people": [
     {
       "qid": "Q370191",
@@ -51,9 +51,9 @@
         "birthPlace": "Herzogenaurach",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adi%20dassler%20young.jpg",
         "occupations": [
-          "politician",
+          "entrepreneur",
           "fashion designer",
-          "entrepreneur"
+          "politician"
         ],
         "education": [],
         "employers": [
