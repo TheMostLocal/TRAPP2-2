@@ -1,6 +1,6 @@
 {
   "ticker": "NOVA",
-  "fetchedAt": "2026-10-19T12:57:31.411142Z",
+  "fetchedAt": "2026-10-23T04:31:38.446320Z",
   "people": [
     {
       "qid": "Q38589106",
@@ -19,9 +19,9 @@
           "chief executive officer"
         ],
         "education": [
+          "University of Chicago",
           "John F. Kennedy School of Government",
-          "Harvard Medical School",
-          "University of Chicago"
+          "Harvard Medical School"
         ],
         "employers": [
           {
