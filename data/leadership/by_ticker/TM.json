@@ -1,6 +1,6 @@
 {
   "ticker": "TM",
-  "fetchedAt": "2026-10-19T12:57:31.426630Z",
+  "fetchedAt": "2026-10-23T04:31:38.462690Z",
   "people": [
     {
       "qid": "Q116935918",
@@ -34,8 +34,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Akio%20Toyoda%20cropped%201%20Mark%20Templin%20and%20Akio%20Toyoda%2020110818%202.jpg",
         "occupations": [
           "industrialist",
-          "business executive",
           "racing automobile driver",
+          "business executive",
           "entrepreneur"
         ],
         "education": [
@@ -72,8 +72,8 @@
         "birthPlace": "Washizu",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kiichiro%20Toyoda.jpg",
         "occupations": [
-          "entrepreneur",
-          "industrialist"
+          "industrialist",
+          "entrepreneur"
         ],
         "education": [
           "Tokyo Imperial University",
