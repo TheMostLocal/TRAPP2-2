@@ -1,6 +1,6 @@
 {
   "ticker": "APO",
-  "fetchedAt": "2026-10-23T04:36:59.886270Z",
+  "fetchedAt": "2026-10-26T10:20:36.212916Z",
   "people": [
     {
       "qid": "Q16194777",
@@ -55,18 +55,18 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "financier",
           "art collector",
           "investment banker",
-          "financier",
           "investor",
           "businessperson"
         ],
         "education": [
-          "Dartmouth College",
-          "Harvard University",
+          "Harvard Business School",
           "Van High School",
           "Ethical Culture Fieldston School",
-          "Harvard Business School"
+          "Dartmouth College",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -236,18 +236,18 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "financier",
           "art collector",
           "investment banker",
-          "financier",
           "investor",
           "businessperson"
         ],
         "education": [
-          "Dartmouth College",
-          "Harvard University",
+          "Harvard Business School",
           "Van High School",
           "Ethical Culture Fieldston School",
-          "Harvard Business School"
+          "Dartmouth College",
+          "Harvard University"
         ],
         "employers": [
           {

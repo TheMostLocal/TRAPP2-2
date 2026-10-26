@@ -1,6 +1,6 @@
 {
   "ticker": "CAH",
-  "fetchedAt": "2026-10-23T04:36:59.894262Z",
+  "fetchedAt": "2026-10-26T10:20:36.219870Z",
   "people": [
     {
       "qid": "Q114395172",
@@ -34,8 +34,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "University of Chicago",
-          "Indiana University"
+          "Indiana University",
+          "University of Chicago"
         ],
         "employers": [],
         "positions": []
@@ -283,9 +283,9 @@
           "businessperson"
         ],
         "education": [
+          "University of Chicago",
           "Hiram College",
-          "Booth School of Business",
-          "University of Chicago"
+          "Booth School of Business"
         ],
         "employers": [],
         "positions": []

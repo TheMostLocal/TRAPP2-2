@@ -1,6 +1,6 @@
 {
   "ticker": "BRK.B",
-  "fetchedAt": "2026-10-23T04:36:59.892956Z",
+  "fetchedAt": "2026-10-26T10:20:36.218878Z",
   "people": [
     {
       "qid": "Q47168572",
@@ -61,10 +61,10 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20Buffett%20unveiled%20a%20plaque%20dedicated%20to%20himself%2C%20as%20an%20American%20philanthropist%2C%20on%20the%20Walk%20of%20the%20Brave%20in%20Kyiv%2C%20Ukraine%20on%2018%3BDecember%202023%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "farmer",
           "photographer",
-          "writer"
+          "writer",
+          "farmer",
+          "entrepreneur"
         ],
         "education": [
           "Harvard University"
@@ -122,11 +122,11 @@
         "name": "Warren Buffett",
         "dateOfBirth": "1930-08-30",
         "birthPlace": "Omaha",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20at%20the%202015%20SelectUSA%20Investment%20Summit.jpg",
         "occupations": [
-          "broker-dealer",
           "financier",
           "investor",
+          "broker-dealer",
           "chief executive officer",
           "shareholder",
           "economist",
@@ -364,8 +364,8 @@
         "birthPlace": "Birmingham",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20burke%20comcast%20coo.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Harvard Business School",
@@ -542,10 +542,10 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20Buffett%20unveiled%20a%20plaque%20dedicated%20to%20himself%2C%20as%20an%20American%20philanthropist%2C%20on%20the%20Walk%20of%20the%20Brave%20in%20Kyiv%2C%20Ukraine%20on%2018%3BDecember%202023%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "farmer",
           "photographer",
-          "writer"
+          "writer",
+          "farmer",
+          "entrepreneur"
         ],
         "education": [
           "Harvard University"
@@ -582,8 +582,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Indian Institute of Technology Kharagpur",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [
