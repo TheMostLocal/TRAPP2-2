@@ -7,9 +7,9 @@
   "occupations": [
     "chemical engineer",
     "biochemist",
-    "engineer",
     "university teacher",
     "biotechnologist",
+    "engineer",
     "inventor"
   ],
   "education": [
@@ -20,12 +20,12 @@
   ],
   "employers": [
     {
-      "company": "Massachusetts Institute of Technology",
+      "company": "Harvard University",
       "start": null,
       "end": null
     },
     {
-      "company": "Harvard University",
+      "company": "Massachusetts Institute of Technology",
       "start": null,
       "end": null
     }

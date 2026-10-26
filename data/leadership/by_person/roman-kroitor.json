@@ -5,12 +5,12 @@
   "birthPlace": "Yorkton",
   "image": null,
   "occupations": [
-    "producer",
     "film producer",
-    "director",
+    "producer",
     "film director",
     "inventor",
-    "screenwriter"
+    "screenwriter",
+    "director"
   ],
   "education": [
     "University of Manitoba"
