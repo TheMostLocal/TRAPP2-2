@@ -1,6 +1,6 @@
 {
   "ticker": "NVS",
-  "fetchedAt": "2026-10-23T04:31:38.448590Z",
+  "fetchedAt": "2026-10-26T12:56:59.173772Z",
   "people": [
     {
       "qid": "Q38589106",
@@ -14,9 +14,9 @@
         "birthPlace": "Pittsburgh",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Global%20Investment%20Game%20Changers%20Summit%20I%202018%20%2844788377434%29.jpg",
         "occupations": [
-          "physician",
+          "chief executive officer",
           "business manager",
-          "chief executive officer"
+          "physician"
         ],
         "education": [
           "University of Chicago",

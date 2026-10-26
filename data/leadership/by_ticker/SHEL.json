@@ -1,6 +1,6 @@
 {
   "ticker": "SHEL",
-  "fetchedAt": "2026-10-23T04:31:38.457056Z",
+  "fetchedAt": "2026-10-26T12:56:59.181263Z",
   "people": [
     {
       "qid": "Q113988833",
@@ -43,9 +43,9 @@
         "birthPlace": "Scotland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dr%20Andrew%20Mackenzie%20FRS.jpg",
         "occupations": [
+          "entrepreneur",
           "geologist",
-          "chief executive officer",
-          "entrepreneur"
+          "chief executive officer"
         ],
         "education": [
           "University of St Andrews"
@@ -79,9 +79,9 @@
         "birthPlace": "Scotland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dr%20Andrew%20Mackenzie%20FRS.jpg",
         "occupations": [
+          "entrepreneur",
           "geologist",
-          "chief executive officer",
-          "entrepreneur"
+          "chief executive officer"
         ],
         "education": [
           "University of St Andrews"

@@ -1,6 +1,6 @@
 {
   "ticker": "WBA",
-  "fetchedAt": "2026-10-23T04:31:38.467531Z",
+  "fetchedAt": "2026-10-26T12:56:59.190136Z",
   "people": [
     {
       "qid": "Q3497982",
@@ -16,8 +16,8 @@
         "occupations": [
           "entrepreneur",
           "chief executive officer",
-          "engineer",
-          "businessperson"
+          "businessperson",
+          "engineer"
         ],
         "education": [
           "Polytechnic University of Milan"
@@ -234,8 +234,8 @@
           "Cass Technical High School",
           "Booth School of Business",
           "Stanford Law School",
-          "University of Chicago",
-          "University of Pennsylvania"
+          "University of Pennsylvania",
+          "University of Chicago"
         ],
         "employers": [
           {
@@ -320,8 +320,8 @@
         "occupations": [
           "entrepreneur",
           "chief executive officer",
-          "engineer",
-          "businessperson"
+          "businessperson",
+          "engineer"
         ],
         "education": [
           "Polytechnic University of Milan"

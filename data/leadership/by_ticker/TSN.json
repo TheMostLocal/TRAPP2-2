@@ -1,6 +1,6 @@
 {
   "ticker": "TSN",
-  "fetchedAt": "2026-10-23T04:31:38.463706Z",
+  "fetchedAt": "2026-10-26T12:56:59.186301Z",
   "people": [
     {
       "qid": "Q114819469",
@@ -248,9 +248,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Governor%20Mike%20Beebe.jpg",
         "occupations": [
           "prosecutor",
-          "governor",
           "jurist",
           "lawyer",
+          "governor",
           "politician"
         ],
         "education": [
@@ -290,8 +290,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford Graduate School of Business",
-          "Harvard University"
+          "Harvard University",
+          "Stanford Graduate School of Business"
         ],
         "employers": [
           {

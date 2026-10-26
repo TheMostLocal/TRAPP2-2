@@ -1,6 +1,6 @@
 {
   "ticker": "ON",
-  "fetchedAt": "2026-10-23T04:31:38.449806Z",
+  "fetchedAt": "2026-10-26T12:56:59.174868Z",
   "people": [
     {
       "qid": "Q136661156",
@@ -81,8 +81,8 @@
         "birthPlace": "Ludvika",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Christina%20Lampe-Onnerud%20-%20Annual%20Meeting%20of%20the%20New%20Champions%202012.jpg",
         "occupations": [
-          "pharmacist",
-          "chemist"
+          "chemist",
+          "pharmacist"
         ],
         "education": [
           "Uppsala University"
