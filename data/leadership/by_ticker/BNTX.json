@@ -1,6 +1,6 @@
 {
   "ticker": "BNTX",
-  "fetchedAt": "2026-10-26T10:20:36.216956Z",
+  "fetchedAt": "2026-11-02T12:52:43.870838Z",
   "people": [
     {
       "qid": "Q2505089",
@@ -14,15 +14,15 @@
         "birthPlace": "\u0130skenderun",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ugur%20Sahin%20v1.jpg",
         "occupations": [
-          "oncologist",
           "immunologist",
           "academic",
           "chairperson of the executive board",
-          "researcher",
-          "university teacher",
           "physician",
-          "entrepreneur",
-          "chief executive officer"
+          "researcher",
+          "oncologist",
+          "university teacher",
+          "chief executive officer",
+          "entrepreneur"
         ],
         "education": [
           "Erich Kastner Gymnasium"
@@ -70,9 +70,9 @@
           "academic",
           "board member",
           "immunologist",
+          "Privatdozent",
           "university teacher",
           "researcher",
-          "Privatdozent",
           "entrepreneur",
           "physician"
         ],
@@ -115,15 +115,15 @@
         "birthPlace": "\u0130skenderun",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ugur%20Sahin%20v1.jpg",
         "occupations": [
-          "oncologist",
           "immunologist",
           "academic",
           "chairperson of the executive board",
-          "researcher",
-          "university teacher",
           "physician",
-          "entrepreneur",
-          "chief executive officer"
+          "researcher",
+          "oncologist",
+          "university teacher",
+          "chief executive officer",
+          "entrepreneur"
         ],
         "education": [
           "Erich Kastner Gymnasium"
@@ -171,9 +171,9 @@
           "academic",
           "board member",
           "immunologist",
+          "Privatdozent",
           "university teacher",
           "researcher",
-          "Privatdozent",
           "entrepreneur",
           "physician"
         ],
@@ -216,15 +216,15 @@
         "birthPlace": "\u0130skenderun",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ugur%20Sahin%20v1.jpg",
         "occupations": [
-          "oncologist",
           "immunologist",
           "academic",
           "chairperson of the executive board",
-          "researcher",
-          "university teacher",
           "physician",
-          "entrepreneur",
-          "chief executive officer"
+          "researcher",
+          "oncologist",
+          "university teacher",
+          "chief executive officer",
+          "entrepreneur"
         ],
         "education": [
           "Erich Kastner Gymnasium"

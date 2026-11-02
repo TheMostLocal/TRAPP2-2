@@ -1,6 +1,6 @@
 {
   "ticker": "ACI",
-  "fetchedAt": "2026-10-26T10:20:36.209393Z",
+  "fetchedAt": "2026-11-02T12:52:43.862026Z",
   "people": [
     {
       "qid": "Q114582658",
@@ -142,9 +142,9 @@
         "image": null,
         "occupations": [],
         "education": [
+          "University of Michigan",
           "Georgia Tech",
-          "Indian Institute of Technology Madras",
-          "University of Michigan"
+          "Indian Institute of Technology Madras"
         ],
         "employers": [],
         "positions": []
@@ -162,8 +162,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Columbia Business School"

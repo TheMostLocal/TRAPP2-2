@@ -1,6 +1,6 @@
 {
   "ticker": "DAN",
-  "fetchedAt": "2026-10-26T10:20:36.225417Z",
+  "fetchedAt": "2026-11-02T12:52:43.880515Z",
   "people": [
     {
       "qid": "Q62660539",
@@ -167,8 +167,8 @@
         "image": null,
         "occupations": [
           "manager",
-          "engineer",
-          "businessperson"
+          "businessperson",
+          "engineer"
         ],
         "education": [
           "Technical University of Denmark",
@@ -215,8 +215,8 @@
         "birthPlace": "Copenhagen",
         "image": null,
         "occupations": [
-          "university teacher",
-          "mathematician"
+          "mathematician",
+          "university teacher"
         ],
         "education": [
           "University of Pennsylvania"
@@ -251,11 +251,11 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98rsted%2C%20Hans%20Christian%20%28av%20Christian%20Albrecht%20Jensen%201842%29.jpg",
         "occupations": [
           "university teacher",
-          "chemist",
+          "pharmacist",
           "inventor",
-          "physicist",
           "engineer",
-          "pharmacist"
+          "chemist",
+          "physicist"
         ],
         "education": [
           "University of Copenhagen",

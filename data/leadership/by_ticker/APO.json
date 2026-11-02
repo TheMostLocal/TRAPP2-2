@@ -1,6 +1,6 @@
 {
   "ticker": "APO",
-  "fetchedAt": "2026-10-26T10:20:36.212916Z",
+  "fetchedAt": "2026-11-02T12:52:43.865765Z",
   "people": [
     {
       "qid": "Q16194777",
@@ -55,18 +55,18 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "financier",
-          "art collector",
-          "investment banker",
           "investor",
-          "businessperson"
+          "financier",
+          "businessperson",
+          "art collector",
+          "investment banker"
         ],
         "education": [
-          "Harvard Business School",
+          "Harvard University",
+          "Dartmouth College",
           "Van High School",
           "Ethical Culture Fieldston School",
-          "Dartmouth College",
-          "Harvard University"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -82,6 +82,12 @@
         ],
         "positions": [
           {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1990-01-01",
+            "end": "2021-01-01"
+          },
+          {
             "title": "trustee",
             "company": null,
             "start": null,
@@ -91,12 +97,6 @@
             "title": "chairperson",
             "company": null,
             "start": "2018-01-01",
-            "end": "2021-01-01"
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1990-01-01",
             "end": "2021-01-01"
           }
         ]
@@ -155,9 +155,9 @@
         "birthPlace": "Washington, D.C.",
         "image": null,
         "occupations": [
-          "financier",
           "businessperson",
-          "investment banker"
+          "investment banker",
+          "financier"
         ],
         "education": [
           "Columbia Business School",
@@ -236,18 +236,18 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "financier",
-          "art collector",
-          "investment banker",
           "investor",
-          "businessperson"
+          "financier",
+          "businessperson",
+          "art collector",
+          "investment banker"
         ],
         "education": [
-          "Harvard Business School",
+          "Harvard University",
+          "Dartmouth College",
           "Van High School",
           "Ethical Culture Fieldston School",
-          "Dartmouth College",
-          "Harvard University"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -263,6 +263,12 @@
         ],
         "positions": [
           {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1990-01-01",
+            "end": "2021-01-01"
+          },
+          {
             "title": "trustee",
             "company": null,
             "start": null,
@@ -272,12 +278,6 @@
             "title": "chairperson",
             "company": null,
             "start": "2018-01-01",
-            "end": "2021-01-01"
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1990-01-01",
             "end": "2021-01-01"
           }
         ]
