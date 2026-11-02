@@ -5,8 +5,8 @@
   "birthPlace": "Haifa",
   "image": null,
   "occupations": [
-    "professor",
     "physician",
+    "professor",
     "researcher"
   ],
   "education": [
@@ -26,12 +26,12 @@
       "end": null
     },
     {
-      "company": "Moderna",
+      "company": "University of Pennsylvania",
       "start": null,
       "end": null
     },
     {
-      "company": "University of Pennsylvania",
+      "company": "Moderna",
       "start": null,
       "end": null
     }
