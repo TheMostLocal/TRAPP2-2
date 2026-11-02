@@ -1,6 +1,6 @@
 {
   "ticker": "DELL",
-  "fetchedAt": "2026-10-26T10:20:36.226141Z",
+  "fetchedAt": "2026-11-02T12:52:43.881478Z",
   "people": [
     {
       "qid": "Q218630",
@@ -15,9 +15,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Dell%202010.jpg",
         "occupations": [
           "chief executive officer",
+          "investor",
           "financier",
           "philanthropist",
-          "investor",
           "entrepreneur",
           "computer scientist",
           "businessperson"
@@ -97,8 +97,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
-          "Stanford University"
+          "Stanford University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -116,12 +116,12 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
-          "Stanford Graduate School of Business",
-          "University of Cambridge"
+          "University of Cambridge",
+          "Stanford Graduate School of Business"
         ],
         "employers": [],
         "positions": [
@@ -192,11 +192,11 @@
           "business executive"
         ],
         "education": [
+          "Northwestern University",
+          "Tufts University",
           "Tufts University School of Engineering",
           "Tower Hill School",
-          "Kellogg School of Management",
-          "Northwestern University",
-          "Tufts University"
+          "Kellogg School of Management"
         ],
         "employers": [
           {
@@ -231,9 +231,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Dell%202010.jpg",
         "occupations": [
           "chief executive officer",
+          "investor",
           "financier",
           "philanthropist",
-          "investor",
           "entrepreneur",
           "computer scientist",
           "businessperson"
@@ -266,9 +266,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Dell%202010.jpg",
         "occupations": [
           "chief executive officer",
+          "investor",
           "financier",
           "philanthropist",
-          "investor",
           "entrepreneur",
           "computer scientist",
           "businessperson"
