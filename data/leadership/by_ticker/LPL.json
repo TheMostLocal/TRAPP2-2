@@ -1,6 +1,6 @@
 {
   "ticker": "LPL",
-  "fetchedAt": "2026-11-02T13:30:20.362655Z",
+  "fetchedAt": "2026-11-09T13:54:40.526663Z",
   "people": [
     {
       "qid": "Q192948",
@@ -14,25 +14,15 @@
         "birthPlace": "Tuitjenhorn",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/GerardKuiper.jpg",
         "occupations": [
-          "astronomer",
+          "planetary scientist",
           "cartographer",
           "university teacher",
-          "planetary scientist"
+          "astronomer"
         ],
         "education": [
           "Leiden University"
         ],
         "employers": [
-          {
-            "company": "Lick Observatory",
-            "start": "1933-08-01",
-            "end": "1935-08-01"
-          },
-          {
-            "company": "Yerkes Observatory",
-            "start": "1936-08-01",
-            "end": "1960-08-01"
-          },
           {
             "company": "Harvard College Observatory",
             "start": "1935-08-01",
@@ -42,6 +32,16 @@
             "company": "Lunar and Planetary Laboratory",
             "start": "1960-08-01",
             "end": "1973-12-01"
+          },
+          {
+            "company": "Lick Observatory",
+            "start": "1933-08-01",
+            "end": "1935-08-01"
+          },
+          {
+            "company": "Yerkes Observatory",
+            "start": "1936-08-01",
+            "end": "1960-08-01"
           }
         ],
         "positions": []
