@@ -1,6 +1,6 @@
 {
   "ticker": "X",
-  "fetchedAt": "2026-11-02T15:47:37.125533Z",
+  "fetchedAt": "2026-11-09T16:12:04.772587Z",
   "people": [
     {
       "qid": "Q55819254",
@@ -109,8 +109,8 @@
           "official"
         ],
         "education": [
-          "University of California, Los Angeles",
-          "Loyola Law School"
+          "Loyola Law School",
+          "University of California, Los Angeles"
         ],
         "employers": [],
         "positions": []
@@ -128,8 +128,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeh%20Johnson%20official%20DHS%20portrait.jpg",
         "occupations": [
-          "lawyer",
-          "politician"
+          "politician",
+          "lawyer"
         ],
         "education": [
           "Columbia Law School",
