@@ -1,6 +1,6 @@
 {
   "ticker": "TSN",
-  "fetchedAt": "2026-11-02T15:47:37.120325Z",
+  "fetchedAt": "2026-11-09T16:12:04.767374Z",
   "people": [
     {
       "qid": "Q114819469",
@@ -146,6 +146,16 @@
         ],
         "employers": [
           {
+            "company": "Bell Labs",
+            "start": "1980-01-01",
+            "end": "1991-01-01"
+          },
+          {
+            "company": "Salesforce",
+            "start": "2010-02-01",
+            "end": "2018-04-01"
+          },
+          {
             "company": "Microsoft",
             "start": "2003-06-01",
             "end": "2009-09-01"
@@ -159,16 +169,6 @@
             "company": "Cisco",
             "start": "2018-04-01",
             "end": null
-          },
-          {
-            "company": "Bell Labs",
-            "start": "1980-01-01",
-            "end": "1991-01-01"
-          },
-          {
-            "company": "Salesforce",
-            "start": "2010-02-01",
-            "end": "2018-04-01"
           }
         ],
         "positions": []
@@ -257,11 +257,11 @@
         "birthPlace": "Amagon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Governor%20Mike%20Beebe.jpg",
         "occupations": [
-          "prosecutor",
-          "governor",
-          "politician",
           "jurist",
-          "lawyer"
+          "prosecutor",
+          "lawyer",
+          "governor",
+          "politician"
         ],
         "education": [
           "University of Arkansas School of Law",
@@ -300,10 +300,15 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Harvard University"
         ],
         "employers": [
+          {
+            "company": "J.P. Morgan & Co.",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Tyson Foods",
             "start": "2019-01-01",
@@ -318,11 +323,6 @@
             "company": "Tyson Foods",
             "start": "2022-01-01",
             "end": "2024-01-01"
-          },
-          {
-            "company": "J.P. Morgan & Co.",
-            "start": null,
-            "end": null
           }
         ],
         "positions": []
