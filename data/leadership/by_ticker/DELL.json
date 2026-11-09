@@ -1,6 +1,6 @@
 {
   "ticker": "DELL",
-  "fetchedAt": "2026-11-02T12:52:43.881478Z",
+  "fetchedAt": "2026-11-09T13:08:11.583526Z",
   "people": [
     {
       "qid": "Q218630",
@@ -14,12 +14,12 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Dell%202010.jpg",
         "occupations": [
-          "chief executive officer",
-          "investor",
           "financier",
+          "investor",
           "philanthropist",
-          "entrepreneur",
+          "chief executive officer",
           "computer scientist",
+          "entrepreneur",
           "businessperson"
         ],
         "education": [
@@ -72,8 +72,8 @@
         "birthPlace": "L\u00fcbeck",
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Georgetown University"
@@ -97,8 +97,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -116,12 +116,12 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
-          "University of Cambridge",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "University of Cambridge"
         ],
         "employers": [],
         "positions": [
@@ -192,11 +192,11 @@
           "business executive"
         ],
         "education": [
-          "Northwestern University",
-          "Tufts University",
           "Tufts University School of Engineering",
           "Tower Hill School",
-          "Kellogg School of Management"
+          "Kellogg School of Management",
+          "Northwestern University",
+          "Tufts University"
         ],
         "employers": [
           {
@@ -230,12 +230,12 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Dell%202010.jpg",
         "occupations": [
-          "chief executive officer",
-          "investor",
           "financier",
+          "investor",
           "philanthropist",
-          "entrepreneur",
+          "chief executive officer",
           "computer scientist",
+          "entrepreneur",
           "businessperson"
         ],
         "education": [
@@ -265,12 +265,12 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Dell%202010.jpg",
         "occupations": [
-          "chief executive officer",
-          "investor",
           "financier",
+          "investor",
           "philanthropist",
-          "entrepreneur",
+          "chief executive officer",
           "computer scientist",
+          "entrepreneur",
           "businessperson"
         ],
         "education": [

@@ -5,9 +5,9 @@
   "birthPlace": "Vienna",
   "image": null,
   "occupations": [
-    "entrepreneur",
     "engineer",
-    "designer"
+    "designer",
+    "entrepreneur"
   ],
   "education": [
     "German Technical University in Brno",

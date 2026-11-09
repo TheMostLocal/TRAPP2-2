@@ -1,6 +1,6 @@
 {
   "ticker": "AZN",
-  "fetchedAt": "2026-11-02T12:52:43.867129Z",
+  "fetchedAt": "2026-11-09T13:08:11.569184Z",
   "people": [
     {
       "qid": "Q7141722",
@@ -101,8 +101,8 @@
           "singer-songwriter"
         ],
         "education": [
-          "Redland High School for Girls",
-          "University of Oxford"
+          "University of Oxford",
+          "Redland High School for Girls"
         ],
         "employers": [
           {
@@ -140,9 +140,9 @@
           "engineer"
         ],
         "education": [
-          "Princeton University",
           "University of Massachusetts Dartmouth",
-          "Rutgers University"
+          "Rutgers University",
+          "Princeton University"
         ],
         "employers": [],
         "positions": []
@@ -218,9 +218,9 @@
         "birthPlace": "Dieuze",
         "image": null,
         "occupations": [
-          "biologist",
+          "physician",
           "researcher",
-          "physician"
+          "biologist"
         ],
         "education": [
           "\u00c9cole normale sup\u00e9rieure Paris-Saclay"
@@ -268,6 +268,16 @@
         ],
         "employers": [
           {
+            "company": "International Chamber of Commerce",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Citibank",
+            "start": "1980-01-01",
+            "end": "1982-01-01"
+          },
+          {
             "company": "Skandinaviska Enskilda Banken",
             "start": null,
             "end": null
@@ -281,16 +291,6 @@
             "company": "Investor",
             "start": null,
             "end": null
-          },
-          {
-            "company": "International Chamber of Commerce",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Citibank",
-            "start": "1980-01-01",
-            "end": "1982-01-01"
           },
           {
             "company": "Institute of International Finance",
