@@ -1,6 +1,6 @@
 {
   "ticker": "AKAM",
-  "fetchedAt": "2026-11-02T12:52:43.864239Z",
+  "fetchedAt": "2026-11-09T13:08:11.566491Z",
   "people": [
     {
       "qid": "Q5424058",
@@ -15,12 +15,12 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tom%20Leighton%2C%20CEO%2C%20Akamai.jpg",
         "occupations": [
           "mathematician",
-          "computer scientist",
-          "university teacher"
+          "university teacher",
+          "computer scientist"
         ],
         "education": [
-          "Princeton University",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -138,12 +138,12 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tom%20Leighton%2C%20CEO%2C%20Akamai.jpg",
         "occupations": [
           "mathematician",
-          "computer scientist",
-          "university teacher"
+          "university teacher",
+          "computer scientist"
         ],
         "education": [
-          "Princeton University",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -188,11 +188,11 @@
           "businessperson"
         ],
         "education": [
+          "Sloan Fellows Program",
+          "Samuel Curtis Johnson Graduate School of Management",
           "University of Notre Dame",
           "MIT Sloan School of Management",
           "Cornell University",
-          "Sloan Fellows Program",
-          "Samuel Curtis Johnson Graduate School of Management",
           "Massachusetts Institute of Technology"
         ],
         "employers": [
@@ -312,8 +312,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "accountant",
-          "business executive"
+          "business executive",
+          "accountant"
         ],
         "education": [],
         "employers": [
@@ -455,12 +455,12 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tom%20Leighton%2C%20CEO%2C%20Akamai.jpg",
         "occupations": [
           "mathematician",
-          "computer scientist",
-          "university teacher"
+          "university teacher",
+          "computer scientist"
         ],
         "education": [
-          "Princeton University",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Princeton University"
         ],
         "employers": [
           {

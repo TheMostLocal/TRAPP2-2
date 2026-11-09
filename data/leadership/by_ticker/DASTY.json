@@ -1,6 +1,6 @@
 {
   "ticker": "DASTY",
-  "fetchedAt": "2026-11-02T12:52:43.880997Z",
+  "fetchedAt": "2026-11-09T13:08:11.583087Z",
   "people": [
     {
       "qid": "Q115735422",
@@ -46,8 +46,8 @@
         "birthPlace": "Brittany",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bernard%20Charl%C3%A8s%20Portrait.jpg",
         "occupations": [
-          "engineer",
-          "businessperson"
+          "businessperson",
+          "engineer"
         ],
         "education": [
           "Institut sup\u00e9rieur de m\u00e9canique de Paris",
@@ -99,10 +99,10 @@
         "birthPlace": "Chandigarh",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Soumitra%20Dutta%20-%20World%20Economic%20Forum%20on%20East%20Asia%202011.jpg",
         "occupations": [
-          "university teacher",
-          "business manager",
+          "academic",
           "computer scientist",
-          "academic"
+          "university teacher",
+          "business manager"
         ],
         "education": [
           "University of California, Berkeley"
@@ -129,9 +129,9 @@
         "birthPlace": "Dieuze",
         "image": null,
         "occupations": [
-          "biologist",
+          "physician",
           "researcher",
-          "physician"
+          "biologist"
         ],
         "education": [
           "\u00c9cole normale sup\u00e9rieure Paris-Saclay"
@@ -209,8 +209,8 @@
         "birthPlace": "Brittany",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bernard%20Charl%C3%A8s%20Portrait.jpg",
         "occupations": [
-          "engineer",
-          "businessperson"
+          "businessperson",
+          "engineer"
         ],
         "education": [
           "Institut sup\u00e9rieur de m\u00e9canique de Paris",
@@ -330,9 +330,9 @@
           "university teacher"
         ],
         "education": [
+          "Bocconi University",
           "University of Colorado Boulder",
-          "Polytechnic University of Milan",
-          "Bocconi University"
+          "Polytechnic University of Milan"
         ],
         "employers": [
           {
