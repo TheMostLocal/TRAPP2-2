@@ -17,21 +17,6 @@
   ],
   "employers": [
     {
-      "company": "Lonza Group",
-      "start": "2020-04-01",
-      "end": "2020-05-17"
-    },
-    {
-      "company": "GSK",
-      "start": "1988-01-01",
-      "end": "2017-01-01"
-    },
-    {
-      "company": "Qatar Foundation",
-      "start": "2009-01-01",
-      "end": "2020-01-01"
-    },
-    {
       "company": "University of Mons",
       "start": null,
       "end": null
@@ -45,6 +30,21 @@
       "company": "International AIDS Vaccine Initiative",
       "start": "2015-01-01",
       "end": "2017-01-01"
+    },
+    {
+      "company": "Lonza Group",
+      "start": "2020-04-01",
+      "end": "2020-05-17"
+    },
+    {
+      "company": "GSK",
+      "start": "1988-01-01",
+      "end": "2017-01-01"
+    },
+    {
+      "company": "Qatar Foundation",
+      "start": "2009-01-01",
+      "end": "2020-01-01"
     },
     {
       "company": "Intellia Therapeutics",
