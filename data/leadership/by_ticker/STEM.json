@@ -1,6 +1,6 @@
 {
   "ticker": "STEM",
-  "fetchedAt": "2026-11-09T16:12:04.764412Z",
+  "fetchedAt": "2026-11-16T15:42:07.241871Z",
   "people": [
     {
       "qid": "Q90461962",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "researcher",
-          "sociologist"
+          "sociologist",
+          "researcher"
         ],
         "education": [],
         "employers": [
