@@ -1,6 +1,6 @@
 {
   "ticker": "NOK",
-  "fetchedAt": "2026-11-09T16:12:04.752595Z",
+  "fetchedAt": "2026-11-16T15:42:07.238244Z",
   "people": [
     {
       "qid": "Q115735574",
@@ -40,10 +40,10 @@
         "birthPlace": "Tyrv\u00e4nt\u00f6",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fredrik%20Idestam.png",
         "occupations": [
-          "engineer",
-          "businessperson",
+          "mining engineer",
           "entrepreneur",
-          "mining engineer"
+          "engineer",
+          "businessperson"
         ],
         "education": [],
         "employers": [
