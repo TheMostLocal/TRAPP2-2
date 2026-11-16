@@ -1,6 +1,6 @@
 {
   "ticker": "BP",
-  "fetchedAt": "2026-11-09T13:08:11.573396Z",
+  "fetchedAt": "2026-11-16T12:59:48.729752Z",
   "people": [
     {
       "qid": "Q130611962",
@@ -18,6 +18,16 @@
         ],
         "education": [],
         "employers": [
+          {
+            "company": "BP",
+            "start": "2026-04-01",
+            "end": null
+          },
+          {
+            "company": "Woodside Energy",
+            "start": "2021-08-17",
+            "end": "2025-12-18"
+          },
           {
             "company": "BP",
             "start": "2025-12-01",
@@ -39,8 +49,8 @@
         "birthPlace": "Asker",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Helge%20Lund%2C%20CEO%20-%20StatoilHydro.jpg",
         "occupations": [
-          "chief executive officer",
-          "entrepreneur"
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "INSEAD",

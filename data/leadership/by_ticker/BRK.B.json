@@ -1,6 +1,6 @@
 {
   "ticker": "BRK.B",
-  "fetchedAt": "2026-11-09T13:08:11.575038Z",
+  "fetchedAt": "2026-11-16T12:59:48.730677Z",
   "people": [
     {
       "qid": "Q47168572",
@@ -14,9 +14,9 @@
         "birthPlace": "Edmonton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Greg%20Abel.jpg",
         "occupations": [
-          "business executive",
           "chartered accountant",
-          "investor"
+          "investor",
+          "business executive"
         ],
         "education": [
           "University of Alberta"
@@ -124,21 +124,21 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20at%20the%202015%20SelectUSA%20Investment%20Summit.jpg",
         "occupations": [
-          "entrepreneur",
           "broker-dealer",
-          "financier",
-          "investor",
           "chief executive officer",
           "shareholder",
+          "entrepreneur",
+          "financier",
+          "investor",
           "economist"
         ],
         "education": [
           "New York Institute of Finance",
           "Jackson-Reed High School",
           "University of Nebraska\u2013Lincoln",
-          "University of Pennsylvania",
           "The Wharton School",
-          "Columbia Business School"
+          "Columbia Business School",
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": [
@@ -191,9 +191,9 @@
         "birthPlace": "Edmonton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Greg%20Abel.jpg",
         "occupations": [
-          "business executive",
           "chartered accountant",
-          "investor"
+          "investor",
+          "business executive"
         ],
         "education": [
           "University of Alberta"
@@ -338,8 +338,8 @@
           "lawyer"
         ],
         "education": [
-          "University of Michigan Law School",
-          "University of Michigan"
+          "University of Michigan",
+          "University of Michigan Law School"
         ],
         "employers": [],
         "positions": [
@@ -364,12 +364,12 @@
         "birthPlace": "Birmingham",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20burke%20comcast%20coo.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
-          "Harvard Business School",
           "Colgate University",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [
@@ -410,10 +410,10 @@
           "investor"
         ],
         "education": [
-          "Omaha Central High School",
-          "University of Michigan College of Literature, Science, and the Arts",
           "California Institute of Technology",
-          "Harvard Law School"
+          "Harvard Law School",
+          "Omaha Central High School",
+          "University of Michigan College of Literature, Science, and the Arts"
         ],
         "employers": [
           {
@@ -450,11 +450,11 @@
         "birthPlace": "Mineola",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20Chenault.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer",
           "venture capitalist",
+          "entrepreneur",
+          "chief executive officer",
           "lawyer",
-          "entrepreneur"
+          "businessperson"
         ],
         "education": [
           "The Waldorf School of Garden City",
@@ -515,9 +515,9 @@
           "businessperson"
         ],
         "education": [
-          "Teachers College",
           "Trinity College",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Teachers College"
         ],
         "employers": [],
         "positions": [
@@ -582,9 +582,9 @@
           "businessperson"
         ],
         "education": [
+          "Harvard University",
           "Indian Institute of Technology Kharagpur",
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard Business School"
         ],
         "employers": [
           {

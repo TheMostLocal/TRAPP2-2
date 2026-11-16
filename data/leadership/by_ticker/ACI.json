@@ -1,6 +1,6 @@
 {
   "ticker": "ACI",
-  "fetchedAt": "2026-11-09T13:08:11.564290Z",
+  "fetchedAt": "2026-11-16T12:59:48.720108Z",
   "people": [
     {
       "qid": "Q114582658",
@@ -162,8 +162,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Columbia Business School"

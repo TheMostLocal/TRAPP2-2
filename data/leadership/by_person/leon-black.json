@@ -5,11 +5,11 @@
   "birthPlace": null,
   "image": null,
   "occupations": [
-    "financier",
-    "investor",
     "art collector",
     "investment banker",
-    "businessperson"
+    "businessperson",
+    "financier",
+    "investor"
   ],
   "education": [
     "Van High School",
