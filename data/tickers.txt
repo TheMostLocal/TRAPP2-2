@@ -213,7 +213,7 @@ PATH
 DUOL
 CHGG
 TDOC
-PARA
+PSKY       # z187: Paramount Skydance (Paramount Global merged into it, Aug 2025) - the old PARA symbol now belongs to Parabolic Technologies, a $0.10 micro-cap
 SONY
 UMG
 WMG
