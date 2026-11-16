@@ -1,6 +1,6 @@
 {
   "ticker": "IMAX",
-  "fetchedAt": "2026-11-09T13:54:40.523197Z",
+  "fetchedAt": "2026-11-16T13:41:54.651044Z",
   "people": [
     {
       "qid": "Q36395056",
@@ -37,11 +37,11 @@
         "image": null,
         "occupations": [
           "producer",
+          "director",
           "film producer",
           "inventor",
-          "screenwriter",
-          "director",
-          "film director"
+          "film director",
+          "screenwriter"
         ],
         "education": [
           "University of Manitoba"
