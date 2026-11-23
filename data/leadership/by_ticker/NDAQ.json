@@ -1,6 +1,6 @@
 {
   "ticker": "NDAQ",
-  "fetchedAt": "2026-11-16T15:42:07.237895Z",
+  "fetchedAt": "2026-11-23T18:02:57.885488Z",
   "people": [
     {
       "qid": "Q17003309",
@@ -24,7 +24,7 @@
         ],
         "employers": [
           {
-            "company": "Carlyle Group",
+            "company": "The Carlyle Group",
             "start": null,
             "end": null
           },
