@@ -1,6 +1,6 @@
 {
   "ticker": "BNTX",
-  "fetchedAt": "2026-11-16T12:59:48.728832Z",
+  "fetchedAt": "2026-11-23T14:52:26.661306Z",
   "people": [
     {
       "qid": "Q2505089",
@@ -15,14 +15,14 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ugur%20Sahin%20v1.jpg",
         "occupations": [
           "oncologist",
-          "immunologist",
           "academic",
           "chairperson of the executive board",
           "researcher",
+          "immunologist",
+          "physician",
           "university teacher",
           "entrepreneur",
-          "chief executive officer",
-          "physician"
+          "chief executive officer"
         ],
         "education": [
           "Erich Kastner Gymnasium"
@@ -70,9 +70,9 @@
           "immunologist",
           "academic",
           "board member",
-          "physician",
           "university teacher",
           "researcher",
+          "physician",
           "entrepreneur",
           "Privatdozent"
         ],
@@ -116,14 +116,14 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ugur%20Sahin%20v1.jpg",
         "occupations": [
           "oncologist",
-          "immunologist",
           "academic",
           "chairperson of the executive board",
           "researcher",
+          "immunologist",
+          "physician",
           "university teacher",
           "entrepreneur",
-          "chief executive officer",
-          "physician"
+          "chief executive officer"
         ],
         "education": [
           "Erich Kastner Gymnasium"
@@ -171,9 +171,9 @@
           "immunologist",
           "academic",
           "board member",
-          "physician",
           "university teacher",
           "researcher",
+          "physician",
           "entrepreneur",
           "Privatdozent"
         ],
@@ -217,14 +217,14 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ugur%20Sahin%20v1.jpg",
         "occupations": [
           "oncologist",
-          "immunologist",
           "academic",
           "chairperson of the executive board",
           "researcher",
+          "immunologist",
+          "physician",
           "university teacher",
           "entrepreneur",
-          "chief executive officer",
-          "physician"
+          "chief executive officer"
         ],
         "education": [
           "Erich Kastner Gymnasium"

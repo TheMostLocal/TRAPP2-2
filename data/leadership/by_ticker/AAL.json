@@ -1,6 +1,6 @@
 {
   "ticker": "AAL",
-  "fetchedAt": "2026-11-16T12:59:48.719780Z",
+  "fetchedAt": "2026-11-23T14:52:26.654213Z",
   "people": [
     {
       "qid": "Q12326818",
@@ -55,8 +55,8 @@
         "birthPlace": "Hirtshals",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Espersen%202009.png",
         "occupations": [
-          "politician",
           "director",
+          "politician",
           "diplomat"
         ],
         "education": [

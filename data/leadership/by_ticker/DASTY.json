@@ -1,6 +1,6 @@
 {
   "ticker": "DASTY",
-  "fetchedAt": "2026-11-16T12:59:48.739473Z",
+  "fetchedAt": "2026-11-23T14:52:26.669552Z",
   "people": [
     {
       "qid": "Q115735422",
@@ -330,9 +330,9 @@
           "university teacher"
         ],
         "education": [
-          "Bocconi University",
           "University of Colorado Boulder",
-          "Polytechnic University of Milan"
+          "Polytechnic University of Milan",
+          "Bocconi University"
         ],
         "employers": [
           {

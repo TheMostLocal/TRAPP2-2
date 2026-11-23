@@ -1,6 +1,6 @@
 {
   "ticker": "APO",
-  "fetchedAt": "2026-11-16T12:59:48.723973Z",
+  "fetchedAt": "2026-11-23T14:52:26.657436Z",
   "people": [
     {
       "qid": "Q16194777",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "entrepreneur"
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "John F. Kennedy High School",
@@ -57,9 +57,9 @@
         "occupations": [
           "art collector",
           "investment banker",
-          "businessperson",
+          "investor",
           "financier",
-          "investor"
+          "businessperson"
         ],
         "education": [
           "Van High School",
@@ -114,8 +114,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "entrepreneur"
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "John F. Kennedy High School",
@@ -155,14 +155,14 @@
         "birthPlace": "Washington, D.C.",
         "image": null,
         "occupations": [
-          "investment banker",
           "financier",
-          "businessperson"
+          "businessperson",
+          "investment banker"
         ],
         "education": [
-          "Columbia University",
           "Columbia Business School",
-          "Walsh School of Foreign Service"
+          "Walsh School of Foreign Service",
+          "Columbia University"
         ],
         "employers": [
           {
@@ -191,13 +191,14 @@
         "birthPlace": "Chevy Chase",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Josh%20Harris%20WAS-NYG%20NOV2023%20%28cropped%29.jpg",
         "occupations": [
-          "sports team owner",
-          "investor"
+          "investor",
+          "economist",
+          "sports team owner"
         ],
         "education": [
-          "The Field School",
           "The Wharton School",
-          "Harvard Business School"
+          "Harvard Business School",
+          "The Field School"
         ],
         "employers": [
           {
@@ -238,9 +239,9 @@
         "occupations": [
           "art collector",
           "investment banker",
-          "businessperson",
+          "investor",
           "financier",
-          "investor"
+          "businessperson"
         ],
         "education": [
           "Van High School",

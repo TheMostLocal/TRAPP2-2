@@ -1,6 +1,6 @@
 {
   "ticker": "BMWYY",
-  "fetchedAt": "2026-11-16T12:59:48.728488Z",
+  "fetchedAt": "2026-11-23T14:52:26.660947Z",
   "people": [
     {
       "qid": "Q20243418",
@@ -14,8 +14,8 @@
         "birthPlace": "Heidelberg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Oliver%20Zipse%20%282018%29.jpg",
         "occupations": [
-          "manager",
-          "engineer"
+          "engineer",
+          "manager"
         ],
         "education": [
           "Technical University of Darmstadt",
@@ -43,6 +43,7 @@
         "birthPlace": "Penzberg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Norbert%20Reithofer%20%26%20Mark%20Rutte.jpg",
         "occupations": [
+          "engineer",
           "entrepreneur"
         ],
         "education": [
@@ -50,7 +51,14 @@
           "Technical University of Munich"
         ],
         "employers": [],
-        "positions": []
+        "positions": [
+          {
+            "title": "chairperson of the executive board",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
       }
     },
     {
@@ -85,14 +93,14 @@
         "birthPlace": "F\u00fcrstenwalde",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Helmut%20Panke.jpg",
         "occupations": [
-          "manager",
           "chairperson of the executive board",
+          "manager",
           "physicist"
         ],
         "education": [
-          "Phillips Exeter Academy",
           "Klenze-Gymnasium Munich",
-          "LMU Munich"
+          "LMU Munich",
+          "Phillips Exeter Academy"
         ],
         "employers": [
           {
@@ -131,7 +139,14 @@
             "end": null
           }
         ],
-        "positions": []
+        "positions": [
+          {
+            "title": "director general",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
       }
     }
   ]

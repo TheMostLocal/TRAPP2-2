@@ -1,6 +1,6 @@
 {
   "ticker": "BRK.B",
-  "fetchedAt": "2026-11-16T12:59:48.730677Z",
+  "fetchedAt": "2026-11-23T14:52:26.662824Z",
   "people": [
     {
       "qid": "Q47168572",
@@ -127,10 +127,10 @@
           "broker-dealer",
           "chief executive officer",
           "shareholder",
-          "entrepreneur",
           "financier",
           "investor",
-          "economist"
+          "economist",
+          "entrepreneur"
         ],
         "education": [
           "New York Institute of Finance",
@@ -364,8 +364,8 @@
         "birthPlace": "Birmingham",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20burke%20comcast%20coo.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Colgate University",
@@ -410,9 +410,9 @@
           "investor"
         ],
         "education": [
+          "Omaha Central High School",
           "California Institute of Technology",
           "Harvard Law School",
-          "Omaha Central High School",
           "University of Michigan College of Literature, Science, and the Arts"
         ],
         "employers": [
@@ -451,10 +451,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20Chenault.jpg",
         "occupations": [
           "venture capitalist",
-          "entrepreneur",
           "chief executive officer",
-          "lawyer",
-          "businessperson"
+          "entrepreneur",
+          "businessperson",
+          "lawyer"
         ],
         "education": [
           "The Waldorf School of Garden City",
@@ -582,9 +582,9 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
           "Indian Institute of Technology Kharagpur",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [
           {
