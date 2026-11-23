@@ -1,6 +1,6 @@
 {
   "ticker": "GSK",
-  "fetchedAt": "2026-11-16T12:59:48.745609Z",
+  "fetchedAt": "2026-11-23T14:52:26.674128Z",
   "people": [
     {
       "qid": "Q27058352",
@@ -18,8 +18,8 @@
           "executive"
         ],
         "education": [
-          "University of Oxford",
-          "St Swithun's School"
+          "St Swithun's School",
+          "University of Oxford"
         ],
         "employers": [
           {
@@ -76,8 +76,8 @@
         "birthPlace": "United Kingdom",
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "banker"
+          "banker",
+          "entrepreneur"
         ],
         "education": [
           "INSEAD",

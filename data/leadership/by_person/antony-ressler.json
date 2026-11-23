@@ -5,14 +5,14 @@
   "birthPlace": "Washington, D.C.",
   "image": null,
   "occupations": [
-    "investment banker",
     "financier",
-    "businessperson"
+    "businessperson",
+    "investment banker"
   ],
   "education": [
-    "Columbia University",
     "Columbia Business School",
-    "Walsh School of Foreign Service"
+    "Walsh School of Foreign Service",
+    "Columbia University"
   ],
   "employers": [
     {
