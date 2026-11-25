@@ -71,7 +71,7 @@
     },
     "valuation": {
       "spy_pe": 22.25,
-      "earnings_yield": 0.0449,
+      "earnings_yield": 0.045,
       "real_10y": 0.0084,
       "fed_model_spread": 0.0366
     },
@@ -100,6 +100,6 @@
       "n_components": 3
     }
   },
-  "computed_at": "2026-11-25T15:50:07+00:00",
+  "computed_at": "2026-11-25T16:05:06+00:00",
   "inputs_complete": true
 }
